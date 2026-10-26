@@ -1,0 +1,19 @@
+# Ficheros de los juegos: cada uno usa los de su propia copia
+gamedata/
+
+# Python
+.venv*/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+
+# Datos de terceros que no se redistribuyen (opcionales: el motor funciona sin ellos)
+engine/houdini_engine/refdata/pcf2001_calendario.json
+engine/houdini_engine/refdata/pcf2000_fdi_tactics.json
+referencias/

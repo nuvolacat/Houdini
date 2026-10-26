@@ -1,0 +1,1856 @@
+[
+  {
+    "pointer": 1,
+    "name": "Albania",
+    "name_de": "Albanien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 2,
+    "name": "Alemania",
+    "name_de": "Deutschland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 3,
+    "name": "Argentina",
+    "name_de": "Argentinien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 4,
+    "name": "Australia",
+    "name_de": "Australien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 5,
+    "name": "Austria",
+    "name_de": "Österreich",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 6,
+    "name": "Azerbaiyán",
+    "name_de": "Aserbaidschan",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 7,
+    "name": "Bielorusia",
+    "name_de": "Weißrussland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 8,
+    "name": "Bolivia",
+    "name_de": "Bolivien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 9,
+    "name": "Bosnia",
+    "name_de": "Bosnien-Herzegowina",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 10,
+    "name": "Brasil",
+    "name_de": "Brasilien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 11,
+    "name": "Bulgaria",
+    "name_de": "Bulgarien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 12,
+    "name": "Bélgica",
+    "name_de": "Belgien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 13,
+    "name": "Camerún",
+    "name_de": "Kamerun",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 14,
+    "name": "Chile",
+    "name_de": "Chile",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 15,
+    "name": "Chipre",
+    "name_de": "Zypern",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 16,
+    "name": "Colombia",
+    "name_de": "Kolumbien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 17,
+    "name": "Croacia",
+    "name_de": "Kroatien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 18,
+    "name": "Dinamarca",
+    "name_de": "Dänemark",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 19,
+    "name": "Escocia",
+    "name_de": "Schottland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 20,
+    "name": "Eslovaquia",
+    "name_de": "Slowakei",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 21,
+    "name": "Eslovenia",
+    "name_de": "Slowenien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 22,
+    "name": "España",
+    "name_de": "Spanien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 23,
+    "name": "Finlandia",
+    "name_de": "Finnland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 24,
+    "name": "Francia",
+    "name_de": "Frankreich",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 25,
+    "name": "Ghana",
+    "name_de": "Ghana",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 26,
+    "name": "Grecia",
+    "name_de": "Griechenland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 27,
+    "name": "Holanda",
+    "name_de": "Niederlande",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 28,
+    "name": "Honduras",
+    "name_de": "Honduras",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 29,
+    "name": "Hungría",
+    "name_de": "Ungarn",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 30,
+    "name": "Inglaterra",
+    "name_de": "England",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 31,
+    "name": "Irlanda",
+    "name_de": "Irland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 32,
+    "name": "Irlanda del Norte",
+    "name_de": "Nordirland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 33,
+    "name": "Islandia",
+    "name_de": "Island",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 0
+  },
+  {
+    "pointer": 34,
+    "name": "Islas Feroe",
+    "name_de": "Färöer",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 35,
+    "name": "Israel",
+    "name_de": "Israel",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 36,
+    "name": "Italia",
+    "name_de": "Italien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 37,
+    "name": "Lituania",
+    "name_de": "Litauen",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 38,
+    "name": "Luxemburgo",
+    "name_de": "Luxemburg",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 39,
+    "name": "Macedonia",
+    "name_de": "Mazedonien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 40,
+    "name": "Malta",
+    "name_de": "Malta",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 41,
+    "name": "Marruecos",
+    "name_de": "Marokko",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 42,
+    "name": "Moldavia",
+    "name_de": "Moldawien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 43,
+    "name": "Nigeria",
+    "name_de": "Nigeria",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 44,
+    "name": "Noruega",
+    "name_de": "Norwegen",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 0
+  },
+  {
+    "pointer": 45,
+    "name": "País de Gales",
+    "name_de": "Wales",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 46,
+    "name": "Polonia",
+    "name_de": "Polen",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 47,
+    "name": "Portugal",
+    "name_de": "Portugal",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 1
+  },
+  {
+    "pointer": 48,
+    "name": "Rep. Checa",
+    "name_de": "Tschechien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 49,
+    "name": "Rumania",
+    "name_de": "Rumänien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 50,
+    "name": "Rusia",
+    "name_de": "Russland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 51,
+    "name": "Serbia",
+    "name_de": "Kosovo",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 52,
+    "name": "Sudáfrica",
+    "name_de": "Südafrika",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 53,
+    "name": "Suecia",
+    "name_de": "Schweden",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 6,
+    "eu": 1
+  },
+  {
+    "pointer": 54,
+    "name": "Suiza",
+    "name_de": "Schweiz",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 55,
+    "name": "Turquía",
+    "name_de": "Türkei",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 56,
+    "name": "Ucrania",
+    "name_de": "Ukraine",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 57,
+    "name": "Uruguay",
+    "name_de": "Uruguay",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 58,
+    "name": "Yugoslavia",
+    "name_de": "Serbien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 59,
+    "name": "Perú",
+    "name_de": "Peru",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 60,
+    "name": "Canadá",
+    "name_de": "Kanada",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 61,
+    "name": "USA",
+    "name_de": "Vereinigte Staaten",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 62,
+    "name": "Georgia",
+    "name_de": "Georgien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 63,
+    "name": "Costa Rica",
+    "name_de": "Costa Rica",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 64,
+    "name": "Paraguay",
+    "name_de": "Paraguay",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 65,
+    "name": "Japón",
+    "name_de": "Japan",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 66,
+    "name": "Argelia",
+    "name_de": "Algerien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 67,
+    "name": "Trinidad y Tobago",
+    "name_de": "Trinidad und Tobago",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 68,
+    "name": "Senegal",
+    "name_de": "Senegal",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 69,
+    "name": "Surinam",
+    "name_de": "Suriname",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 70,
+    "name": "Zambia",
+    "name_de": "Sambia",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 71,
+    "name": "Cabo Verde",
+    "name_de": "Kap Verde",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 72,
+    "name": "Venezuela",
+    "name_de": "Venezuela",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 73,
+    "name": "Rodesia",
+    "name_de": "Tunesien",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 74,
+    "name": "Singapur",
+    "name_de": "Tahiti",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 75,
+    "name": "Andorra",
+    "name_de": "Andorra",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 76,
+    "name": "Mozambique",
+    "name_de": "Mosambik",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 77,
+    "name": "Liechtenstein",
+    "name_de": "Liechtenstein",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 78,
+    "name": "Liberia",
+    "name_de": "Liberia",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 79,
+    "name": "Panamá",
+    "name_de": "Panama",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 80,
+    "name": "Rep. Dem. del Congo",
+    "name_de": "Kongo DR",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 81,
+    "name": "Tayikistán",
+    "name_de": "Tadschikistan",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 82,
+    "name": "Uzbekistán",
+    "name_de": "Usbekistan",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 83,
+    "name": "México",
+    "name_de": "Mexiko",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 84,
+    "name": "Guinea",
+    "name_de": "Guinea",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 85,
+    "name": "Angola",
+    "name_de": "Angola",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 86,
+    "name": "Zimbabwe",
+    "name_de": "Simbabwe",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 87,
+    "name": "Sierra Leona",
+    "name_de": "Sierra Leone",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 88,
+    "name": "Guadalupe",
+    "name_de": "Guadeloupe",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 89,
+    "name": "Ecuador",
+    "name_de": "Ecuador",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 90,
+    "name": "Estonia",
+    "name_de": "Estland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 91,
+    "name": "Guinea Bissau",
+    "name_de": "Guinea-Bissau",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 92,
+    "name": "Libia",
+    "name_de": "Südkorea",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 93,
+    "name": "Egipto",
+    "name_de": "Ägypten",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 94,
+    "name": "Jamaica",
+    "name_de": "Jamaika",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 95,
+    "name": "Nueva Caledonia",
+    "name_de": "Benin",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 96,
+    "name": "Bermudas",
+    "name_de": "Bermuda",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 97,
+    "name": "Nueva Zelanda",
+    "name_de": "Neuseeland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 98,
+    "name": "Guayana Francesa",
+    "name_de": "Französisch-Guayana",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 99,
+    "name": "San Vicente",
+    "name_de": "China",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 100,
+    "name": "Chad",
+    "name_de": "Tschad",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 101,
+    "name": "Togo",
+    "name_de": "Togo",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 102,
+    "name": "Guinea Conakry",
+    "name_de": "Guinea Conakry",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 103,
+    "name": "Tanzania",
+    "name_de": "Tansania",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 104,
+    "name": "Burkina Faso",
+    "name_de": "Burkina Faso",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 105,
+    "name": "Gambia",
+    "name_de": "Gambia",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 106,
+    "name": "Ruanda",
+    "name_de": "Ruanda",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 107,
+    "name": "Kenia",
+    "name_de": "Kenia",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 108,
+    "name": "Mauritania",
+    "name_de": "Mauretanien",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 109,
+    "name": "Mali",
+    "name_de": "Mali",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 110,
+    "name": "Uganda",
+    "name_de": "Uganda",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 111,
+    "name": "República del Congo",
+    "name_de": "Kongo",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 112,
+    "name": "Letonia",
+    "name_de": "Lettland",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 113,
+    "name": "Costa de Marfil",
+    "name_de": "Elfenbeinküste",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 114,
+    "name": "Armenia",
+    "name_de": "Armenien",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 115,
+    "name": "Nicaragua",
+    "name_de": "Turkmenistan",
+    "in_pcf5": 1,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 116,
+    "name": "Cataluña",
+    "name_de": "Montenegro",
+    "in_pcf5": 1,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 117,
+    "name": "Níger",
+    "name_de": "Niger",
+    "in_pcf5": 1,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 118,
+    "name": "Barbados",
+    "name_de": "Barbados",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 119,
+    "name": "Irán",
+    "name_de": "Iran",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 120,
+    "name": "Qatar",
+    "name_de": "Katar",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 121,
+    "name": "Túnez",
+    "name_de": "Rhodesien",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 122,
+    "name": "Gabón",
+    "name_de": "Gabun",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 123,
+    "name": "Tahití",
+    "name_de": "Singapur",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 124,
+    "name": "Islas Mauricio",
+    "name_de": "Mauritius",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 125,
+    "name": "Madagascar",
+    "name_de": "Madagaskar",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 126,
+    "name": "Martinica",
+    "name_de": "Martinique",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 127,
+    "name": "Vietnam",
+    "name_de": "Vietnam",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 128,
+    "name": "Haití",
+    "name_de": "Haiti",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 129,
+    "name": "Antigua y Barbuda",
+    "name_de": "Antigua und Barbuda",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 130,
+    "name": "Bahrein",
+    "name_de": "Bahrain",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 131,
+    "name": "Bangladesh",
+    "name_de": "Bangladesch",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 132,
+    "name": "Belize",
+    "name_de": "Belize",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 133,
+    "name": "Benin",
+    "name_de": "Neukaledonien",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 134,
+    "name": "Bhutan",
+    "name_de": "Bhutan",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 135,
+    "name": "Botswana",
+    "name_de": "Botswana",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 136,
+    "name": "Brunei",
+    "name_de": "Brunei",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 137,
+    "name": "Burundi",
+    "name_de": "Burundi",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 138,
+    "name": "Camboya",
+    "name_de": "Kambodscha",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 139,
+    "name": "Republica Centro",
+    "name_de": "Zentralafrikanische Republik",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 140,
+    "name": "China",
+    "name_de": "St. Vincent und die Grenadinen",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 141,
+    "name": "Comoros",
+    "name_de": "Komoren",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 142,
+    "name": "Yemen",
+    "name_de": "Jemen",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 143,
+    "name": "Cuba",
+    "name_de": "Kuba",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 144,
+    "name": "Yibuti",
+    "name_de": "Dschibuti",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 145,
+    "name": "Dominica",
+    "name_de": "Dominica",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 146,
+    "name": "Republica Dominicana",
+    "name_de": "Dominikanische Republik",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 147,
+    "name": "El Salvador",
+    "name_de": "El Salvador",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 148,
+    "name": "Guinea Ecuatoriana",
+    "name_de": "Äquatorialguinea",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 149,
+    "name": "Eritrea",
+    "name_de": "Eritrea",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 150,
+    "name": "Etiopia",
+    "name_de": "Äthiopien",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 151,
+    "name": "E.F. de Micronesia",
+    "name_de": "Mikronesien",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 152,
+    "name": "Fiji",
+    "name_de": "Fidschi",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 153,
+    "name": "Granada",
+    "name_de": "Grenada",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 154,
+    "name": "Guatemala",
+    "name_de": "Guatemala",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 155,
+    "name": "Afganistán",
+    "name_de": "Afghanistan",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 156,
+    "name": "India",
+    "name_de": "Indien",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 157,
+    "name": "Indonesia",
+    "name_de": "Indonesien",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 158,
+    "name": "Irak",
+    "name_de": "Irak",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 159,
+    "name": "Jordania",
+    "name_de": "Jordanien",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 160,
+    "name": "Kazakhstan",
+    "name_de": "Kasachstan",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 161,
+    "name": "Kiribati",
+    "name_de": "Kiribati",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 162,
+    "name": "Kuwait",
+    "name_de": "Kuwait",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 163,
+    "name": "Kirguizistán",
+    "name_de": "Kirgisistan",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 164,
+    "name": "Laos",
+    "name_de": "Laos",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 165,
+    "name": "Ciudad Vaticano",
+    "name_de": "Vatikanstadt",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 166,
+    "name": "Líbano",
+    "name_de": "Libanon",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 167,
+    "name": "Lesotho",
+    "name_de": "Lesotho",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 168,
+    "name": "Malawi",
+    "name_de": "Malawi",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 169,
+    "name": "Malasia",
+    "name_de": "Malaysia",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 170,
+    "name": "Maldivas",
+    "name_de": "Malediven",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 171,
+    "name": "Islas Marshall",
+    "name_de": "Marshallinseln",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 172,
+    "name": "Mónaco",
+    "name_de": "Monaco",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 173,
+    "name": "Mongolia",
+    "name_de": "Mongolei",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 174,
+    "name": "Myanmar",
+    "name_de": "Myanmar",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 175,
+    "name": "Namibia",
+    "name_de": "Namibia",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 176,
+    "name": "Nauru",
+    "name_de": "Nauru",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 177,
+    "name": "Nepal",
+    "name_de": "Nepal",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 178,
+    "name": "Corea Del Norte",
+    "name_de": "Nordkorea",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 179,
+    "name": "Omán",
+    "name_de": "Oman",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 180,
+    "name": "Pakistán",
+    "name_de": "Pakistan",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 181,
+    "name": "Palau",
+    "name_de": "Palau",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 182,
+    "name": "Papua Nueva Guinea",
+    "name_de": "Papua Neu-Guinea",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 183,
+    "name": "Filipinas",
+    "name_de": "Philippinen",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 184,
+    "name": "Saint Kitts and Nevis",
+    "name_de": "St. Kitts und Nevis",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 185,
+    "name": "Santa Lucia",
+    "name_de": "St. Lucia",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 186,
+    "name": "Samoa",
+    "name_de": "Samoa",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 187,
+    "name": "San Marino",
+    "name_de": "San Marino",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 188,
+    "name": "Santo Tome y Príncipe",
+    "name_de": "Sao Tome und Principe",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 189,
+    "name": "Arabia Saudí",
+    "name_de": "Saudi Arabien",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 190,
+    "name": "Seychelles",
+    "name_de": "Seychellen",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 191,
+    "name": "Islas Salomón",
+    "name_de": "Salomon-Inseln",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 192,
+    "name": "Somalia",
+    "name_de": "Somalia",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 193,
+    "name": "Corea Del Sur",
+    "name_de": "Libyen",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 194,
+    "name": "Sri Lanka",
+    "name_de": "Sri Lanka",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 195,
+    "name": "Sudan",
+    "name_de": "Sudan",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 196,
+    "name": "Suazilandia",
+    "name_de": "Swasiland",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 197,
+    "name": "Siria",
+    "name_de": "Syrien",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 198,
+    "name": "Taiwán",
+    "name_de": "Chinese Taipei (Taiwan)",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 199,
+    "name": "Tailandia",
+    "name_de": "Thailand",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 200,
+    "name": "Bahamas",
+    "name_de": "Bahamas",
+    "in_pcf5": 0,
+    "skin": 2,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 201,
+    "name": "Tonga",
+    "name_de": "Tonga",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 202,
+    "name": "Turkmenistan",
+    "name_de": "Nicaragua",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 203,
+    "name": "Tuvalu",
+    "name_de": "Tuvalu",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 204,
+    "name": "Emiratos Árabes",
+    "name_de": "Vereinigte Arabische Emirate",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 205,
+    "name": "Reino Unido",
+    "name_de": "Britische Jungferninseln",
+    "in_pcf5": 0,
+    "skin": 1,
+    "hair": 3,
+    "eu": 0
+  },
+  {
+    "pointer": 206,
+    "name": "Vanuatu",
+    "name_de": "Vanuatu",
+    "in_pcf5": 0,
+    "skin": 3,
+    "hair": 3,
+    "eu": 0
+  }
+]

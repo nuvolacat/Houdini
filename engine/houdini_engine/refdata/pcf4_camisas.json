@@ -1,0 +1,332 @@
+{
+ "950001": {
+  "nombre": "Fútbol Club Barcelona",
+  "claves": [
+   "barcelona",
+   "futbol barcelona"
+  ]
+ },
+ "950002": {
+  "nombre": "Real Club Deportivo de la Coruña S.A.D.",
+  "claves": [
+   "depor",
+   "deportivo",
+   "deportivo la coruna",
+   "real deportivo la coruna"
+  ]
+ },
+ "950003": {
+  "nombre": "Real Zaragoza Club Deportivo S.A.D.",
+  "claves": [
+   "real zaragoza",
+   "real zaragoza deportivo",
+   "zaragoza"
+  ]
+ },
+ "950004": {
+  "nombre": "Real Madrid Club de Fútbol",
+  "claves": [
+   "real madrid",
+   "real madrid futbol"
+  ]
+ },
+ "950005": {
+  "nombre": "Athletic Club de Bilbao",
+  "claves": [
+   "athletic",
+   "athletic bilbao"
+  ]
+ },
+ "950006": {
+  "nombre": "Sevilla Fútbol Club S.A.D.",
+  "claves": [
+   "sevilla",
+   "sevilla futbol"
+  ]
+ },
+ "950007": {
+  "nombre": "Valencia Club de Fútbol S.A.D.",
+  "claves": [
+   "valencia",
+   "valencia futbol"
+  ]
+ },
+ "950008": {
+  "nombre": "Real Racing Club de Santander S.A.D.",
+  "claves": [
+   "racing",
+   "racing santander",
+   "real racing",
+   "real racing santander"
+  ]
+ },
+ "950009": {
+  "nombre": "Real Oviedo Club de Fútbol S.A.D.",
+  "claves": [
+   "real oviedo",
+   "real oviedo futbol"
+  ]
+ },
+ "950010": {
+  "nombre": "Club Deportivo Tenerife S.A.D.",
+  "claves": [
+   "deportivo tenerife",
+   "tenerife"
+  ]
+ },
+ "950011": {
+  "nombre": "Real Sociedad de Fútbol S.A.D.",
+  "claves": [
+   "real sociedad",
+   "real sociedad futbol"
+  ]
+ },
+ "950012": {
+  "nombre": "Club Atlético de Madrid S.A.D.",
+  "claves": [
+   "at madrid",
+   "atl madrid",
+   "atletico madrid"
+  ]
+ },
+ "950013": {
+  "nombre": "Albacete Balompié S.A.D.",
+  "claves": [
+   "albacete",
+   "albacete balompie"
+  ]
+ },
+ "950014": {
+  "nombre": "Real Sporting de Gijón S.A.D.",
+  "claves": [
+   "real sporting",
+   "real sporting gijon",
+   "sporting",
+   "sporting gijon"
+  ]
+ },
+ "950015": {
+  "nombre": "Real Club Celta de Vigo S.A.D.",
+  "claves": [
+   "celta",
+   "celta vigo",
+   "real celta vigo"
+  ]
+ },
+ "950016": {
+  "nombre": "Club Deportivo Logroñés S.A.D.",
+  "claves": [
+   "deportivo logrones",
+   "logrones"
+  ]
+ },
+ "950017": {
+  "nombre": "Real Valladolid Deportivo S.A.D.",
+  "claves": [
+   "real valladolid",
+   "real valladolid deportivo",
+   "valladolid"
+  ]
+ },
+ "950018": {
+  "nombre": "R.C.D. Espanyol de Barcelona S.A.D.",
+  "claves": [
+   "espanyol",
+   "espanyol barcelona",
+   "rcd espanyol"
+  ]
+ },
+ "950019": {
+  "nombre": "Real Betis Balompié S.A.D.",
+  "claves": [
+   "betis",
+   "real betis",
+   "real betis balompie"
+  ]
+ },
+ "950020": {
+  "nombre": "Sociedad Deportiva Compostela S.A.D.",
+  "claves": [
+   "compostela",
+   "sociedad deportiva compostela"
+  ]
+ },
+ "950021": {
+  "nombre": "Rayo Vallecano de Madrid, S.A.D.",
+  "claves": [
+   "rayo",
+   "rayo vallecano",
+   "rayo vallecano madrid"
+  ]
+ },
+ "950022": {
+  "nombre": "Unió Esportiva Lleida, S.A.D.",
+  "claves": [
+   "lleida",
+   "lleida esportiu",
+   "ue lleida",
+   "unio esportiva lleida"
+  ]
+ },
+ "950023": {
+  "nombre": "Club Atlético Osasuna",
+  "claves": [
+   "atletico osasuna",
+   "ca osasuna",
+   "osasuna"
+  ]
+ },
+ "950024": {
+  "nombre": "Club Deportivo Toledo, S.A.D.",
+  "claves": [
+   "deportivo toledo",
+   "toledo"
+  ]
+ },
+ "950025": {
+  "nombre": "Real Club Deportivo Mallorca, S.A.D.",
+  "claves": [
+   "mallorca",
+   "rcd mallorca",
+   "real deportivo mallorca"
+  ]
+ },
+ "950026": {
+  "nombre": "Real Madrid Club de Fútbol B",
+  "claves": [
+   "real madrid b",
+   "real madrid castilla",
+   "real madrid futbol b"
+  ]
+ },
+ "950027": {
+  "nombre": "Hércules Club de Fútbol, S.A.D.",
+  "claves": [
+   "hercules",
+   "hercules futbol"
+  ]
+ },
+ "950028": {
+  "nombre": "Fútbol Club Barcelona B",
+  "claves": [
+   "barca atletic",
+   "barcelona atletic",
+   "barcelona b",
+   "futbol barcelona b"
+  ]
+ },
+ "950029": {
+  "nombre": "Club Polideportivo Mérida, S.A.D.",
+  "claves": [
+   "cp merida",
+   "merida",
+   "polideportivo merida"
+  ]
+ },
+ "950030": {
+  "nombre": "Sociedad Deportiva Eibar S.A.D.",
+  "claves": [
+   "eibar",
+   "sociedad deportiva eibar"
+  ]
+ },
+ "950031": {
+  "nombre": "Club Deportivo Badajoz, S.A.D.",
+  "claves": [
+   "badajoz",
+   "deportivo badajoz"
+  ]
+ },
+ "950032": {
+  "nombre": "Club Atlético Marbella, S.A.D.",
+  "claves": [
+   "atletico marbella",
+   "marbella"
+  ]
+ },
+ "950033": {
+  "nombre": "Palamós C.F.",
+  "claves": [
+   "palamos"
+  ]
+ },
+ "950034": {
+  "nombre": "Athletic Club de Bilbao B",
+  "claves": [
+   "athletic b",
+   "athletic bilbao b",
+   "bilbao athletic"
+  ]
+ },
+ "950035": {
+  "nombre": "Club Deportivo Leganés, S.A.D.",
+  "claves": [
+   "deportivo leganes",
+   "leganes"
+  ]
+ },
+ "950036": {
+  "nombre": "Villarreal Club de Fútbol, S.A.D.",
+  "claves": [
+   "villarreal",
+   "villarreal futbol"
+  ]
+ },
+ "950037": {
+  "nombre": "Getafe Club de Fútbol, S.A.D.",
+  "claves": [
+   "getafe",
+   "getafe futbol"
+  ]
+ },
+ "950038": {
+  "nombre": "Unión Deportiva Salamanca, S.A.D.",
+  "claves": [
+   "salamanca",
+   "union deportiva salamanca"
+  ]
+ },
+ "950039": {
+  "nombre": "C.D.Orense",
+  "claves": [
+   "orense",
+   "ourense"
+  ]
+ },
+ "950040": {
+  "nombre": "Club de Fútbol Extremadura, S.A.D.",
+  "claves": [
+   "extremadura",
+   "futbol extremadura"
+  ]
+ },
+ "950048": {
+  "nombre": "Club Deportivo Alavés",
+  "claves": [
+   "alaves",
+   "deportivo alaves"
+  ]
+ },
+ "950049": {
+  "nombre": "Sestao Sport Club",
+  "claves": [
+   "sestao",
+   "sestao river",
+   "sestao sport"
+  ]
+ },
+ "950050": {
+  "nombre": "Almería Club de Fútbol",
+  "claves": [
+   "almeria",
+   "almeria futbol"
+  ]
+ },
+ "950051": {
+  "nombre": "Ecija Balompié",
+  "claves": [
+   "ecija",
+   "ecija balompie"
+  ]
+ }
+}

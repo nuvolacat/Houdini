@@ -1,0 +1,42 @@
+{
+  "titulo": "PCFPLUS · Formatos de PCF",
+  "lema": "Todo lo que sabemos sobre los ficheros de los PCF clásicos, en un solo sitio.",
+  "secciones": [
+    {
+      "id": "empezar",
+      "titulo": "Para empezar",
+      "intro": "Qué es cada fichero, cómo están hechos por dentro y qué hay que respetar para no romperlos.",
+      "paginas": [
+        "reglas-de-oro"
+      ]
+    },
+    {
+      "id": "v56",
+      "titulo": "PCF 5.0 y 6.0",
+      "intro": "La familia mejor conocida: el fichero de equipos, las fichas y los DBC.",
+      "paginas": [
+        "v56-que-hay",
+        "v56-primeros-pasos",
+        "v56-donde-esta-cada-cosa",
+        "v56-contenedor-pkf",
+        "v56-texto",
+        "v56-paleta",
+        "v56-bloque-equipo",
+        "v56-referencia",
+        "v56-ficha-jugador",
+        "v56-entrenador",
+        "v56-tablas",
+        "v56-dbc",
+        "v56-imagenes",
+        "v56-textos",
+        "v56-simulador",
+        "v56-otros-contenedores",
+        "v56-pantallas",
+        "v56-sonido",
+        "v56-manager-exe",
+        "v56-manager-offsets",
+        "v56-nombres-competiciones"
+      ]
+    }
+  ]
+}

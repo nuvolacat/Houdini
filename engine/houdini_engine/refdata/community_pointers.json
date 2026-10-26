@@ -1,0 +1,6762 @@
+[
+{
+"pointer": 1,
+"name": "Barcelona",
+"country": 22
+},
+{
+"pointer": 2,
+"name": "Depor",
+"country": 22
+},
+{
+"pointer": 3,
+"name": "Zaragoza",
+"country": 22
+},
+{
+"pointer": 4,
+"name": "R. Madrid",
+"country": 22
+},
+{
+"pointer": 5,
+"name": "Athletic",
+"country": 22
+},
+{
+"pointer": 6,
+"name": "Sevilla",
+"country": 22
+},
+{
+"pointer": 7,
+"name": "Valencia",
+"country": 22
+},
+{
+"pointer": 8,
+"name": "Racing",
+"country": 22
+},
+{
+"pointer": 9,
+"name": "Oviedo",
+"country": 22
+},
+{
+"pointer": 10,
+"name": "Tenerife",
+"country": 22
+},
+{
+"pointer": 11,
+"name": "R. Sociedad",
+"country": 22
+},
+{
+"pointer": 12,
+"name": "At. Madrid",
+"country": 22
+},
+{
+"pointer": 13,
+"name": "Albacete",
+"country": 22
+},
+{
+"pointer": 14,
+"name": "Sporting",
+"country": 22
+},
+{
+"pointer": 15,
+"name": "Celta",
+"country": 22
+},
+{
+"pointer": 16,
+"name": "Logroñés",
+"country": 22
+},
+{
+"pointer": 17,
+"name": "Valladolid",
+"country": 22
+},
+{
+"pointer": 18,
+"name": "Espanyol",
+"country": 22
+},
+{
+"pointer": 19,
+"name": "Betis",
+"country": 22
+},
+{
+"pointer": 20,
+"name": "Compostela",
+"country": 22
+},
+{
+"pointer": 21,
+"name": "Rayo",
+"country": 22
+},
+{
+"pointer": 22,
+"name": "Lleida",
+"country": 22
+},
+{
+"pointer": 23,
+"name": "Osasuna",
+"country": 22
+},
+{
+"pointer": 24,
+"name": "Toledo",
+"country": 22
+},
+{
+"pointer": 25,
+"name": "Mallorca",
+"country": 22
+},
+{
+"pointer": 26,
+"name": "R. Madrid B",
+"country": 22
+},
+{
+"pointer": 27,
+"name": "Hércules",
+"country": 22
+},
+{
+"pointer": 28,
+"name": "Barcelona B",
+"country": 22
+},
+{
+"pointer": 29,
+"name": "Mérida",
+"country": 22
+},
+{
+"pointer": 30,
+"name": "Eibar",
+"country": 22
+},
+{
+"pointer": 31,
+"name": "Badajoz",
+"country": 22
+},
+{
+"pointer": 32,
+"name": "Marbella",
+"country": 22
+},
+{
+"pointer": 33,
+"name": "Palamós",
+"country": 22
+},
+{
+"pointer": 34,
+"name": "Athletic B",
+"country": 22
+},
+{
+"pointer": 35,
+"name": "Leganés",
+"country": 22
+},
+{
+"pointer": 36,
+"name": "Villarreal",
+"country": 22
+},
+{
+"pointer": 37,
+"name": "Getafe",
+"country": 22
+},
+{
+"pointer": 38,
+"name": "Salamaca",
+"country": 22
+},
+{
+"pointer": 39,
+"name": "Orense",
+"country": 22
+},
+{
+"pointer": 40,
+"name": "Extremadura",
+"country": 22
+},
+{
+"pointer": 41,
+"name": "Ferrol",
+"country": 22
+},
+{
+"pointer": 42,
+"name": "Mensajero",
+"country": 22
+},
+{
+"pointer": 43,
+"name": "Las Palmas",
+"country": 22
+},
+{
+"pointer": 44,
+"name": "Pontevedra",
+"country": 22
+},
+{
+"pointer": 45,
+"name": "Langreo",
+"country": 22
+},
+{
+"pointer": 46,
+"name": "Moscardó",
+"country": 22
+},
+{
+"pointer": 47,
+"name": "S. Sebastián de los Reyes",
+"country": 22
+},
+{
+"pointer": 48,
+"name": "Alavés",
+"country": 22
+},
+{
+"pointer": 49,
+"name": "Sestao",
+"country": 22
+},
+{
+"pointer": 50,
+"name": "Almería",
+"country": 22
+},
+{
+"pointer": 51,
+"name": "Écija",
+"country": 22
+},
+{
+"pointer": 52,
+"name": "Numancia",
+"country": 22
+},
+{
+"pointer": 53,
+"name": "Avilés",
+"country": 22
+},
+{
+"pointer": 54,
+"name": "Beasaín",
+"country": 22
+},
+{
+"pointer": 55,
+"name": "Levante",
+"country": 22
+},
+{
+"pointer": 56,
+"name": "Lugo",
+"country": 22
+},
+{
+"pointer": 57,
+"name": "Real Unión",
+"country": 22
+},
+{
+"pointer": 58,
+"name": "Izarra",
+"country": 22
+},
+{
+"pointer": 59,
+"name": "Lemona",
+"country": 22
+},
+{
+"pointer": 60,
+"name": "Palencia",
+"country": 22
+},
+{
+"pointer": 61,
+"name": "Gramenet",
+"country": 22
+},
+{
+"pointer": 62,
+"name": "Castellón",
+"country": 22
+},
+{
+"pointer": 63,
+"name": "Manlleu",
+"country": 22
+},
+{
+"pointer": 64,
+"name": "Elche",
+"country": 22
+},
+{
+"pointer": 65,
+"name": "Andorra",
+"country": 22
+},
+{
+"pointer": 66,
+"name": "Alcoyano",
+"country": 22
+},
+{
+"pointer": 67,
+"name": "Córdoba",
+"country": 22
+},
+{
+"pointer": 68,
+"name": "Real Jaén",
+"country": 22
+},
+{
+"pointer": 69,
+"name": "Talavera",
+"country": 22
+},
+{
+"pointer": 70,
+"name": "Yeclano",
+"country": 22
+},
+{
+"pointer": 71,
+"name": "Xerez",
+"country": 22
+},
+{
+"pointer": 72,
+"name": "Cádiz",
+"country": 22
+},
+{
+"pointer": 73,
+"name": "Móstoles",
+"country": 22
+},
+{
+"pointer": 74,
+"name": "Aranjuez",
+"country": 22
+},
+{
+"pointer": 75,
+"name": "Amurrio",
+"country": 22
+},
+{
+"pointer": 76,
+"name": "Barakaldo",
+"country": 22
+},
+{
+"pointer": 77,
+"name": "Bermeo",
+"country": 22
+},
+{
+"pointer": 78,
+"name": "Tudelano",
+"country": 22
+},
+{
+"pointer": 79,
+"name": "Figueres",
+"country": 22
+},
+{
+"pointer": 80,
+"name": "Sabadell",
+"country": 22
+},
+{
+"pointer": 81,
+"name": "Hospitalet",
+"country": 22
+},
+{
+"pointer": 82,
+"name": "Terrassa",
+"country": 22
+},
+{
+"pointer": 83,
+"name": "Benidorm",
+"country": 22
+},
+{
+"pointer": 84,
+"name": "Melilla",
+"country": 22
+},
+{
+"pointer": 85,
+"name": "Granada",
+"country": 22
+},
+{
+"pointer": 86,
+"name": "Recreativo de Huelva",
+"country": 22
+},
+{
+"pointer": 87,
+"name": "Mármol Macael",
+"country": 22
+},
+{
+"pointer": 88,
+"name": "Cartagena",
+"country": 22
+},
+{
+"pointer": 89,
+"name": "Sant Andreu",
+"country": 22
+},
+{
+"pointer": 90,
+"name": "Casetas",
+"country": 22
+},
+{
+"pointer": 91,
+"name": "Fuenlabrada",
+"country": 22
+},
+{
+"pointer": 92,
+"name": "Nàstic",
+"country": 22
+},
+{
+"pointer": 93,
+"name": "Polideportivo Almería",
+"country": 22
+},
+{
+"pointer": 94,
+"name": "Ávila",
+"country": 22
+},
+{
+"pointer": 95,
+"name": "Manchego",
+"country": 22
+},
+{
+"pointer": 96,
+"name": "Cacereño",
+"country": 22
+},
+{
+"pointer": 97,
+"name": "San Roque",
+"country": 22
+},
+{
+"pointer": 98,
+"name": "R. Madrid C",
+"country": 22
+},
+{
+"pointer": 99,
+"name": "Depor B",
+"country": 22
+},
+{
+"pointer": 100,
+"name": "Mallorca B",
+"country": 22
+},
+{
+"pointer": 101,
+"name": "Marino",
+"country": 22
+},
+{
+"pointer": 102,
+"name": "Celta B",
+"country": 22
+},
+{
+"pointer": 103,
+"name": "Endesa As Pontes",
+"country": 22
+},
+{
+"pointer": 104,
+"name": "Oviedo B",
+"country": 22
+},
+{
+"pointer": 105,
+"name": "Carabanchel",
+"country": 22
+},
+{
+"pointer": 106,
+"name": "Sporting B",
+"country": 22
+},
+{
+"pointer": 107,
+"name": "Huesca",
+"country": 22
+},
+{
+"pointer": 108,
+"name": "Osasuna B",
+"country": 22
+},
+{
+"pointer": 109,
+"name": "Cultural Leonesa",
+"country": 22
+},
+{
+"pointer": 110,
+"name": "R. Sociedad B",
+"country": 22
+},
+{
+"pointer": 111,
+"name": "Aurrerá",
+"country": 22
+},
+{
+"pointer": 112,
+"name": "Logroñes B",
+"country": 22
+},
+{
+"pointer": 113,
+"name": "Zaragoza B",
+"country": 22
+},
+{
+"pointer": 114,
+"name": "Gernika",
+"country": 22
+},
+{
+"pointer": 115,
+"name": "Valladolid B",
+"country": 22
+},
+{
+"pointer": 116,
+"name": "Zalla",
+"country": 22
+},
+{
+"pointer": 117,
+"name": "G. Torrelavega",
+"country": 22
+},
+{
+"pointer": 118,
+"name": "Mar Menor",
+"country": 22
+},
+{
+"pointer": 119,
+"name": "Gandía",
+"country": 22
+},
+{
+"pointer": 120,
+"name": "Llíria",
+"country": 22
+},
+{
+"pointer": 121,
+"name": "Murcia",
+"country": 22
+},
+{
+"pointer": 122,
+"name": "Gavà",
+"country": 22
+},
+{
+"pointer": 123,
+"name": "Espanyol B",
+"country": 22
+},
+{
+"pointer": 124,
+"name": "Realejos",
+"country": 22
+},
+{
+"pointer": 125,
+"name": "Vélez",
+"country": 22
+},
+{
+"pointer": 126,
+"name": "Gáldar",
+"country": 22
+},
+{
+"pointer": 127,
+"name": "Polideportivo Ejido",
+"country": 22
+},
+{
+"pointer": 128,
+"name": "San Pedro",
+"country": 22
+},
+{
+"pointer": 129,
+"name": "Málaga",
+"country": 22
+},
+{
+"pointer": 130,
+"name": "Sevilla B",
+"country": 22
+},
+{
+"pointer": 131,
+"name": "Betis B",
+"country": 22
+},
+{
+"pointer": 132,
+"name": "Guadix",
+"country": 22
+},
+{
+"pointer": 133,
+"name": "Atlético B",
+"country": 22
+},
+{
+"pointer": 134,
+"name": "Zamudio",
+"country": 22
+},
+{
+"pointer": 135,
+"name": "Valencia B",
+"country": 22
+},
+{
+"pointer": 136,
+"name": "Torrejón",
+"country": 22
+},
+{
+"pointer": 137,
+"name": "RSD Alcalá",
+"country": 22
+},
+{
+"pointer": 138,
+"name": "Arandina",
+"country": 22
+},
+{
+"pointer": 139,
+"name": "Coria",
+"country": 22
+},
+{
+"pointer": 140,
+"name": "Elgoibar",
+"country": 22
+},
+{
+"pointer": 141,
+"name": "Burgos",
+"country": 22
+},
+{
+"pointer": 142,
+"name": "Leganés B",
+"country": 22
+},
+{
+"pointer": 143,
+"name": "Zamora",
+"country": 22
+},
+{
+"pointer": 144,
+"name": "Caudal",
+"country": 22
+},
+{
+"pointer": 145,
+"name": "Majadahonda",
+"country": 22
+},
+{
+"pointer": 146,
+"name": "Racing B",
+"country": 22
+},
+{
+"pointer": 147,
+"name": "Endesa Andorra",
+"country": 22
+},
+{
+"pointer": 148,
+"name": "Lorca",
+"country": 22
+},
+{
+"pointer": 149,
+"name": "Novelda",
+"country": 22
+},
+{
+"pointer": 150,
+"name": "Sóller",
+"country": 22
+},
+{
+"pointer": 151,
+"name": "Ontinyent",
+"country": 22
+},
+{
+"pointer": 152,
+"name": "Motril",
+"country": 22
+},
+{
+"pointer": 153,
+"name": "Plasencia",
+"country": 22
+},
+{
+"pointer": 154,
+"name": "Moralo",
+"country": 22
+},
+{
+"pointer": 155,
+"name": "Isla Cristina",
+"country": 22
+},
+{
+"pointer": 156,
+"name": "Playas Jandía",
+"country": 22
+},
+{
+"pointer": 201,
+"name": "Milan",
+"country": 36
+},
+{
+"pointer": 202,
+"name": "Juventus",
+"country": 36
+},
+{
+"pointer": 203,
+"name": "Sampdoria",
+"country": 36
+},
+{
+"pointer": 204,
+"name": "Lazio",
+"country": 36
+},
+{
+"pointer": 205,
+"name": "Parma",
+"country": 36
+},
+{
+"pointer": 206,
+"name": "Napoles",
+"country": 36
+},
+{
+"pointer": 207,
+"name": "Roma",
+"country": 36
+},
+{
+"pointer": 208,
+"name": "Torino",
+"country": 36
+},
+{
+"pointer": 209,
+"name": "Foggia",
+"country": 36
+},
+{
+"pointer": 210,
+"name": "Cremonese",
+"country": 36
+},
+{
+"pointer": 211,
+"name": "Genoa",
+"country": 36
+},
+{
+"pointer": 212,
+"name": "Cagliari",
+"country": 36
+},
+{
+"pointer": 213,
+"name": "Inter",
+"country": 36
+},
+{
+"pointer": 214,
+"name": "Reggiana",
+"country": 36
+},
+{
+"pointer": 215,
+"name": "Fiorentina",
+"country": 36
+},
+{
+"pointer": 216,
+"name": "Bari",
+"country": 36
+},
+{
+"pointer": 217,
+"name": "Brescia",
+"country": 36
+},
+{
+"pointer": 218,
+"name": "Padua",
+"country": 36
+},
+{
+"pointer": 219,
+"name": "Piacenza",
+"country": 36
+},
+{
+"pointer": 220,
+"name": "Udinese",
+"country": 36
+},
+{
+"pointer": 221,
+"name": "Vicenza",
+"country": 36
+},
+{
+"pointer": 222,
+"name": "Atalanta",
+"country": 36
+},
+{
+"pointer": 223,
+"name": "Salernitana",
+"country": 36
+},
+{
+"pointer": 224,
+"name": "Ancona",
+"country": 36
+},
+{
+"pointer": 225,
+"name": "Perugia",
+"country": 36
+},
+{
+"pointer": 226,
+"name": "Cesena",
+"country": 36
+},
+{
+"pointer": 227,
+"name": "Venecia",
+"country": 36
+},
+{
+"pointer": 228,
+"name": "Verona",
+"country": 36
+},
+{
+"pointer": 229,
+"name": "Pescara",
+"country": 36
+},
+{
+"pointer": 230,
+"name": "Fidelis Andria",
+"country": 36
+},
+{
+"pointer": 231,
+"name": "Chievo Verona",
+"country": 36
+},
+{
+"pointer": 232,
+"name": "Palermo",
+"country": 36
+},
+{
+"pointer": 233,
+"name": "Lucchese",
+"country": 36
+},
+{
+"pointer": 234,
+"name": "Cosenza",
+"country": 36
+},
+{
+"pointer": 235,
+"name": "Avelino",
+"country": 36
+},
+{
+"pointer": 236,
+"name": "Bolonia",
+"country": 36
+},
+{
+"pointer": 237,
+"name": "Pistoiese",
+"country": 36
+},
+{
+"pointer": 238,
+"name": "Reggina",
+"country": 36
+},
+{
+"pointer": 240,
+"name": "Trapani",
+"country": 36
+},
+{
+"pointer": 242,
+"name": "Como",
+"country": 36
+},
+{
+"pointer": 243,
+"name": "Gualdo",
+"country": 36
+},
+{
+"pointer": 244,
+"name": "Fiorenzuola",
+"country": 36
+},
+{
+"pointer": 245,
+"name": "Ascoli",
+"country": 36
+},
+{
+"pointer": 246,
+"name": "Lecce",
+"country": 36
+},
+{
+"pointer": 247,
+"name": "Monza",
+"country": 36
+},
+{
+"pointer": 248,
+"name": "Acireale",
+"country": 36
+},
+{
+"pointer": 249,
+"name": "Castel di Sangro",
+"country": 36
+},
+{
+"pointer": 250,
+"name": "Empoli",
+"country": 36
+},
+{
+"pointer": 251,
+"name": "Ravenna",
+"country": 36
+},
+{
+"pointer": 252,
+"name": "Alessandria",
+"country": 36
+},
+{
+"pointer": 253,
+"name": "Alzano",
+"country": 36
+},
+{
+"pointer": 254,
+"name": "Brescello",
+"country": 36
+},
+{
+"pointer": 255,
+"name": "Carpi",
+"country": 36
+},
+{
+"pointer": 256,
+"name": "Carrarese",
+"country": 36
+},
+{
+"pointer": 257,
+"name": "Modena",
+"country": 36
+},
+{
+"pointer": 258,
+"name": "Montevarchi",
+"country": 36
+},
+{
+"pointer": 259,
+"name": "Novara",
+"country": 36
+},
+{
+"pointer": 260,
+"name": "Prato",
+"country": 36
+},
+{
+"pointer": 261,
+"name": "Saronno",
+"country": 36
+},
+{
+"pointer": 262,
+"name": "Siena",
+"country": 36
+},
+{
+"pointer": 263,
+"name": "Spal",
+"country": 36
+},
+{
+"pointer": 264,
+"name": "Spezia",
+"country": 36
+},
+{
+"pointer": 265,
+"name": "Treviso",
+"country": 36
+},
+{
+"pointer": 266,
+"name": "Avezzano",
+"country": 36
+},
+{
+"pointer": 267,
+"name": "Casarano",
+"country": 36
+},
+{
+"pointer": 268,
+"name": "Catania",
+"country": 36
+},
+{
+"pointer": 269,
+"name": "Fermana",
+"country": 36
+},
+{
+"pointer": 270,
+"name": "Giulianova",
+"country": 36
+},
+{
+"pointer": 271,
+"name": "Ischia",
+"country": 36
+},
+{
+"pointer": 272,
+"name": "Juve Stabia",
+"country": 36
+},
+{
+"pointer": 273,
+"name": "Lodigiani",
+"country": 36
+},
+{
+"pointer": 274,
+"name": "Nocerina",
+"country": 36
+},
+{
+"pointer": 275,
+"name": "Savoia",
+"country": 36
+},
+{
+"pointer": 276,
+"name": "Sora",
+"country": 36
+},
+{
+"pointer": 301,
+"name": "Blackburn",
+"country": 30
+},
+{
+"pointer": 302,
+"name": "Everton",
+"country": 30
+},
+{
+"pointer": 303,
+"name": "Man Utd",
+"country": 30
+},
+{
+"pointer": 304,
+"name": "Nottingham",
+"country": 30
+},
+{
+"pointer": 305,
+"name": "Liverpool",
+"country": 30
+},
+{
+"pointer": 306,
+"name": "Leeds",
+"country": 30
+},
+{
+"pointer": 307,
+"name": "Newcastle",
+"country": 30
+},
+{
+"pointer": 308,
+"name": "Aston Villa",
+"country": 30
+},
+{
+"pointer": 309,
+"name": "Arsenal",
+"country": 30
+},
+{
+"pointer": 310,
+"name": "Tottenham",
+"country": 30
+},
+{
+"pointer": 311,
+"name": "West Ham",
+"country": 30
+},
+{
+"pointer": 312,
+"name": "Chelsea",
+"country": 30
+},
+{
+"pointer": 313,
+"name": "Middlesbrough",
+"country": 30
+},
+{
+"pointer": 314,
+"name": "Wimbledon",
+"country": 30
+},
+{
+"pointer": 315,
+"name": "Sheffield W.",
+"country": 30
+},
+{
+"pointer": 316,
+"name": "Coventry",
+"country": 30
+},
+{
+"pointer": 317,
+"name": "Southampton",
+"country": 30
+},
+{
+"pointer": 318,
+"name": "Sunderland",
+"country": 30
+},
+{
+"pointer": 319,
+"name": "Derby County",
+"country": 30
+},
+{
+"pointer": 320,
+"name": "Leicester",
+"country": 30
+},
+{
+"pointer": 321,
+"name": "QPR",
+"country": 30
+},
+{
+"pointer": 322,
+"name": "Bolton",
+"country": 30
+},
+{
+"pointer": 323,
+"name": "Manchester C",
+"country": 30
+},
+{
+"pointer": 324,
+"name": "Southend U",
+"country": 30
+},
+{
+"pointer": 325,
+"name": "Birmingham C",
+"country": 30
+},
+{
+"pointer": 326,
+"name": "Crystal P",
+"country": 30
+},
+{
+"pointer": 327,
+"name": "Grimsby T",
+"country": 30
+},
+{
+"pointer": 328,
+"name": "Huddersfield T",
+"country": 30
+},
+{
+"pointer": 329,
+"name": "Ipswich",
+"country": 30
+},
+{
+"pointer": 330,
+"name": "Swindon",
+"country": 30
+},
+{
+"pointer": 331,
+"name": "Barnsley",
+"country": 30
+},
+{
+"pointer": 332,
+"name": "Bradford C",
+"country": 30
+},
+{
+"pointer": 333,
+"name": "Charlton",
+"country": 30
+},
+{
+"pointer": 334,
+"name": "Norwich C",
+"country": 30
+},
+{
+"pointer": 335,
+"name": "Oldham Ath",
+"country": 30
+},
+{
+"pointer": 336,
+"name": "Port Vale",
+"country": 30
+},
+{
+"pointer": 337,
+"name": "Portsmouth",
+"country": 30
+},
+{
+"pointer": 338,
+"name": "Reading",
+"country": 30
+},
+{
+"pointer": 339,
+"name": "Oxford U",
+"country": 30
+},
+{
+"pointer": 340,
+"name": "Sheffield U",
+"country": 30
+},
+{
+"pointer": 341,
+"name": "Stoke City",
+"country": 30
+},
+{
+"pointer": 342,
+"name": "Tranmere Rov",
+"country": 30
+},
+{
+"pointer": 343,
+"name": "West Bromwich (WBA)",
+"country": 30
+},
+{
+"pointer": 344,
+"name": "Wolverhampton",
+"country": 30
+},
+{
+"pointer": 345,
+"name": "Blackpool",
+"country": 30
+},
+{
+"pointer": 346,
+"name": "Bournemouth",
+"country": 30
+},
+{
+"pointer": 347,
+"name": "Brentford",
+"country": 30
+},
+{
+"pointer": 348,
+"name": "Bristol City",
+"country": 30
+},
+{
+"pointer": 349,
+"name": "Bristol Rovers",
+"country": 30
+},
+{
+"pointer": 350,
+"name": "Burnley",
+"country": 30
+},
+{
+"pointer": 351,
+"name": "Bury",
+"country": 30
+},
+{
+"pointer": 352,
+"name": "Chesterfield",
+"country": 30
+},
+{
+"pointer": 353,
+"name": "Crewe Alex.",
+"country": 30
+},
+{
+"pointer": 354,
+"name": "Gillingham",
+"country": 30
+},
+{
+"pointer": 355,
+"name": "Luton T",
+"country": 30
+},
+{
+"pointer": 356,
+"name": "Millwall",
+"country": 30
+},
+{
+"pointer": 357,
+"name": "Notts C",
+"country": 30
+},
+{
+"pointer": 358,
+"name": "Peterborough",
+"country": 30
+},
+{
+"pointer": 359,
+"name": "Plymouth Arg.",
+"country": 30
+},
+{
+"pointer": 360,
+"name": "Preston NE",
+"country": 30
+},
+{
+"pointer": 361,
+"name": "Rotherham U",
+"country": 30
+},
+{
+"pointer": 362,
+"name": "Shrewsbury",
+"country": 30
+},
+{
+"pointer": 363,
+"name": "Stockport C",
+"country": 30
+},
+{
+"pointer": 364,
+"name": "Walsall",
+"country": 30
+},
+{
+"pointer": 365,
+"name": "Watford",
+"country": 30
+},
+{
+"pointer": 366,
+"name": "Wrexham",
+"country": 30
+},
+{
+"pointer": 367,
+"name": "Wycombe W",
+"country": 30
+},
+{
+"pointer": 368,
+"name": "York City",
+"country": 30
+},
+{
+"pointer": 369,
+"name": "Barnet",
+"country": 30
+},
+{
+"pointer": 370,
+"name": "Brighton & HA",
+"country": 30
+},
+{
+"pointer": 371,
+"name": "Cambridge U",
+"country": 30
+},
+{
+"pointer": 372,
+"name": "Cardiff C",
+"country": 30
+},
+{
+"pointer": 373,
+"name": "Carlisle U",
+"country": 30
+},
+{
+"pointer": 374,
+"name": "Chester C",
+"country": 30
+},
+{
+"pointer": 375,
+"name": "Colchester U",
+"country": 30
+},
+{
+"pointer": 376,
+"name": "Darlington",
+"country": 30
+},
+{
+"pointer": 377,
+"name": "Doncaster",
+"country": 30
+},
+{
+"pointer": 378,
+"name": "Exeter",
+"country": 30
+},
+{
+"pointer": 379,
+"name": "Fulham",
+"country": 30
+},
+{
+"pointer": 380,
+"name": "Hartlepool",
+"country": 30
+},
+{
+"pointer": 381,
+"name": "Hereford",
+"country": 30
+},
+{
+"pointer": 382,
+"name": "Hull",
+"country": 30
+},
+{
+"pointer": 383,
+"name": "Leyton",
+"country": 30
+},
+{
+"pointer": 384,
+"name": "Lincoln",
+"country": 30
+},
+{
+"pointer": 385,
+"name": "Mansfield",
+"country": 30
+},
+{
+"pointer": 386,
+"name": "Northampton",
+"country": 30
+},
+{
+"pointer": 387,
+"name": "Rochdale",
+"country": 30
+},
+{
+"pointer": 388,
+"name": "Scarborough",
+"country": 30
+},
+{
+"pointer": 389,
+"name": "Scunthorpe",
+"country": 30
+},
+{
+"pointer": 390,
+"name": "Swansea C",
+"country": 30
+},
+{
+"pointer": 391,
+"name": "Torquay U",
+"country": 30
+},
+{
+"pointer": 392,
+"name": "Wigan Ath",
+"country": 30
+},
+{
+"pointer": 401,
+"name": "Borussia D.",
+"country": 2
+},
+{
+"pointer": 402,
+"name": "Borussia M.",
+"country": 2
+},
+{
+"pointer": 403,
+"name": "W. Bremen",
+"country": 2
+},
+{
+"pointer": 404,
+"name": "Kaiserslautern",
+"country": 2
+},
+{
+"pointer": 405,
+"name": "Friburgo",
+"country": 2
+},
+{
+"pointer": 406,
+"name": "Bayern M.",
+"country": 2
+},
+{
+"pointer": 407,
+"name": "Karlsruhe",
+"country": 2
+},
+{
+"pointer": 408,
+"name": "Schalke 04",
+"country": 2
+},
+{
+"pointer": 409,
+"name": "Hamburgo",
+"country": 2
+},
+{
+"pointer": 410,
+"name": "Hansa Rostock",
+"country": 2
+},
+{
+"pointer": 411,
+"name": "Munich 1860",
+"country": 2
+},
+{
+"pointer": 412,
+"name": "Stuttgart",
+"country": 2
+},
+{
+"pointer": 413,
+"name": "Colonia",
+"country": 2
+},
+{
+"pointer": 414,
+"name": "Fortuna Düsseldorf",
+"country": 2
+},
+{
+"pointer": 415,
+"name": "Bayer Leverkusen",
+"country": 2
+},
+{
+"pointer": 416,
+"name": "Saint Pauli",
+"country": 2
+},
+{
+"pointer": 417,
+"name": "Bochum",
+"country": 2
+},
+{
+"pointer": 418,
+"name": "Arminia Bielefeld",
+"country": 2
+},
+{
+"pointer": 419,
+"name": "Duisburg",
+"country": 2
+},
+{
+"pointer": 420,
+"name": "Wolfsburg",
+"country": 2
+},
+{
+"pointer": 421,
+"name": "Hertha Berlín",
+"country": 2
+},
+{
+"pointer": 501,
+"name": "Nantes",
+"country": 24
+},
+{
+"pointer": 502,
+"name": "PSG",
+"country": 24
+},
+{
+"pointer": 503,
+"name": "Auxerre",
+"country": 24
+},
+{
+"pointer": 504,
+"name": "Lens",
+"country": 24
+},
+{
+"pointer": 505,
+"name": "Monaco",
+"country": 24
+},
+{
+"pointer": 506,
+"name": "Lyon",
+"country": 24
+},
+{
+"pointer": 507,
+"name": "Strasburgo",
+"country": 24
+},
+{
+"pointer": 508,
+"name": "Girondins",
+"country": 24
+},
+{
+"pointer": 509,
+"name": "Montpellier",
+"country": 24
+},
+{
+"pointer": 510,
+"name": "Metz",
+"country": 24
+},
+{
+"pointer": 511,
+"name": "Nimes",
+"country": 24
+},
+{
+"pointer": 512,
+"name": "Guingamp",
+"country": 24
+},
+{
+"pointer": 513,
+"name": "Rennes",
+"country": 24
+},
+{
+"pointer": 514,
+"name": "Niza",
+"country": 24
+},
+{
+"pointer": 515,
+"name": "Le Havre",
+"country": 24
+},
+{
+"pointer": 516,
+"name": "Cannes",
+"country": 24
+},
+{
+"pointer": 517,
+"name": "Bastia",
+"country": 24
+},
+{
+"pointer": 518,
+"name": "Lille",
+"country": 24
+},
+{
+"pointer": 519,
+"name": "Caen",
+"country": 24
+},
+{
+"pointer": 520,
+"name": "Olympique de Marsella",
+"country": 24
+},
+{
+"pointer": 521,
+"name": "Nancy",
+"country": 24
+},
+{
+"pointer": 522,
+"name": "Châteauroux",
+"country": 24
+},
+{
+"pointer": 523,
+"name": "Toulouse",
+"country": 24
+},
+{
+"pointer": 601,
+"name": "Oporto",
+"country": 47
+},
+{
+"pointer": 602,
+"name": "Sp. Lisboa",
+"country": 47
+},
+{
+"pointer": 603,
+"name": "Benfica",
+"country": 47
+},
+{
+"pointer": 604,
+"name": "V. Guimaraes",
+"country": 47
+},
+{
+"pointer": 605,
+"name": "Farense",
+"country": 47
+},
+{
+"pointer": 606,
+"name": "Boavista",
+"country": 47
+},
+{
+"pointer": 607,
+"name": "Os Belenenses",
+"country": 47
+},
+{
+"pointer": 608,
+"name": "Uniao Leiria",
+"country": 47
+},
+{
+"pointer": 609,
+"name": "SC Braga",
+"country": 47
+},
+{
+"pointer": 610,
+"name": "Marítimo",
+"country": 47
+},
+{
+"pointer": 611,
+"name": "Gil Vicente",
+"country": 47
+},
+{
+"pointer": 612,
+"name": "Salgueiros",
+"country": 47
+},
+{
+"pointer": 613,
+"name": "Estrela Amadora",
+"country": 47
+},
+{
+"pointer": 614,
+"name": "Leça",
+"country": 47
+},
+{
+"pointer": 615,
+"name": "Chaves",
+"country": 47
+},
+{
+"pointer": 616,
+"name": "Río Ave",
+"country": 47
+},
+{
+"pointer": 617,
+"name": "Vitoria Setubal",
+"country": 47
+},
+{
+"pointer": 618,
+"name": "Espinho",
+"country": 47
+},
+{
+"pointer": 619,
+"name": "Varzim",
+"country": 47
+},
+{
+"pointer": 620,
+"name": "Coimbra",
+"country": 47
+},
+{
+"pointer": 621,
+"name": "Campomaiorense",
+"country": 47
+},
+{
+"pointer": 701,
+"name": "Estrella Roja (Crvena Zvezda Beograd)",
+"country": 58
+},
+{
+"pointer": 702,
+"name": "RAD Belgrado",
+"country": 58
+},
+{
+"pointer": 703,
+"name": "Partizán",
+"country": 58
+},
+{
+"pointer": 704,
+"name": "Vojvodina",
+"country": 58
+},
+{
+"pointer": 705,
+"name": "Zemun",
+"country": 58
+},
+{
+"pointer": 706,
+"name": "Becej",
+"country": 58
+},
+{
+"pointer": 707,
+"name": "Obilic Belgrado",
+"country": 58
+},
+{
+"pointer": 708,
+"name": "Mladost Lucani",
+"country": 58
+},
+{
+"pointer": 709,
+"name": "Proleter Zrenjanin",
+"country": 58
+},
+{
+"pointer": 710,
+"name": "Hajduk Kula",
+"country": 58
+},
+{
+"pointer": 711,
+"name": "Cukaricki Stankom",
+"country": 58
+},
+{
+"pointer": 712,
+"name": "Buducnost Podgorica",
+"country": 58
+},
+{
+"pointer": 713,
+"name": "Borac Cacak",
+"country": 58
+},
+{
+"pointer": 751,
+"name": "Spa. Moscú",
+"country": 50
+},
+{
+"pointer": 752,
+"name": "Dinamo Moscú",
+"country": 50
+},
+{
+"pointer": 753,
+"name": "Rotor",
+"country": 50
+},
+{
+"pointer": 754,
+"name": "Alania Vladikavkav",
+"country": 50
+},
+{
+"pointer": 755,
+"name": "Lokomotiv Moscú",
+"country": 50
+},
+{
+"pointer": 756,
+"name": "CSKA Moscú",
+"country": 50
+},
+{
+"pointer": 757,
+"name": "Torpedo Moscú",
+"country": 50
+},
+{
+"pointer": 758,
+"name": "Zenit",
+"country": 50
+},
+{
+"pointer": 801,
+"name": "Ajax",
+"country": 27
+},
+{
+"pointer": 802,
+"name": "Feyenoord",
+"country": 27
+},
+{
+"pointer": 803,
+"name": "Roda",
+"country": 27
+},
+{
+"pointer": 804,
+"name": "PSV",
+"country": 27
+},
+{
+"pointer": 805,
+"name": "Vitesse",
+"country": 27
+},
+{
+"pointer": 806,
+"name": "Sparta",
+"country": 27
+},
+{
+"pointer": 807,
+"name": "Heerenveen",
+"country": 27
+},
+{
+"pointer": 808,
+"name": "NAC",
+"country": 27
+},
+{
+"pointer": 809,
+"name": "Groningen",
+"country": 27
+},
+{
+"pointer": 810,
+"name": "Twente",
+"country": 27
+},
+{
+"pointer": 811,
+"name": "RKC",
+"country": 27
+},
+{
+"pointer": 812,
+"name": "Willem II",
+"country": 27
+},
+{
+"pointer": 813,
+"name": "Fortuna Sittard",
+"country": 27
+},
+{
+"pointer": 814,
+"name": "De Graafschap",
+"country": 27
+},
+{
+"pointer": 815,
+"name": "Utrech",
+"country": 27
+},
+{
+"pointer": 816,
+"name": "Vodendam",
+"country": 27
+},
+{
+"pointer": 817,
+"name": "NEC",
+"country": 27
+},
+{
+"pointer": 818,
+"name": "AZ",
+"country": 27
+},
+{
+"pointer": 819,
+"name": "Maastricht",
+"country": 27
+},
+{
+"pointer": 851,
+"name": "Anderlecht",
+"country": 12
+},
+{
+"pointer": 852,
+"name": "Brujas",
+"country": 12
+},
+{
+"pointer": 853,
+"name": "Standard Lieja",
+"country": 12
+},
+{
+"pointer": 854,
+"name": "Lierse",
+"country": 12
+},
+{
+"pointer": 855,
+"name": "Alost",
+"country": 12
+},
+{
+"pointer": 856,
+"name": "G. Ekeren (Germinal Beerschot)",
+"country": 12
+},
+{
+"pointer": 857,
+"name": "C. de Brujas",
+"country": 12
+},
+{
+"pointer": 858,
+"name": "Molenbeek",
+"country": 12
+},
+{
+"pointer": 859,
+"name": "Charleroi",
+"country": 12
+},
+{
+"pointer": 860,
+"name": "Lommelse",
+"country": 12
+},
+{
+"pointer": 861,
+"name": "Mechelen (Malines)",
+"country": 12
+},
+{
+"pointer": 862,
+"name": "Harelbeke",
+"country": 12
+},
+{
+"pointer": 863,
+"name": "R. Antwerp",
+"country": 12
+},
+{
+"pointer": 864,
+"name": "Gent (KAA Gent / La Grantoise)",
+"country": 12
+},
+{
+"pointer": 865,
+"name": "Sint Truidense (St-Trond)",
+"country": 12
+},
+{
+"pointer": 866,
+"name": "Excelsior Mouscron",
+"country": 12
+},
+{
+"pointer": 867,
+"name": "Genk (RKC Genk)",
+"country": 12
+},
+{
+"pointer": 868,
+"name": "Lokeren",
+"country": 12
+},
+{
+"pointer": 901,
+"name": "Hajduk Split",
+"country": 17
+},
+{
+"pointer": 902,
+"name": "Croatia Zagreb (Dinamo Zagreb)",
+"country": 17
+},
+{
+"pointer": 903,
+"name": "Osijek",
+"country": 17
+},
+{
+"pointer": 904,
+"name": "Varteks",
+"country": 17
+},
+{
+"pointer": 905,
+"name": "Zagreb",
+"country": 17
+},
+{
+"pointer": 906,
+"name": "Rijeka",
+"country": 17
+},
+{
+"pointer": 907,
+"name": "Slaven Belupo",
+"country": 17
+},
+{
+"pointer": 908,
+"name": "Cibalia Vinkovci",
+"country": 17
+},
+{
+"pointer": 909,
+"name": "Mladost Suhopolje",
+"country": 17
+},
+{
+"pointer": 910,
+"name": "Hrvatski Dragovoljac",
+"country": 17
+},
+{
+"pointer": 911,
+"name": "Sibenik",
+"country": 17
+},
+{
+"pointer": 912,
+"name": "Suhopolje",
+"country": 17
+},
+{
+"pointer": 913,
+"name": "Zadar",
+"country": 17
+},
+{
+"pointer": 914,
+"name": "Segesta Sisak",
+"country": 17
+},
+{
+"pointer": 915,
+"name": "Marsonia",
+"country": 17
+},
+{
+"pointer": 916,
+"name": "Istra Pula",
+"country": 17
+},
+{
+"pointer": 917,
+"name": "Inter Zapresic",
+"country": 17
+},
+{
+"pointer": 951,
+"name": "Göteborg",
+"country": 53
+},
+{
+"pointer": 952,
+"name": "Halmstads",
+"country": 53
+},
+{
+"pointer": 953,
+"name": "Orebro",
+"country": 53
+},
+{
+"pointer": 954,
+"name": "Malmoe",
+"country": 53
+},
+{
+"pointer": 955,
+"name": "AIK Estoc.",
+"country": 53
+},
+{
+"pointer": 956,
+"name": "Helsingborgs",
+"country": 53
+},
+{
+"pointer": 957,
+"name": "Djugardens",
+"country": 53
+},
+{
+"pointer": 958,
+"name": "Orgryte",
+"country": 53
+},
+{
+"pointer": 959,
+"name": "Degerfors",
+"country": 53
+},
+{
+"pointer": 960,
+"name": "Trelleborgs",
+"country": 53
+},
+{
+"pointer": 961,
+"name": "Norrkoping",
+"country": 53
+},
+{
+"pointer": 962,
+"name": "Elfsborg",
+"country": 53
+},
+{
+"pointer": 1001,
+"name": "Besiktas",
+"country": 55
+},
+{
+"pointer": 1002,
+"name": "Trabzonspor",
+"country": 55
+},
+{
+"pointer": 1003,
+"name": "Galatasaray",
+"country": 55
+},
+{
+"pointer": 1004,
+"name": "Fenerbahce",
+"country": 55
+},
+{
+"pointer": 1005,
+"name": "Kocaelispor",
+"country": 55
+},
+{
+"pointer": 1006,
+"name": "Gaziantepspor",
+"country": 55
+},
+{
+"pointer": 1007,
+"name": "Antalyaspor",
+"country": 55
+},
+{
+"pointer": 1008,
+"name": "Samsunspor",
+"country": 55
+},
+{
+"pointer": 1009,
+"name": "Bursaspor",
+"country": 55
+},
+{
+"pointer": 1010,
+"name": "Istanbulspor",
+"country": 55
+},
+{
+"pointer": 1011,
+"name": "Gençlerbirligi",
+"country": 55
+},
+{
+"pointer": 1012,
+"name": "Ankaragücü",
+"country": 55
+},
+{
+"pointer": 1013,
+"name": "Vanspor",
+"country": 55
+},
+{
+"pointer": 1014,
+"name": "Altay Izmir",
+"country": 55
+},
+{
+"pointer": 1015,
+"name": "Canakkale Dardanelspor",
+"country": 55
+},
+{
+"pointer": 1016,
+"name": "Sariyer",
+"country": 55
+},
+{
+"pointer": 1017,
+"name": "Denizlispor",
+"country": 55
+},
+{
+"pointer": 1018,
+"name": "Zeytinburnuspor",
+"country": 55
+},
+{
+"pointer": 1051,
+"name": "Legia Varsovia",
+"country": 46
+},
+{
+"pointer": 1052,
+"name": "Katowice",
+"country": 46
+},
+{
+"pointer": 1053,
+"name": "Widzew Lodz",
+"country": 46
+},
+{
+"pointer": 1054,
+"name": "Zaglebie Lubin",
+"country": 46
+},
+{
+"pointer": 1055,
+"name": "Ruch Chorzow",
+"country": 46
+},
+{
+"pointer": 1056,
+"name": "Hutnik Cracovia",
+"country": 46
+},
+{
+"pointer": 1057,
+"name": "LKS Lodz",
+"country": 46
+},
+{
+"pointer": 1058,
+"name": "Amika Wronki",
+"country": 46
+},
+{
+"pointer": 1059,
+"name": "Lech Poznan",
+"country": 46
+},
+{
+"pointer": 1060,
+"name": "Gornik Zabrze",
+"country": 46
+},
+{
+"pointer": 1061,
+"name": "Stomil Olsztyn (OKS Olsztyn)",
+"country": 46
+},
+{
+"pointer": 1062,
+"name": "Polonia Varsovia",
+"country": 46
+},
+{
+"pointer": 1063,
+"name": "GKS Tychy",
+"country": 46
+},
+{
+"pointer": 1064,
+"name": "Rakow Czestochowa",
+"country": 46
+},
+{
+"pointer": 1065,
+"name": "Kispest-Honvéd (ara Budapest Honved)",
+"country": 46
+},
+{
+"pointer": 1101,
+"name": "Grasshopper",
+"country": 54
+},
+{
+"pointer": 1102,
+"name": "Sion",
+"country": 54
+},
+{
+"pointer": 1103,
+"name": "Lugano",
+"country": 54
+},
+{
+"pointer": 1104,
+"name": "Neuchatel",
+"country": 54
+},
+{
+"pointer": 1105,
+"name": "Aarau",
+"country": 54
+},
+{
+"pointer": 1106,
+"name": "Luzern",
+"country": 54
+},
+{
+"pointer": 1107,
+"name": "Basel",
+"country": 54
+},
+{
+"pointer": 1108,
+"name": "Servette",
+"country": 54
+},
+{
+"pointer": 1109,
+"name": "St. Gallen",
+"country": 54
+},
+{
+"pointer": 1110,
+"name": "Lausanne S.",
+"country": 54
+},
+{
+"pointer": 1111,
+"name": "Zurich",
+"country": 54
+},
+{
+"pointer": 1112,
+"name": "Young Boys",
+"country": 54
+},
+{
+"pointer": 1151,
+"name": "Casino Salzsburg",
+"country": 5
+},
+{
+"pointer": 1152,
+"name": "Rapid Viena",
+"country": 5
+},
+{
+"pointer": 1153,
+"name": "Sturm Graz",
+"country": 5
+},
+{
+"pointer": 1154,
+"name": "Austria Wien (ex-Austria M)",
+"country": 5
+},
+{
+"pointer": 1155,
+"name": "Tirol",
+"country": 5
+},
+{
+"pointer": 1156,
+"name": "Grazer (ex-Casino Graz)",
+"country": 5
+},
+{
+"pointer": 1157,
+"name": "LASK Linz",
+"country": 5
+},
+{
+"pointer": 1158,
+"name": "SV Ried",
+"country": 5
+},
+{
+"pointer": 1159,
+"name": "Admira Wacker",
+"country": 5
+},
+{
+"pointer": 1160,
+"name": "FC Linz",
+"country": 5
+},
+{
+"pointer": 1201,
+"name": "Aalborg",
+"country": 18
+},
+{
+"pointer": 1202,
+"name": "Copenaghen",
+"country": 18
+},
+{
+"pointer": 1203,
+"name": "Brondby",
+"country": 18
+},
+{
+"pointer": 1204,
+"name": "Silkeborg",
+"country": 18
+},
+{
+"pointer": 1205,
+"name": "Aarhus",
+"country": 18
+},
+{
+"pointer": 1206,
+"name": "Odense",
+"country": 18
+},
+{
+"pointer": 1207,
+"name": "Lyngby",
+"country": 18
+},
+{
+"pointer": 1208,
+"name": "Viborg FF",
+"country": 18
+},
+{
+"pointer": 1209,
+"name": "Vejle BK",
+"country": 18
+},
+{
+"pointer": 1210,
+"name": "Herfolge BK",
+"country": 18
+},
+{
+"pointer": 1211,
+"name": "Ikast FS",
+"country": 18
+},
+{
+"pointer": 1212,
+"name": "Naestved BK",
+"country": 18
+},
+{
+"pointer": 1213,
+"name": "Fremad",
+"country": 18
+},
+{
+"pointer": 1214,
+"name": "Akademisk B.",
+"country": 18
+},
+{
+"pointer": 1251,
+"name": "G. Rangers",
+"country": 19
+},
+{
+"pointer": 1252,
+"name": "C. Glasgow",
+"country": 19
+},
+{
+"pointer": 1253,
+"name": "Motherwell",
+"country": 19
+},
+{
+"pointer": 1254,
+"name": "Hibernian",
+"country": 19
+},
+{
+"pointer": 1255,
+"name": "Aberdeen",
+"country": 19
+},
+{
+"pointer": 1256,
+"name": "Heart of M.",
+"country": 19
+},
+{
+"pointer": 1257,
+"name": "Raith R.",
+"country": 19
+},
+{
+"pointer": 1258,
+"name": "Kilmarnock",
+"country": 19
+},
+{
+"pointer": 1259,
+"name": "Dundee United",
+"country": 19
+},
+{
+"pointer": 1260,
+"name": "Dunfermline Ath.",
+"country": 19
+},
+{
+"pointer": 1261,
+"name": "St. Johnstone",
+"country": 19
+},
+{
+"pointer": 1262,
+"name": "Dundee",
+"country": 19
+},
+{
+"pointer": 1263,
+"name": "Saint Mirren",
+"country": 19
+},
+{
+"pointer": 1264,
+"name": "Livingston",
+"country": 19
+},
+{
+"pointer": 1265,
+"name": "Ayr",
+"country": 19
+},
+{
+"pointer": 1266,
+"name": "Clyde",
+"country": 19
+},
+{
+"pointer": 1267,
+"name": "Falkirk",
+"country": 19
+},
+{
+"pointer": 1268,
+"name": "Morton",
+"country": 19
+},
+{
+"pointer": 1269,
+"name": "Alloa",
+"country": 19
+},
+{
+"pointer": 1270,
+"name": "Ross County",
+"country": 19
+},
+{
+"pointer": 1271,
+"name": "Airdrie",
+"country": 19
+},
+{
+"pointer": 1272,
+"name": "Inverness",
+"country": 19
+},
+{
+"pointer": 1301,
+"name": "Panathinaikos",
+"country": 26
+},
+{
+"pointer": 1302,
+"name": "AEK Atenas",
+"country": 26
+},
+{
+"pointer": 1303,
+"name": "Olympiakos",
+"country": 26
+},
+{
+"pointer": 1304,
+"name": "Apollon",
+"country": 26
+},
+{
+"pointer": 1305,
+"name": "Iraklis",
+"country": 26
+},
+{
+"pointer": 1306,
+"name": "OFI",
+"country": 26
+},
+{
+"pointer": 1307,
+"name": "Paniliakos",
+"country": 26
+},
+{
+"pointer": 1308,
+"name": "Aris",
+"country": 26
+},
+{
+"pointer": 1309,
+"name": "Ionikos",
+"country": 26
+},
+{
+"pointer": 1310,
+"name": "Edessaikos",
+"country": 26
+},
+{
+"pointer": 1311,
+"name": "Athinaikos",
+"country": 26
+},
+{
+"pointer": 1312,
+"name": "PAOK",
+"country": 26
+},
+{
+"pointer": 1313,
+"name": "Panionios",
+"country": 26
+},
+{
+"pointer": 1314,
+"name": "Kalamata",
+"country": 26
+},
+{
+"pointer": 1315,
+"name": "Kavala",
+"country": 26
+},
+{
+"pointer": 1316,
+"name": "Veria",
+"country": 26
+},
+{
+"pointer": 1317,
+"name": "Skoda Xanthi",
+"country": 26
+},
+{
+"pointer": 1318,
+"name": "Panachaiki",
+"country": 26
+},
+{
+"pointer": 1319,
+"name": "Kastoria",
+"country": 26
+},
+{
+"pointer": 1351,
+"name": "Rosenborg",
+"country": 44
+},
+{
+"pointer": 1352,
+"name": "Molde FK",
+"country": 44
+},
+{
+"pointer": 1353,
+"name": "Lillestrom",
+"country": 44
+},
+{
+"pointer": 1354,
+"name": "Viking",
+"country": 44
+},
+{
+"pointer": 1355,
+"name": "Bodo Glimt",
+"country": 44
+},
+{
+"pointer": 1356,
+"name": "Brann",
+"country": 44
+},
+{
+"pointer": 1357,
+"name": "Tromso",
+"country": 44
+},
+{
+"pointer": 1358,
+"name": "Stromsgodset",
+"country": 44
+},
+{
+"pointer": 1359,
+"name": "Valerenga",
+"country": 44
+},
+{
+"pointer": 1360,
+"name": "Stabaek",
+"country": 44
+},
+{
+"pointer": 1401,
+"name": "Steaua B.",
+"country": 49
+},
+{
+"pointer": 1402,
+"name": "Petrolul (Petrolul Ploiesti)",
+"country": 49
+},
+{
+"pointer": 1403,
+"name": "Universitatea (Université Craiovie)",
+"country": 49
+},
+{
+"pointer": 1404,
+"name": "D. Bucarest",
+"country": 49
+},
+{
+"pointer": 1405,
+"name": "Gloria Bistrita",
+"country": 49
+},
+{
+"pointer": 1406,
+"name": "Rapid Bucarest",
+"country": 49
+},
+{
+"pointer": 1407,
+"name": "National Bucarest (Progresul Bucarest)",
+"country": 49
+},
+{
+"pointer": 1408,
+"name": "Politechnica Timisoara",
+"country": 49
+},
+{
+"pointer": 1409,
+"name": "Arges Pitesti",
+"country": 49
+},
+{
+"pointer": 1410,
+"name": "Ceahlaul",
+"country": 49
+},
+{
+"pointer": 1411,
+"name": "FC Brasov",
+"country": 49
+},
+{
+"pointer": 1412,
+"name": "Bacau",
+"country": 49
+},
+{
+"pointer": 1413,
+"name": "Farul Constanta",
+"country": 49
+},
+{
+"pointer": 1414,
+"name": "Universitatea Cluj (no CFR Cluj)",
+"country": 49
+},
+{
+"pointer": 1415,
+"name": "Sportul Studentesc",
+"country": 49
+},
+{
+"pointer": 1416,
+"name": "Jiul Petrosani",
+"country": 49
+},
+{
+"pointer": 1417,
+"name": "FCM Targoviste (Chindia Târgoviste)",
+"country": 49
+},
+{
+"pointer": 1418,
+"name": "Otelul Galati",
+"country": 49
+},
+{
+"pointer": 1451,
+"name": "Hradec Kralove",
+"country": 48
+},
+{
+"pointer": 1452,
+"name": "Sparta Praga",
+"country": 48
+},
+{
+"pointer": 1453,
+"name": "Slavia Praga",
+"country": 48
+},
+{
+"pointer": 1454,
+"name": "Sigma Olomouc",
+"country": 48
+},
+{
+"pointer": 1455,
+"name": "Jablonec N. Nisou",
+"country": 48
+},
+{
+"pointer": 1456,
+"name": "Petra Drnovice",
+"country": 48
+},
+{
+"pointer": 1457,
+"name": "Boby Brno",
+"country": 48
+},
+{
+"pointer": 1458,
+"name": "Banik Ostrava",
+"country": 48
+},
+{
+"pointer": 1459,
+"name": "Teplice",
+"country": 48
+},
+{
+"pointer": 1460,
+"name": "Slovan Liberec",
+"country": 48
+},
+{
+"pointer": 1461,
+"name": "Blsani",
+"country": 48
+},
+{
+"pointer": 1462,
+"name": "Dukla Pribram",
+"country": 48
+},
+{
+"pointer": 1463,
+"name": "Mlada Boleslav",
+"country": 48
+},
+{
+"pointer": 1464,
+"name": "Viktoria Zizkov",
+"country": 48
+},
+{
+"pointer": 1501,
+"name": "Lok. Sofia",
+"country": 11
+},
+{
+"pointer": 1502,
+"name": "Levski Sofia",
+"country": 11
+},
+{
+"pointer": 1503,
+"name": "Botev Plovdiv",
+"country": 11
+},
+{
+"pointer": 1504,
+"name": "Slavia Sofia",
+"country": 11
+},
+{
+"pointer": 1505,
+"name": "CSKA Sofía",
+"country": 11
+},
+{
+"pointer": 1506,
+"name": "Lovech",
+"country": 11
+},
+{
+"pointer": 1507,
+"name": "Neftochimik",
+"country": 11
+},
+{
+"pointer": 1508,
+"name": "FC Velbazhd",
+"country": 11
+},
+{
+"pointer": 1551,
+"name": "Slovan Bratislava",
+"country": 20
+},
+{
+"pointer": 1552,
+"name": "Inter Bratislava",
+"country": 20
+},
+{
+"pointer": 1553,
+"name": "Chemlon H.",
+"country": 20
+},
+{
+"pointer": 1554,
+"name": "Kosice",
+"country": 20
+},
+{
+"pointer": 1555,
+"name": "Trnava",
+"country": 20
+},
+{
+"pointer": 1556,
+"name": "Dukla Banska",
+"country": 20
+},
+{
+"pointer": 1557,
+"name": "Tatran Presov",
+"country": 20
+},
+{
+"pointer": 1558,
+"name": "Bardejov",
+"country": 20
+},
+{
+"pointer": 1559,
+"name": "Zilina",
+"country": 20
+},
+{
+"pointer": 1560,
+"name": "Artmedia Petrzalka",
+"country": 20
+},
+{
+"pointer": 1601,
+"name": "Mura",
+"country": 21
+},
+{
+"pointer": 1602,
+"name": "Olimpia",
+"country": 21
+},
+{
+"pointer": 1603,
+"name": "Maribor Branik",
+"country": 21
+},
+{
+"pointer": 1604,
+"name": "Primorje",
+"country": 21
+},
+{
+"pointer": 1605,
+"name": "Gorica",
+"country": 21
+},
+{
+"pointer": 1606,
+"name": "Rudar Velenje",
+"country": 21
+},
+{
+"pointer": 1607,
+"name": "Korotan",
+"country": 21
+},
+{
+"pointer": 1651,
+"name": "Anorthosis Famagusta",
+"country": 15
+},
+{
+"pointer": 1652,
+"name": "Apoel Nicosia",
+"country": 15
+},
+{
+"pointer": 1653,
+"name": "Omonia Nicosia",
+"country": 15
+},
+{
+"pointer": 1654,
+"name": "AEK Larnaca",
+"country": 15
+},
+{
+"pointer": 1655,
+"name": "Apollon",
+"country": 15
+},
+{
+"pointer": 1656,
+"name": "Nea Salamis",
+"country": 15
+},
+{
+"pointer": 1701,
+"name": "Ferencvaros",
+"country": 29
+},
+{
+"pointer": 1702,
+"name": "VAC Samsung",
+"country": 29
+},
+{
+"pointer": 1703,
+"name": "Ujpesti Dozsa",
+"country": 29
+},
+{
+"pointer": 1704,
+"name": "Kipest Honvéd (actual Budapest Honvéd)",
+"country": 29
+},
+{
+"pointer": 1705,
+"name": "BVSC",
+"country": 29
+},
+{
+"pointer": 1706,
+"name": "Debreceni Vasutas (ex-DVSC Epona)",
+"country": 29
+},
+{
+"pointer": 1707,
+"name": "MTK",
+"country": 29
+},
+{
+"pointer": 1708,
+"name": "Vasas CV",
+"country": 29
+},
+{
+"pointer": 1709,
+"name": "Csepel",
+"country": 29
+},
+{
+"pointer": 1710,
+"name": "Dunaferr",
+"country": 29
+},
+{
+"pointer": 1711,
+"name": "Tatabanya",
+"country": 29
+},
+{
+"pointer": 1712,
+"name": "Kerületi (III. Kerületi TVE)",
+"country": 29
+},
+{
+"pointer": 1713,
+"name": "Zalaegerszegi",
+"country": 29
+},
+{
+"pointer": 1714,
+"name": "Videoton",
+"country": 29
+},
+{
+"pointer": 1715,
+"name": "Györ",
+"country": 29
+},
+{
+"pointer": 1716,
+"name": "Haladás",
+"country": 29
+},
+{
+"pointer": 1717,
+"name": "Siófok",
+"country": 29
+},
+{
+"pointer": 1718,
+"name": "Békéscsaba",
+"country": 29
+},
+{
+"pointer": 1719,
+"name": "Stadler",
+"country": 29
+},
+{
+"pointer": 1720,
+"name": "Pécs",
+"country": 29
+},
+{
+"pointer": 1751,
+"name": "Shakhtar Donetsk",
+"country": 56
+},
+{
+"pointer": 1752,
+"name": "Dinamo Kiev",
+"country": 56
+},
+{
+"pointer": 1753,
+"name": "Chernomorets",
+"country": 56
+},
+{
+"pointer": 1754,
+"name": "Nyva Vinnytsya",
+"country": 56
+},
+{
+"pointer": 1755,
+"name": "CSKA Kiev",
+"country": 56
+},
+{
+"pointer": 1756,
+"name": "Kryvbas",
+"country": 56
+},
+{
+"pointer": 1757,
+"name": "Karpaty",
+"country": 56
+},
+{
+"pointer": 1758,
+"name": "Vorskla Poltava",
+"country": 56
+},
+{
+"pointer": 1801,
+"name": "Grevenmacher",
+"country": 38
+},
+{
+"pointer": 1802,
+"name": "Jeunesse",
+"country": 38
+},
+{
+"pointer": 1804,
+"name": "Avenir Beggen",
+"country": 38
+},
+{
+"pointer": 1805,
+"name": "Vaduz",
+"country": 77
+},
+{
+"pointer": 1851,
+"name": "Derry City",
+"country": 31
+},
+{
+"pointer": 1852,
+"name": "Dundalk",
+"country": 31
+},
+{
+"pointer": 1853,
+"name": "Shelbourne",
+"country": 31
+},
+{
+"pointer": 1854,
+"name": "St. Patrick's Athletic",
+"country": 31
+},
+{
+"pointer": 1855,
+"name": "Bohemians",
+"country": 31
+},
+{
+"pointer": 1856,
+"name": "Sligo Rovers",
+"country": 31
+},
+{
+"pointer": 1857,
+"name": "Shamrock Rovers",
+"country": 31
+},
+{
+"pointer": 1858,
+"name": "University College Dublin",
+"country": 31
+},
+{
+"pointer": 1859,
+"name": "Cork City",
+"country": 31
+},
+{
+"pointer": 1860,
+"name": "Athlone Town",
+"country": 31
+},
+{
+"pointer": 1861,
+"name": "Drogheda United",
+"country": 31
+},
+{
+"pointer": 1862,
+"name": "Galway United",
+"country": 31
+},
+{
+"pointer": 1901,
+"name": "Linfield",
+"country": 32
+},
+{
+"pointer": 1902,
+"name": "Crusaders",
+"country": 32
+},
+{
+"pointer": 1903,
+"name": "Glenavon",
+"country": 32
+},
+{
+"pointer": 1904,
+"name": "Portadown",
+"country": 32
+},
+{
+"pointer": 1905,
+"name": "Glentoran",
+"country": 32
+},
+{
+"pointer": 1906,
+"name": "Cliftonville",
+"country": 32
+},
+{
+"pointer": 1907,
+"name": "Ards",
+"country": 32
+},
+{
+"pointer": 1908,
+"name": "Bangor",
+"country": 32
+},
+{
+"pointer": 1909,
+"name": "Ballymena",
+"country": 32
+},
+{
+"pointer": 1910,
+"name": "Coleraine",
+"country": 32
+},
+{
+"pointer": 1911,
+"name": "Omagh",
+"country": 32
+},
+{
+"pointer": 1912,
+"name": "Newry Town",
+"country": 32
+},
+{
+"pointer": 1951,
+"name": "KR Reykjavik",
+"country": 33
+},
+{
+"pointer": 1952,
+"name": "Akranes",
+"country": 33
+},
+{
+"pointer": 1953,
+"name": "Fimleikafelag",
+"country": 33
+},
+{
+"pointer": 1954,
+"name": "IBV",
+"country": 33
+},
+{
+"pointer": 1955,
+"name": "Leiftur",
+"country": 33
+},
+{
+"pointer": 2002,
+"name": "TPV Tampere (Tampereen Pallo-Veikot)",
+"country": 23
+},
+{
+"pointer": 2003,
+"name": "MyPa",
+"country": 23
+},
+{
+"pointer": 2004,
+"name": "Haka",
+"country": 23
+},
+{
+"pointer": 2005,
+"name": "Jazz",
+"country": 23
+},
+{
+"pointer": 2006,
+"name": "HJK Helsinki",
+"country": 23
+},
+{
+"pointer": 2007,
+"name": "Jokerit",
+"country": 23
+},
+{
+"pointer": 2051,
+"name": "Welshpool Town",
+"country": 45
+},
+{
+"pointer": 2052,
+"name": "Bangor City",
+"country": 45
+},
+{
+"pointer": 2053,
+"name": "Afan Lido",
+"country": 45
+},
+{
+"pointer": 2054,
+"name": "Barry Town",
+"country": 45
+},
+{
+"pointer": 2055,
+"name": "Newton",
+"country": 45
+},
+{
+"pointer": 2056,
+"name": "Conwy United",
+"country": 45
+},
+{
+"pointer": 2057,
+"name": "Fflint Town",
+"country": 45
+},
+{
+"pointer": 2058,
+"name": "Caernarfon",
+"country": 45
+},
+{
+"pointer": 2059,
+"name": "Cwmbran",
+"country": 45
+},
+{
+"pointer": 2060,
+"name": "Inter Cardiff (Inter Cabletel)",
+"country": 45
+},
+{
+"pointer": 2061,
+"name": "Caerswrs",
+"country": 45
+},
+{
+"pointer": 2062,
+"name": "Connah's Quay",
+"country": 45
+},
+{
+"pointer": 2063,
+"name": "Ebbw Vale",
+"country": 45
+},
+{
+"pointer": 2064,
+"name": "Llasantffraid",
+"country": 45
+},
+{
+"pointer": 2065,
+"name": "Porthmadog",
+"country": 45
+},
+{
+"pointer": 2066,
+"name": "Averyswyth Town",
+"country": 45
+},
+{
+"pointer": 2067,
+"name": "Ton Pentre",
+"country": 45
+},
+{
+"pointer": 2068,
+"name": "Rhyl FC",
+"country": 45
+},
+{
+"pointer": 2069,
+"name": "Holywell Town",
+"country": 45
+},
+{
+"pointer": 2070,
+"name": "Cemaes Bay",
+"country": 45
+},
+{
+"pointer": 2071,
+"name": "Carmarthen Town",
+"country": 45
+},
+{
+"pointer": 2072,
+"name": "Briton Ferry Athletic",
+"country": 45
+},
+{
+"pointer": 2101,
+"name": "Maccabi Tel Aviv",
+"country": 35
+},
+{
+"pointer": 2102,
+"name": "Maccabi Haifa",
+"country": 35
+},
+{
+"pointer": 2103,
+"name": "Hapoël Be'er-Sheva",
+"country": 35
+},
+{
+"pointer": 2104,
+"name": "Hapoël Tel-Aviv",
+"country": 35
+},
+{
+"pointer": 2105,
+"name": "Hapoel Petah Tikva",
+"country": 35
+},
+{
+"pointer": 2106,
+"name": "Beitar Jerusalén",
+"country": 35
+},
+{
+"pointer": 2107,
+"name": "Hapoël Haifa",
+"country": 35
+},
+{
+"pointer": 2108,
+"name": "Maccabi Petah-Tikva",
+"country": 35
+},
+{
+"pointer": 2109,
+"name": "Hapoel Kfar-Saba",
+"country": 35
+},
+{
+"pointer": 2110,
+"name": "Ironi Rishon LeZion",
+"country": 35
+},
+{
+"pointer": 2111,
+"name": "Bnei-Yehuda Tel-Aviv",
+"country": 35
+},
+{
+"pointer": 2112,
+"name": "Hapoel Beit-Shean",
+"country": 35
+},
+{
+"pointer": 2113,
+"name": "Hapoel Jerusalem",
+"country": 35
+},
+{
+"pointer": 2114,
+"name": "Maccabi Herzliya",
+"country": 35
+},
+{
+"pointer": 2115,
+"name": "Hapoel Tsafririm Holon",
+"country": 35
+},
+{
+"pointer": 2116,
+"name": "Hapoel Taibe",
+"country": 35
+},
+{
+"pointer": 2151,
+"name": "Valletta",
+"country": 40
+},
+{
+"pointer": 2152,
+"name": "Hibernians",
+"country": 40
+},
+{
+"pointer": 2153,
+"name": "Sliema",
+"country": 40
+},
+{
+"pointer": 2154,
+"name": "Floriana",
+"country": 40
+},
+{
+"pointer": 2155,
+"name": "Birkirkara",
+"country": 40
+},
+{
+"pointer": 2202,
+"name": "Klaksvikar Itrottarfelag",
+"country": 34
+},
+{
+"pointer": 2203,
+"name": "Gotu Itrottarfelag",
+"country": 34
+},
+{
+"pointer": 2204,
+"name": "HB Torshavn",
+"country": 34
+},
+{
+"pointer": 2205,
+"name": "B36 Torshavn",
+"country": 34
+},
+{
+"pointer": 2251,
+"name": "Zalguiris Vilnius",
+"country": 37
+},
+{
+"pointer": 2252,
+"name": "Inkaras Kaunas",
+"country": 37
+},
+{
+"pointer": 2253,
+"name": "Kareda S.",
+"country": 37
+},
+{
+"pointer": 2254,
+"name": "FK Zalguiris Kaunas",
+"country": 37
+},
+{
+"pointer": 2255,
+"name": "Ekranas Panevezys",
+"country": 37
+},
+{
+"pointer": 2256,
+"name": "Atlantas",
+"country": 37
+},
+{
+"pointer": 2401,
+"name": "Teuta",
+"country": 1
+},
+{
+"pointer": 2402,
+"name": "Partizan Tirana",
+"country": 1
+},
+{
+"pointer": 2403,
+"name": "SK Tirana",
+"country": 1
+},
+{
+"pointer": 2404,
+"name": "Tomori Berat",
+"country": 1
+},
+{
+"pointer": 2502,
+"name": "Dinamo Tbilisi",
+"country": 62
+},
+{
+"pointer": 2503,
+"name": "Dinamo Batumi",
+"country": 62
+},
+{
+"pointer": 2504,
+"name": "Lokomot. Tbilisi",
+"country": 62
+},
+{
+"pointer": 2505,
+"name": "Torpedo Kutaisi",
+"country": 62
+},
+{
+"pointer": 2506,
+"name": "Georgia Tbilisi",
+"country": 62
+},
+{
+"pointer": 2553,
+"name": "Constructorul",
+"country": 42
+},
+{
+"pointer": 2554,
+"name": "Zimbru Chisinau",
+"country": 42
+},
+{
+"pointer": 2556,
+"name": "Nistru Otaci",
+"country": 42
+},
+{
+"pointer": 2601,
+"name": "Bolívar",
+"country": 8
+},
+{
+"pointer": 2602,
+"name": "The Strongest",
+"country": 8
+},
+{
+"pointer": 2603,
+"name": "Oriente Petrolero",
+"country": 8
+},
+{
+"pointer": 2604,
+"name": "Blooming",
+"country": 8
+},
+{
+"pointer": 2651,
+"name": "El Nacional",
+"country": 89
+},
+{
+"pointer": 2652,
+"name": "Emelec",
+"country": 89
+},
+{
+"pointer": 2653,
+"name": "Barcelona Guayaquil",
+"country": 89
+},
+{
+"pointer": 2654,
+"name": "Liga D. Univers.",
+"country": 89
+},
+{
+"pointer": 2701,
+"name": "Dinamo Minsk",
+"country": 7
+},
+{
+"pointer": 2751,
+"name": "Universitario",
+"country": 59
+},
+{
+"pointer": 2752,
+"name": "Alianza Lima",
+"country": 59
+},
+{
+"pointer": 2753,
+"name": "Sporting Cristal",
+"country": 59
+},
+{
+"pointer": 2800,
+"name": "Flamengo",
+"country": 10
+},
+{
+"pointer": 2801,
+"name": "Vasco da Gama",
+"country": 10
+},
+{
+"pointer": 2802,
+"name": "Palmeiras",
+"country": 10
+},
+{
+"pointer": 2803,
+"name": "Botafogo",
+"country": 10
+},
+{
+"pointer": 2804,
+"name": "Sao Paulo",
+"country": 10
+},
+{
+"pointer": 2805,
+"name": "Gremio",
+"country": 10
+},
+{
+"pointer": 2806,
+"name": "Corinthians",
+"country": 10
+},
+{
+"pointer": 2807,
+"name": "Santos",
+"country": 10
+},
+{
+"pointer": 2808,
+"name": "Fluminense",
+"country": 10
+},
+{
+"pointer": 2809,
+"name": "Cruzeiro",
+"country": 10
+},
+{
+"pointer": 2810,
+"name": "At. Paranaense",
+"country": 10
+},
+{
+"pointer": 2811,
+"name": "Juventude",
+"country": 10
+},
+{
+"pointer": 2812,
+"name": "Atlético Mineiro",
+"country": 10
+},
+{
+"pointer": 2813,
+"name": "Portuguesa",
+"country": 10
+},
+{
+"pointer": 2814,
+"name": "Internacional",
+"country": 10
+},
+{
+"pointer": 2900,
+"name": "Peñarol",
+"country": 57
+},
+{
+"pointer": 2901,
+"name": "Nacional",
+"country": 57
+},
+{
+"pointer": 2902,
+"name": "Wanderers",
+"country": 57
+},
+{
+"pointer": 2903,
+"name": "River Plate (URU)",
+"country": 57
+},
+{
+"pointer": 2904,
+"name": "Bella Vista",
+"country": 57
+},
+{
+"pointer": 2905,
+"name": "Danubio",
+"country": 57
+},
+{
+"pointer": 2906,
+"name": "Defensor",
+"country": 57
+},
+{
+"pointer": 2907,
+"name": "Huracán B.",
+"country": 57
+},
+{
+"pointer": 2908,
+"name": "Liverpool",
+"country": 57
+},
+{
+"pointer": 2909,
+"name": "Rampla Jrs.",
+"country": 57
+},
+{
+"pointer": 2910,
+"name": "Rentistas",
+"country": 57
+},
+{
+"pointer": 2911,
+"name": "Villa Española",
+"country": 57
+},
+{
+"pointer": 2912,
+"name": "Cerro",
+"country": 57
+},
+{
+"pointer": 2913,
+"name": "Racing",
+"country": 57
+},
+{
+"pointer": 2951,
+"name": "Caracas",
+"country": 72
+},
+{
+"pointer": 2952,
+"name": "Atlético Zulia",
+"country": 72
+},
+{
+"pointer": 2953,
+"name": "Minervén",
+"country": 72
+},
+{
+"pointer": 3000,
+"name": "U. de Chile",
+"country": 14
+},
+{
+"pointer": 3001,
+"name": "U. Catolica",
+"country": 14
+},
+{
+"pointer": 3002,
+"name": "Colo Colo",
+"country": 14
+},
+{
+"pointer": 3003,
+"name": "Cobreloa",
+"country": 14
+},
+{
+"pointer": 3004,
+"name": "Audax Italiano",
+"country": 14
+},
+{
+"pointer": 3005,
+"name": "Coquimbo Unido",
+"country": 14
+},
+{
+"pointer": 3006,
+"name": "Provincial Osorno",
+"country": 14
+},
+{
+"pointer": 3007,
+"name": "Deportes La Serena",
+"country": 14
+},
+{
+"pointer": 3008,
+"name": "Deportes Temuco",
+"country": 14
+},
+{
+"pointer": 3009,
+"name": "Huachipato",
+"country": 14
+},
+{
+"pointer": 3010,
+"name": "Palestino",
+"country": 14
+},
+{
+"pointer": 3011,
+"name": "Deportes Concepción",
+"country": 14
+},
+{
+"pointer": 3012,
+"name": "Deportes Puerto Montt",
+"country": 14
+},
+{
+"pointer": 3013,
+"name": "Santiago Wanderers",
+"country": 14
+},
+{
+"pointer": 3014,
+"name": "Unión Española",
+"country": 14
+},
+{
+"pointer": 3015,
+"name": "Antofagasta",
+"country": 14
+},
+{
+"pointer": 3100,
+"name": "A. de Cali",
+"country": 16
+},
+{
+"pointer": 3101,
+"name": "N. de Medellín",
+"country": 16
+},
+{
+"pointer": 3102,
+"name": "Millonarios",
+"country": 16
+},
+{
+"pointer": 3103,
+"name": "Once Caldas",
+"country": 16
+},
+{
+"pointer": 3104,
+"name": "Indep. Medellín",
+"country": 16
+},
+{
+"pointer": 3105,
+"name": "Indep. Santa Fe",
+"country": 16
+},
+{
+"pointer": 3106,
+"name": "Deportivo Cali",
+"country": 16
+},
+{
+"pointer": 3107,
+"name": "Atlético Junior",
+"country": 16
+},
+{
+"pointer": 3108,
+"name": "Deportes Tolima",
+"country": 16
+},
+{
+"pointer": 3109,
+"name": "Envigado",
+"country": 16
+},
+{
+"pointer": 3110,
+"name": "Atlético Bucaramanga",
+"country": 16
+},
+{
+"pointer": 3111,
+"name": "Unión Magdalena",
+"country": 16
+},
+{
+"pointer": 3112,
+"name": "Dep. Tuluá (Cortuluá)",
+"country": 16
+},
+{
+"pointer": 3113,
+"name": "Deportivo Pereira",
+"country": 16
+},
+{
+"pointer": 3114,
+"name": "Dep. Quindío",
+"country": 16
+},
+{
+"pointer": 3115,
+"name": "Cúcuta Dep.",
+"country": 16
+},
+{
+"pointer": 3200,
+"name": "O. de Asunción",
+"country": 64
+},
+{
+"pointer": 3201,
+"name": "Cerro Porteño",
+"country": 64
+},
+{
+"pointer": 3202,
+"name": "Guaraní",
+"country": 64
+},
+{
+"pointer": 3203,
+"name": "At. Colegiales",
+"country": 64
+},
+{
+"pointer": 3300,
+"name": "Altrincham",
+"country": 30
+},
+{
+"pointer": 3301,
+"name": "Bath City",
+"country": 30
+},
+{
+"pointer": 3302,
+"name": "Bromsgrove Rovers",
+"country": 30
+},
+{
+"pointer": 3303,
+"name": "Dover Athletic",
+"country": 30
+},
+{
+"pointer": 3304,
+"name": "Farnborough Town",
+"country": 30
+},
+{
+"pointer": 3305,
+"name": "Gateshead",
+"country": 30
+},
+{
+"pointer": 3306,
+"name": "Halifax Town",
+"country": 30
+},
+{
+"pointer": 3307,
+"name": "Hayes",
+"country": 30
+},
+{
+"pointer": 3308,
+"name": "Hednesford Town",
+"country": 30
+},
+{
+"pointer": 3309,
+"name": "Kettering Town",
+"country": 30
+},
+{
+"pointer": 3310,
+"name": "Kidderminster Harriers",
+"country": 30
+},
+{
+"pointer": 3311,
+"name": "Macclesfield Town",
+"country": 30
+},
+{
+"pointer": 3312,
+"name": "Morecambe",
+"country": 30
+},
+{
+"pointer": 3313,
+"name": "Northwich Victoria",
+"country": 30
+},
+{
+"pointer": 3314,
+"name": "Rushden & Diamonds",
+"country": 30
+},
+{
+"pointer": 3315,
+"name": "Slough Town",
+"country": 30
+},
+{
+"pointer": 3316,
+"name": "Southport",
+"country": 30
+},
+{
+"pointer": 3317,
+"name": "Stalybridge Celtic",
+"country": 30
+},
+{
+"pointer": 3318,
+"name": "Stevenage Borough",
+"country": 30
+},
+{
+"pointer": 3319,
+"name": "Telford United",
+"country": 30
+},
+{
+"pointer": 3320,
+"name": "Welling United",
+"country": 30
+},
+{
+"pointer": 3321,
+"name": "Woking",
+"country": 30
+},
+{
+"pointer": 3322,
+"name": "Accrington Stanley",
+"country": 30
+},
+{
+"pointer": 3323,
+"name": "Alfreton Town",
+"country": 30
+},
+{
+"pointer": 3324,
+"name": "Bamber Bridge",
+"country": 30
+},
+{
+"pointer": 3325,
+"name": "Barrow",
+"country": 30
+},
+{
+"pointer": 3326,
+"name": "Bishop Auckland",
+"country": 30
+},
+{
+"pointer": 3327,
+"name": "Blyth Spartans",
+"country": 30
+},
+{
+"pointer": 3328,
+"name": "Boston United",
+"country": 30
+},
+{
+"pointer": 3329,
+"name": "Buxton",
+"country": 30
+},
+{
+"pointer": 3330,
+"name": "Chorley",
+"country": 30
+},
+{
+"pointer": 3331,
+"name": "Colwyn Bay",
+"country": 30
+},
+{
+"pointer": 4000,
+"name": "Skonto",
+"country": 112
+},
+{
+"pointer": 4001,
+"name": "Metalurgs Liepaja",
+"country": 112
+},
+{
+"pointer": 4002,
+"name": "Ventspils",
+"country": 112
+},
+{
+"pointer": 4003,
+"name": "Dinaburg",
+"country": 112
+},
+{
+"pointer": 4025,
+"name": "Pyunik",
+"country": 114
+},
+{
+"pointer": 4026,
+"name": "Tsement Ararat",
+"country": 114
+},
+{
+"pointer": 4027,
+"name": "FC Shirak",
+"country": 114
+},
+{
+"pointer": 4028,
+"name": "Ararat Erevan",
+"country": 114
+},
+{
+"pointer": 4029,
+"name": "Mika Ashtarak",
+"country": 114
+},
+{
+"pointer": 4050,
+"name": "Sileks",
+"country": 39
+},
+{
+"pointer": 4051,
+"name": "Sloga",
+"country": 39
+},
+{
+"pointer": 4052,
+"name": "Pobeda",
+"country": 39
+},
+{
+"pointer": 4053,
+"name": "Cementarnica",
+"country": 39
+},
+{
+"pointer": 4054,
+"name": "Rabotnicki",
+"country": 39
+},
+{
+"pointer": 4055,
+"name": "Pelister",
+"country": 39
+},
+{
+"pointer": 4075,
+"name": "Mozyr",
+"country": 7
+},
+{
+"pointer": 4076,
+"name": "Dnepr",
+"country": 7
+},
+{
+"pointer": 4077,
+"name": "Gomel",
+"country": 7
+},
+{
+"pointer": 4078,
+"name": "Bate Borisov",
+"country": 7
+},
+{
+"pointer": 4100,
+"name": "Lantana",
+"country": 90
+},
+{
+"pointer": 4101,
+"name": "Flora Tallinn",
+"country": 90
+},
+{
+"pointer": 4102,
+"name": "Levadia",
+"country": 90
+},
+{
+"pointer": 4103,
+"name": "Tulevik Viljanai",
+"country": 90
+},
+{
+"pointer": 4125,
+"name": "Neftchi Baku",
+"country": 6
+},
+{
+"pointer": 4126,
+"name": "Kapaz Ganja",
+"country": 6
+},
+{
+"pointer": 4127,
+"name": "Karabakh",
+"country": 6
+},
+{
+"pointer": 4128,
+"name": "Shamkir",
+"country": 6
+},
+{
+"pointer": 4200,
+"name": "Principat",
+"country": 75
+},
+{
+"pointer": 4201,
+"name": "Constantine",
+"country": 66
+},
+{
+"pointer": 4301,
+"name": "Carlton",
+"country": 4
+},
+{
+"pointer": 4302,
+"name": "Northern Spirit",
+"country": 4
+},
+{
+"pointer": 4303,
+"name": "Perth Glory",
+"country": 4
+},
+{
+"pointer": 4304,
+"name": "Adelaida City",
+"country": 4
+},
+{
+"pointer": 4305,
+"name": "Adelaida Sharks",
+"country": 4
+},
+{
+"pointer": 4306,
+"name": "Brisbane Strikers",
+"country": 4
+},
+{
+"pointer": 4307,
+"name": "Camberra Cosmos",
+"country": 4
+},
+{
+"pointer": 4308,
+"name": "Gippsland",
+"country": 4
+},
+{
+"pointer": 4309,
+"name": "Marconi Stallions",
+"country": 4
+},
+{
+"pointer": 4310,
+"name": "Melbourne Knights",
+"country": 4
+},
+{
+"pointer": 4311,
+"name": "Newcastle United",
+"country": 4
+},
+{
+"pointer": 4312,
+"name": "South Melbourne",
+"country": 4
+},
+{
+"pointer": 4313,
+"name": "Sydney Olympic",
+"country": 4
+},
+{
+"pointer": 4314,
+"name": "Sydney United",
+"country": 4
+},
+{
+"pointer": 4315,
+"name": "Wollongong",
+"country": 4
+},
+{
+"pointer": 4401,
+"name": "Hyundai Horang",
+"country": 193
+},
+{
+"pointer": 4501,
+"name": "Chicago Fire",
+"country": 61
+},
+{
+"pointer": 4502,
+"name": "Colorado R.",
+"country": 61
+},
+{
+"pointer": 4503,
+"name": "Columbus C.",
+"country": 61
+},
+{
+"pointer": 4504,
+"name": "D.C. United",
+"country": 61
+},
+{
+"pointer": 4505,
+"name": "Dallas Burns",
+"country": 61
+},
+{
+"pointer": 4506,
+"name": "Kansas C. W.",
+"country": 61
+},
+{
+"pointer": 4507,
+"name": "L.A. Galaxy",
+"country": 61
+},
+{
+"pointer": 4508,
+"name": "Miami F.",
+"country": 61
+},
+{
+"pointer": 4509,
+"name": "New England",
+"country": 61
+},
+{
+"pointer": 4510,
+"name": "Metrostars",
+"country": 61
+},
+{
+"pointer": 4511,
+"name": "San José E.",
+"country": 61
+},
+{
+"pointer": 4512,
+"name": "Tampa Bay",
+"country": 61
+},
+{
+"pointer": 4601,
+"name": "Persib",
+"country": 157
+},
+{
+"pointer": 4701,
+"name": "Esteglhal",
+"country": 119
+},
+{
+"pointer": 4802,
+"name": "Yokohama F. Marinos",
+"country": 65
+},
+{
+"pointer": 4803,
+"name": "Verdy Kawasaki",
+"country": 65
+},
+{
+"pointer": 4804,
+"name": "Nagoya Grampus",
+"country": 65
+},
+{
+"pointer": 4805,
+"name": "Júbilo Iwata",
+"country": 65
+},
+{
+"pointer": 4806,
+"name": "Consadale Sapporo",
+"country": 65
+},
+{
+"pointer": 4807,
+"name": "Kashima Antlers",
+"country": 65
+},
+{
+"pointer": 4808,
+"name": "Urawa Red",
+"country": 65
+},
+{
+"pointer": 4809,
+"name": "Jef Utd. Ichihara",
+"country": 65
+},
+{
+"pointer": 4810,
+"name": "Kashiwa Reysol",
+"country": 65
+},
+{
+"pointer": 4811,
+"name": "Bellmare Hiratsuka",
+"country": 65
+},
+{
+"pointer": 4812,
+"name": "Shimizu S Pulse",
+"country": 65
+},
+{
+"pointer": 4813,
+"name": "Kyoto Purple",
+"country": 65
+},
+{
+"pointer": 4814,
+"name": "Gamba Osaka",
+"country": 65
+},
+{
+"pointer": 4815,
+"name": "Vissel Kobe",
+"country": 65
+},
+{
+"pointer": 4816,
+"name": "Cerezo Osaka",
+"country": 65
+},
+{
+"pointer": 4817,
+"name": "Sanfrecce Hiroshima",
+"country": 65
+},
+{
+"pointer": 4818,
+"name": "Avispa Fukuoka",
+"country": 65
+},
+{
+"pointer": 4901,
+"name": "Raja Casablanca",
+"country": 41
+},
+{
+"pointer": 5001,
+"name": "Necaxa",
+"country": 83
+},
+{
+"pointer": 5002,
+"name": "Celaya",
+"country": 83
+},
+{
+"pointer": 5003,
+"name": "Guadalajara",
+"country": 83
+},
+{
+"pointer": 5004,
+"name": "Veracruz",
+"country": 83
+},
+{
+"pointer": 5005,
+"name": "América",
+"country": 83
+},
+{
+"pointer": 5006,
+"name": "U.A.G.",
+"country": 83
+},
+{
+"pointer": 5007,
+"name": "Puebla",
+"country": 83
+},
+{
+"pointer": 5008,
+"name": "Atlas",
+"country": 83
+},
+{
+"pointer": 5101,
+"name": "Shooting Stars",
+"country": 43
+},
+{
+"pointer": 5201,
+"name": "Orlando Pirates",
+"country": 52
+},
+{
+"pointer": 5202,
+"name": "Kaizer Chiefs",
+"country": 52
+},
+{
+"pointer": 5203,
+"name": "Amazulu",
+"country": 52
+},
+{
+"pointer": 5204,
+"name": "Manning Rangers",
+"country": 52
+},
+{
+"pointer": 5205,
+"name": "Sundowns",
+"country": 52
+},
+{
+"pointer": 5206,
+"name": "Mother City",
+"country": 52
+},
+{
+"pointer": 5207,
+"name": "Bush Bucks",
+"country": 52
+},
+{
+"pointer": 5208,
+"name": "Jomo Cosmos",
+"country": 52
+},
+{
+"pointer": 5209,
+"name": "Wits University",
+"country": 52
+},
+{
+"pointer": 5210,
+"name": "Free State Stars",
+"country": 52
+},
+{
+"pointer": 5211,
+"name": "Hellenic",
+"country": 52
+},
+{
+"pointer": 5212,
+"name": "Swallows",
+"country": 52
+},
+{
+"pointer": 5213,
+"name": "Bloemfontein",
+"country": 52
+},
+{
+"pointer": 5214,
+"name": "Vaal",
+"country": 52
+},
+{
+"pointer": 5215,
+"name": "SuperSport",
+"country": 52
+},
+{
+"pointer": 5216,
+"name": "Santos",
+"country": 52
+},
+{
+"pointer": 5217,
+"name": "Ajax Cape Town",
+"country": 52
+},
+{
+"pointer": 5218,
+"name": "Dynamos",
+"country": 52
+},
+{
+"pointer": 5301,
+"name": "Etoile du Sahel",
+"country": 121
+},
+{
+"pointer": 5302,
+"name": "Esperance S.",
+"country": 121
+},
+{
+"pointer": 5401,
+"name": "Jedintsvo",
+"country": 9
+},
+{
+"pointer": 5402,
+"name": "NK Brotnjo",
+"country": 9
+},
+{
+"pointer": 5403,
+"name": "Zeljeznicar",
+"country": 9
+},
+{
+"pointer": 5404,
+"name": "NK Buducnost",
+"country": 9
+},
+{
+"pointer": 5500,
+"name": "Constellació",
+"country": 22
+},
+{
+"pointer": 5501,
+"name": "F91 Dudelange",
+"country": 38
+},
+{
+"pointer": 5502,
+"name": "Verín",
+"country": 22
+},
+{
+"pointer": 5503,
+"name": "Viveiro",
+"country": 22
+},
+{
+"pointer": 5504,
+"name": "Gondomar",
+"country": 22
+},
+{
+"pointer": 5505,
+"name": "Cerceda",
+"country": 22
+},
+{
+"pointer": 5506,
+"name": "Compostela B",
+"country": 22
+},
+{
+"pointer": 5507,
+"name": "Pontenova",
+"country": 22
+},
+{
+"pointer": 5508,
+"name": "Ponte Ourense",
+"country": 22
+},
+{
+"pointer": 5509,
+"name": "Xove Lago",
+"country": 22
+},
+{
+"pointer": 5510,
+"name": "Malpica",
+"country": 22
+},
+{
+"pointer": 5511,
+"name": "Rápido de Bouzas",
+"country": 22
+},
+{
+"pointer": 5512,
+"name": "Betanzos",
+"country": 22
+},
+{
+"pointer": 5513,
+"name": "Pumarín",
+"country": 22
+},
+{
+"pointer": 5514,
+"name": "Tuilla",
+"country": 22
+},
+{
+"pointer": 5515,
+"name": "Astur",
+"country": 22
+},
+{
+"pointer": 5516,
+"name": "Titánico",
+"country": 22
+},
+{
+"pointer": 5517,
+"name": "Covadonga",
+"country": 22
+},
+{
+"pointer": 5518,
+"name": "Turón",
+"country": 22
+},
+{
+"pointer": 5519,
+"name": "Colloto",
+"country": 22
+},
+{
+"pointer": 5520,
+"name": "Piloñesa",
+"country": 22
+},
+{
+"pointer": 5521,
+"name": "Llanes",
+"country": 22
+},
+{
+"pointer": 5522,
+"name": "Mosconia",
+"country": 22
+},
+{
+"pointer": 5523,
+"name": "Valdesoto",
+"country": 22
+},
+{
+"pointer": 5524,
+"name": "Trasona",
+"country": 22
+},
+{
+"pointer": 5525,
+"name": "San Martín",
+"country": 22
+},
+{
+"pointer": 5526,
+"name": "Ribadesella",
+"country": 22
+},
+{
+"pointer": 5527,
+"name": "Navia",
+"country": 22
+},
+{
+"pointer": 5528,
+"name": "Textil Escudo",
+"country": 22
+},
+{
+"pointer": 5529,
+"name": "Bezana",
+"country": 22
+},
+{
+"pointer": 5530,
+"name": "Velarde",
+"country": 22
+},
+{
+"pointer": 5531,
+"name": "Deva",
+"country": 22
+},
+{
+"pointer": 5532,
+"name": "Castro",
+"country": 22
+},
+{
+"pointer": 5533,
+"name": "Villaescusa",
+"country": 22
+},
+{
+"pointer": 5534,
+"name": "Naval",
+"country": 22
+},
+{
+"pointer": 5535,
+"name": "Rayo Cantabria",
+"country": 22
+},
+{
+"pointer": 5536,
+"name": "Guarnizo",
+"country": 22
+},
+{
+"pointer": 5537,
+"name": "Laredo",
+"country": 22
+},
+{
+"pointer": 5538,
+"name": "Ayrón",
+"country": 22
+},
+{
+"pointer": 5539,
+"name": "Santoña",
+"country": 22
+},
+{
+"pointer": 5540,
+"name": "Revilla",
+"country": 22
+},
+{
+"pointer": 5541,
+"name": "Escobedo",
+"country": 22
+},
+{
+"pointer": 5542,
+"name": "Albericia",
+"country": 22
+},
+{
+"pointer": 5543,
+"name": "Cayón",
+"country": 22
+},
+{
+"pointer": 5544,
+"name": "Barreda",
+"country": 22
+},
+{
+"pointer": 5545,
+"name": "Ribamontán",
+"country": 22
+},
+{
+"pointer": 5546,
+"name": "Amorebieta",
+"country": 22
+},
+{
+"pointer": 5547,
+"name": "Lagun Onak",
+"country": 22
+},
+{
+"pointer": 5548,
+"name": "Aurrerá B",
+"country": 22
+},
+{
+"pointer": 5549,
+"name": "Alavés C",
+"country": 22
+},
+{
+"pointer": 5550,
+"name": "Real Unión B",
+"country": 22
+},
+{
+"pointer": 5551,
+"name": "Bergara",
+"country": 22
+},
+{
+"pointer": 5552,
+"name": "Arenas",
+"country": 22
+},
+{
+"pointer": 5553,
+"name": "Aurrerá Ondarroa",
+"country": 22
+},
+{
+"pointer": 5554,
+"name": "Hernani",
+"country": 22
+},
+{
+"pointer": 5555,
+"name": "Universidad PV",
+"country": 22
+},
+{
+"pointer": 5556,
+"name": "Sodupe",
+"country": 22
+},
+{
+"pointer": 5557,
+"name": "C. Durango",
+"country": 22
+},
+{
+"pointer": 5558,
+"name": "Basconia",
+"country": 22
+},
+{
+"pointer": 5559,
+"name": "Santboiá",
+"country": 22
+},
+{
+"pointer": 5560,
+"name": "Reus Deportivo",
+"country": 22
+},
+{
+"pointer": 5561,
+"name": "Tortosa",
+"country": 22
+},
+{
+"pointer": 5562,
+"name": "Júpiter",
+"country": 22
+},
+{
+"pointer": 5563,
+"name": "Guixols",
+"country": 22
+},
+{
+"pointer": 5564,
+"name": "Palafrugell",
+"country": 22
+},
+{
+"pointer": 5565,
+"name": "Vilassar",
+"country": 22
+},
+{
+"pointer": 5566,
+"name": "Girona",
+"country": 22
+},
+{
+"pointer": 5567,
+"name": "Banyoles",
+"country": 22
+},
+{
+"pointer": 5568,
+"name": "Vilobí",
+"country": 22
+},
+{
+"pointer": 5569,
+"name": "Badaloní",
+"country": 22
+},
+{
+"pointer": 5570,
+"name": "Cornellá",
+"country": 22
+},
+{
+"pointer": 5571,
+"name": "Balaguer",
+"country": 22
+},
+{
+"pointer": 5572,
+"name": "Tárrega",
+"country": 22
+},
+{
+"pointer": 5573,
+"name": "Europa",
+"country": 22
+},
+{
+"pointer": 5574,
+"name": "Barcelona C",
+"country": 22
+},
+{
+"pointer": 5575,
+"name": "Buñol",
+"country": 22
+},
+{
+"pointer": 5576,
+"name": "Pego",
+"country": 22
+},
+{
+"pointer": 5577,
+"name": "Vinarós",
+"country": 22
+},
+{
+"pointer": 5578,
+"name": "Foios",
+"country": 22
+},
+{
+"pointer": 5579,
+"name": "Castellón B",
+"country": 22
+},
+{
+"pointer": 5580,
+"name": "Pinoso",
+"country": 22
+},
+{
+"pointer": 5581,
+"name": "Denia",
+"country": 22
+},
+{
+"pointer": 5582,
+"name": "Torrellano",
+"country": 22
+},
+{
+"pointer": 5583,
+"name": "Elche B",
+"country": 22
+},
+{
+"pointer": 5584,
+"name": "Santa Pola",
+"country": 22
+},
+{
+"pointer": 5585,
+"name": "Burjassot",
+"country": 22
+},
+{
+"pointer": 5586,
+"name": "Gimnástico",
+"country": 22
+},
+{
+"pointer": 5587,
+"name": "Levante B",
+"country": 22
+},
+{
+"pointer": 5588,
+"name": "Onda",
+"country": 22
+},
+{
+"pointer": 5589,
+"name": "Eldense",
+"country": 22
+},
+{
+"pointer": 5590,
+"name": "Alicante",
+"country": 22
+},
+{
+"pointer": 5591,
+"name": "Vall de Uxó",
+"country": 22
+},
+{
+"pointer": 5592,
+"name": "Pegaso",
+"country": 22
+},
+{
+"pointer": 5593,
+"name": "Coslada",
+"country": 22
+},
+{
+"pointer": 5594,
+"name": "Las Rozas",
+"country": 22
+},
+{
+"pointer": 5595,
+"name": "At. Aviación",
+"country": 22
+},
+{
+"pointer": 5596,
+"name": "Navalcarnero",
+"country": 22
+},
+{
+"pointer": 5597,
+"name": "At. Pinto",
+"country": 22
+},
+{
+"pointer": 5598,
+"name": "Puerta Bonita",
+"country": 22
+},
+{
+"pointer": 5599,
+"name": "Parla",
+"country": 22
+},
+{
+"pointer": 5600,
+"name": "Cercedilla",
+"country": 22
+},
+{
+"pointer": 5601,
+"name": "Getafe B",
+"country": 22
+},
+{
+"pointer": 5602,
+"name": "Rayo Vallecano B",
+"country": 22
+},
+{
+"pointer": 5603,
+"name": "San Fernando (Hen)",
+"country": 22
+},
+{
+"pointer": 5604,
+"name": "Santa Ana",
+"country": 22
+},
+{
+"pointer": 5605,
+"name": "Norma S.Leonardo",
+"country": 22
+},
+{
+"pointer": 5606,
+"name": "Medinense",
+"country": 22
+},
+{
+"pointer": 5607,
+"name": "Laguna",
+"country": 22
+},
+{
+"pointer": 5608,
+"name": "Becerril",
+"country": 22
+},
+{
+"pointer": 5609,
+"name": "Venta de Baños",
+"country": 22
+},
+{
+"pointer": 5610,
+"name": "Hullera V. Leonesa",
+"country": 22
+},
+{
+"pointer": 5611,
+"name": "Salamanca B",
+"country": 22
+},
+{
+"pointer": 5612,
+"name": "Astorga",
+"country": 22
+},
+{
+"pointer": 5613,
+"name": "Racing Lermeño",
+"country": 22
+},
+{
+"pointer": 5614,
+"name": "Béjar Industrial",
+"country": 22
+},
+{
+"pointer": 5615,
+"name": "Las Navas",
+"country": 22
+},
+{
+"pointer": 5616,
+"name": "C. Leonesa B",
+"country": 22
+},
+{
+"pointer": 5617,
+"name": "Benavente",
+"country": 22
+},
+{
+"pointer": 5618,
+"name": "La Bañeza",
+"country": 22
+},
+{
+"pointer": 5619,
+"name": "At. Bembibre",
+"country": 22
+},
+{
+"pointer": 5620,
+"name": "Santa Marta",
+"country": 22
+},
+{
+"pointer": 5621,
+"name": "Torredonjimeno",
+"country": 22
+},
+{
+"pointer": 5622,
+"name": "Ubeda",
+"country": 22
+},
+{
+"pointer": 5623,
+"name": "Alhaurino",
+"country": 22
+},
+{
+"pointer": 5624,
+"name": "Loja",
+"country": 22
+},
+{
+"pointer": 5625,
+"name": "Roquetas",
+"country": 22
+},
+{
+"pointer": 5626,
+"name": "Los Boliches",
+"country": 22
+},
+{
+"pointer": 5627,
+"name": "Arenas Armilla",
+"country": 22
+},
+{
+"pointer": 5628,
+"name": "Granada 74",
+"country": 22
+},
+{
+"pointer": 5629,
+"name": "Vandalia Inds.",
+"country": 22
+},
+{
+"pointer": 5630,
+"name": "Iliturgi",
+"country": 22
+},
+{
+"pointer": 5631,
+"name": "Fuengirola",
+"country": 22
+},
+{
+"pointer": 5632,
+"name": "Málaga B",
+"country": 22
+},
+{
+"pointer": 5633,
+"name": "San Pedro (Alc.)",
+"country": 22
+},
+{
+"pointer": 5634,
+"name": "Antequera",
+"country": 22
+},
+{
+"pointer": 5635,
+"name": "Torremolinos",
+"country": 22
+},
+{
+"pointer": 5636,
+"name": "Imperio",
+"country": 22
+},
+{
+"pointer": 5637,
+"name": "Maracena",
+"country": 22
+},
+{
+"pointer": 5638,
+"name": "Pozoblanco",
+"country": 22
+},
+{
+"pointer": 5639,
+"name": "Los Barrios",
+"country": 22
+},
+{
+"pointer": 5640,
+"name": "Los Palacios",
+"country": 22
+},
+{
+"pointer": 5641,
+"name": "Córdoba B",
+"country": 22
+},
+{
+"pointer": 5642,
+"name": "Cartaya",
+"country": 22
+},
+{
+"pointer": 5643,
+"name": "Portuense",
+"country": 22
+},
+{
+"pointer": 5644,
+"name": "Puerto Real",
+"country": 22
+},
+{
+"pointer": 5645,
+"name": "Chiclana",
+"country": 22
+},
+{
+"pointer": 5646,
+"name": "Recreativo B",
+"country": 22
+},
+{
+"pointer": 5647,
+"name": "Serrallo",
+"country": 22
+},
+{
+"pointer": 5648,
+"name": "San José",
+"country": 22
+},
+{
+"pointer": 5649,
+"name": "Lucentino Ind.",
+"country": 22
+},
+{
+"pointer": 5650,
+"name": "Ayamonte",
+"country": 22
+},
+{
+"pointer": 5651,
+"name": "Tomares",
+"country": 22
+},
+{
+"pointer": 5652,
+"name": "Jerez Ind.",
+"country": 22
+},
+{
+"pointer": 5653,
+"name": "La Palma",
+"country": 22
+},
+{
+"pointer": 5654,
+"name": "At. Sanluqueño",
+"country": 22
+},
+{
+"pointer": 5655,
+"name": "Villanueva (Cór.)",
+"country": 22
+},
+{
+"pointer": 5656,
+"name": "Montuiri",
+"country": 22
+},
+{
+"pointer": 5657,
+"name": "Manacor",
+"country": 22
+},
+{
+"pointer": 5658,
+"name": "At. Baleares",
+"country": 22
+},
+{
+"pointer": 5659,
+"name": "Sp. Mahonés",
+"country": 22
+},
+{
+"pointer": 5660,
+"name": "At. Ciudadela",
+"country": 22
+},
+{
+"pointer": 5661,
+"name": "Constancia",
+"country": 22
+},
+{
+"pointer": 5662,
+"name": "Eivissa",
+"country": 22
+},
+{
+"pointer": 5663,
+"name": "Santa Ponsa",
+"country": 22
+},
+{
+"pointer": 5664,
+"name": "Poblense",
+"country": 22
+},
+{
+"pointer": 5665,
+"name": "Playas Calviá",
+"country": 22
+},
+{
+"pointer": 5666,
+"name": "Santa Eulalia",
+"country": 22
+},
+{
+"pointer": 5667,
+"name": "Binisalem",
+"country": 22
+},
+{
+"pointer": 5668,
+"name": "Montaura",
+"country": 22
+},
+{
+"pointer": 5669,
+"name": "España",
+"country": 22
+},
+{
+"pointer": 5670,
+"name": "Alayor",
+"country": 22
+},
+{
+"pointer": 5671,
+"name": "Ferriolense",
+"country": 22
+},
+{
+"pointer": 5672,
+"name": "Villafranca (Mal.)",
+"country": 22
+},
+{
+"pointer": 5673,
+"name": "Cardessar",
+"country": 22
+},
+{
+"pointer": 5674,
+"name": "Pollensa",
+"country": 22
+},
+{
+"pointer": 5675,
+"name": "Tenisca",
+"country": 22
+},
+{
+"pointer": 5676,
+"name": "San Isidro",
+"country": 22
+},
+{
+"pointer": 5677,
+"name": "Orotava",
+"country": 22
+},
+{
+"pointer": 5678,
+"name": "Las Palmas B",
+"country": 22
+},
+{
+"pointer": 5679,
+"name": "Doramas",
+"country": 22
+},
+{
+"pointer": 5680,
+"name": "O. Marítima",
+"country": 22
+},
+{
+"pointer": 5681,
+"name": "La Angostura",
+"country": 22
+},
+{
+"pointer": 5682,
+"name": "Victoria",
+"country": 22
+},
+{
+"pointer": 5683,
+"name": "Corralejo",
+"country": 22
+},
+{
+"pointer": 5684,
+"name": "Las Zocas",
+"country": 22
+},
+{
+"pointer": 5685,
+"name": "Tenerife B",
+"country": 22
+},
+{
+"pointer": 5686,
+"name": "Unión Carrizal",
+"country": 22
+},
+{
+"pointer": 5687,
+"name": "Castillo",
+"country": 22
+},
+{
+"pointer": 5688,
+"name": "Telde",
+"country": 22
+},
+{
+"pointer": 5689,
+"name": "La Oliva",
+"country": 22
+},
+{
+"pointer": 5690,
+"name": "Ibarra",
+"country": 22
+},
+{
+"pointer": 5691,
+"name": "Laguna (Ten.)",
+"country": 22
+},
+{
+"pointer": 5692,
+"name": "Univ. San Antón",
+"country": 22
+},
+{
+"pointer": 5693,
+"name": "Molinense",
+"country": 22
+},
+{
+"pointer": 5694,
+"name": "Jumilla",
+"country": 22
+},
+{
+"pointer": 5695,
+"name": "Mazarrón",
+"country": 22
+},
+{
+"pointer": 5696,
+"name": "Alquerías",
+"country": 22
+},
+{
+"pointer": 5697,
+"name": "Ciudad de Murcia",
+"country": 22
+},
+{
+"pointer": 5698,
+"name": "Murcia B",
+"country": 22
+},
+{
+"pointer": 5699,
+"name": "Sangonera",
+"country": 22
+},
+{
+"pointer": 5700,
+"name": "Realesa Las Palas",
+"country": 22
+},
+{
+"pointer": 5701,
+"name": "Horadada",
+"country": 22
+},
+{
+"pointer": 5702,
+"name": "Orihuela",
+"country": 22
+},
+{
+"pointer": 5703,
+"name": "Pinatar",
+"country": 22
+},
+{
+"pointer": 5704,
+"name": "Lumbreras",
+"country": 22
+},
+{
+"pointer": 5705,
+"name": "O. Totana",
+"country": 22
+},
+{
+"pointer": 5706,
+"name": "Bala Azul",
+"country": 22
+},
+{
+"pointer": 5707,
+"name": "Cieza",
+"country": 22
+},
+{
+"pointer": 5708,
+"name": "Caravaca",
+"country": 22
+},
+{
+"pointer": 5709,
+"name": "Alhameño",
+"country": 22
+},
+{
+"pointer": 5710,
+"name": "Monesterio",
+"country": 22
+},
+{
+"pointer": 5711,
+"name": "Coria-Galco",
+"country": 22
+},
+{
+"pointer": 5712,
+"name": "Badajoz B",
+"country": 22
+},
+{
+"pointer": 5713,
+"name": "Montijo",
+"country": 22
+},
+{
+"pointer": 5714,
+"name": "La Estrella",
+"country": 22
+},
+{
+"pointer": 5715,
+"name": "Grabasa Burguillos",
+"country": 22
+},
+{
+"pointer": 5716,
+"name": "Villafranca",
+"country": 22
+},
+{
+"pointer": 5717,
+"name": "Villanovense",
+"country": 22
+},
+{
+"pointer": 5718,
+"name": "Castuera",
+"country": 22
+},
+{
+"pointer": 5719,
+"name": "Extremadura B",
+"country": 22
+},
+{
+"pointer": 5720,
+"name": "Sanvicenteño",
+"country": 22
+},
+{
+"pointer": 5721,
+"name": "Díter Zafra",
+"country": 22
+},
+{
+"pointer": 5722,
+"name": "Valdelacalzada",
+"country": 22
+},
+{
+"pointer": 5723,
+"name": "Cerro Reyes",
+"country": 22
+},
+{
+"pointer": 5724,
+"name": "Moraleja",
+"country": 22
+},
+{
+"pointer": 5725,
+"name": "Santa Amalia",
+"country": 22
+},
+{
+"pointer": 5726,
+"name": "River Ebro",
+"country": 22
+},
+{
+"pointer": 5727,
+"name": "Haro",
+"country": 22
+},
+{
+"pointer": 5728,
+"name": "Urroztarra",
+"country": 22
+},
+{
+"pointer": 5729,
+"name": "Aoiz",
+"country": 22
+},
+{
+"pointer": 5730,
+"name": "Arnedo",
+"country": 22
+},
+{
+"pointer": 5731,
+"name": "Agoncillo",
+"country": 22
+},
+{
+"pointer": 5732,
+"name": "Valle de Egües",
+"country": 22
+},
+{
+"pointer": 5733,
+"name": "Azkoyen",
+"country": 22
+},
+{
+"pointer": 5734,
+"name": "Alberite",
+"country": 22
+},
+{
+"pointer": 5735,
+"name": "Burladés",
+"country": 22
+},
+{
+"pointer": 5736,
+"name": "Aluvión Cascante",
+"country": 22
+},
+{
+"pointer": 5737,
+"name": "Beti Onak",
+"country": 22
+},
+{
+"pointer": 5738,
+"name": "Oberena",
+"country": 22
+},
+{
+"pointer": 5739,
+"name": "Artajonés",
+"country": 22
+},
+{
+"pointer": 5740,
+"name": "Mirandés",
+"country": 22
+},
+{
+"pointer": 5741,
+"name": "Alfaro",
+"country": 22
+},
+{
+"pointer": 5742,
+"name": "Idoya",
+"country": 22
+},
+{
+"pointer": 5743,
+"name": "Tamarite",
+"country": 22
+},
+{
+"pointer": 5744,
+"name": "Lalueza",
+"country": 22
+},
+{
+"pointer": 5745,
+"name": "Alcampel",
+"country": 22
+},
+{
+"pointer": 5746,
+"name": "Barbastro",
+"country": 22
+},
+{
+"pointer": 5747,
+"name": "Fraga",
+"country": 22
+},
+{
+"pointer": 5748,
+"name": "Utebo",
+"country": 22
+},
+{
+"pointer": 5749,
+"name": "Ebro",
+"country": 22
+},
+{
+"pointer": 5750,
+"name": "Ejea",
+"country": 22
+},
+{
+"pointer": 5751,
+"name": "Jacetano",
+"country": 22
+},
+{
+"pointer": 5752,
+"name": "Sariñena",
+"country": 22
+},
+{
+"pointer": 5753,
+"name": "Teruel",
+"country": 22
+},
+{
+"pointer": 5754,
+"name": "Fuentes",
+"country": 22
+},
+{
+"pointer": 5755,
+"name": "San Gregorio",
+"country": 22
+},
+{
+"pointer": 5756,
+"name": "Zuera",
+"country": 22
+},
+{
+"pointer": 5757,
+"name": "La Almunia",
+"country": 22
+},
+{
+"pointer": 5758,
+"name": "Villanueva",
+"country": 22
+},
+{
+"pointer": 5759,
+"name": "Puertollano",
+"country": 22
+},
+{
+"pointer": 5760,
+"name": "Bolañego",
+"country": 22
+},
+{
+"pointer": 5761,
+"name": "Cabanillas",
+"country": 22
+},
+{
+"pointer": 5762,
+"name": "Talavera B",
+"country": 22
+},
+{
+"pointer": 5763,
+"name": "Torpedo 66",
+"country": 22
+},
+{
+"pointer": 5764,
+"name": "Cuenca",
+"country": 22
+},
+{
+"pointer": 5765,
+"name": "Valdepeñas",
+"country": 22
+},
+{
+"pointer": 5766,
+"name": "Piedrabuena",
+"country": 22
+},
+{
+"pointer": 5767,
+"name": "Quintanar",
+"country": 22
+},
+{
+"pointer": 5768,
+"name": "Gim. Alcázar",
+"country": 22
+},
+{
+"pointer": 5769,
+"name": "Campillo",
+"country": 22
+},
+{
+"pointer": 5770,
+"name": "Albacete B",
+"country": 22
+},
+{
+"pointer": 5771,
+"name": "Hellín",
+"country": 22
+},
+{
+"pointer": 5772,
+"name": "Almansa",
+"country": 22
+},
+{
+"pointer": 5773,
+"name": "Villarrobledo",
+"country": 22
+},
+{
+"pointer": 5774,
+"name": "Torrijos",
+"country": 22
+},
+{
+"pointer": 5775,
+"name": "Manzanares",
+"country": 22
+},
+{
+"pointer": 5776,
+"name": "Guadalajara",
+"country": 22
+},
+{
+"pointer": 5777,
+"name": "Tomelloso",
+"country": 22
+},
+{
+"pointer": 5778,
+"name": "Socuéllamos",
+"country": 22
+},
+{
+"pointer": 5779,
+"name": "Peralta",
+"country": 22
+},
+{
+"pointer": 5780,
+"name": "Villarreal B",
+"country": 22
+},
+{
+"pointer": 9001,
+"name": "River",
+"country": 3
+},
+{
+"pointer": 9002,
+"name": "San Lorenzo",
+"country": 3
+},
+{
+"pointer": 9003,
+"name": "Vélez",
+"country": 3
+},
+{
+"pointer": 9004,
+"name": "Argentinos Jrs.",
+"country": 3
+},
+{
+"pointer": 9005,
+"name": "Newell's",
+"country": 3
+},
+{
+"pointer": 9006,
+"name": "Belgrano",
+"country": 3
+},
+{
+"pointer": 9007,
+"name": "Lanús",
+"country": 3
+},
+{
+"pointer": 9008,
+"name": "Banfield",
+"country": 3
+},
+{
+"pointer": 9009,
+"name": "Rosario Central",
+"country": 3
+},
+{
+"pointer": 9010,
+"name": "Gimnasia (LP)",
+"country": 3
+},
+{
+"pointer": 9011,
+"name": "Independiente",
+"country": 3
+},
+{
+"pointer": 9012,
+"name": "Racing",
+"country": 3
+},
+{
+"pointer": 9013,
+"name": "Boca",
+"country": 3
+},
+{
+"pointer": 9014,
+"name": "Huracán",
+"country": 3
+},
+{
+"pointer": 9015,
+"name": "Platense",
+"country": 3
+},
+{
+"pointer": 9016,
+"name": "Gimnasia (J)",
+"country": 3
+},
+{
+"pointer": 9017,
+"name": "Ferro",
+"country": 3
+},
+{
+"pointer": 9018,
+"name": "Dep. Español",
+"country": 3
+},
+{
+"pointer": 9019,
+"name": "Colón",
+"country": 3
+},
+{
+"pointer": 9020,
+"name": "Estudiantes (LP)",
+"country": 3
+},
+{
+"pointer": 9021,
+"name": "Dep. Morón",
+"country": 3
+},
+{
+"pointer": 9022,
+"name": "Arsenal",
+"country": 3
+},
+{
+"pointer": 9023,
+"name": "Tigre",
+"country": 3
+},
+{
+"pointer": 9024,
+"name": "San Martín (Tuc)",
+"country": 3
+},
+{
+"pointer": 9025,
+"name": "Ctral. Córdoba",
+"country": 3
+},
+{
+"pointer": 9026,
+"name": "Los Andes",
+"country": 3
+},
+{
+"pointer": 9027,
+"name": "Talleres (Cba)",
+"country": 3
+},
+{
+"pointer": 9028,
+"name": "All Boys",
+"country": 3
+},
+{
+"pointer": 9029,
+"name": "Gimnasia y Tiro",
+"country": 3
+},
+{
+"pointer": 9030,
+"name": "Unión (Sta Fe)",
+"country": 3
+},
+{
+"pointer": 9031,
+"name": "Godoy Cruz",
+"country": 3
+},
+{
+"pointer": 9032,
+"name": "San Martín (SJ)",
+"country": 3
+},
+{
+"pointer": 9033,
+"name": "Atl. Rafaela",
+"country": 3
+},
+{
+"pointer": 9034,
+"name": "Huracán (Ctes)",
+"country": 3
+},
+{
+"pointer": 9035,
+"name": "Nueva Chicago",
+"country": 3
+},
+{
+"pointer": 9036,
+"name": "Instituto (Cba)",
+"country": 3
+},
+{
+"pointer": 9037,
+"name": "Quilmes",
+"country": 3
+},
+{
+"pointer": 9038,
+"name": "Douglas Haig",
+"country": 3
+},
+{
+"pointer": 9039,
+"name": "Atl. Tucumán",
+"country": 3
+},
+{
+"pointer": 9040,
+"name": "Chacarita Jrs.",
+"country": 3
+},
+{
+"pointer": 9041,
+"name": "Atlanta",
+"country": 3
+},
+{
+"pointer": 9042,
+"name": "Alte. Brown",
+"country": 3
+},
+{
+"pointer": 9043,
+"name": "San Miguel",
+"country": 3
+},
+{
+"pointer": 9044,
+"name": "Defensa y Just.",
+"country": 3
+},
+{
+"pointer": 9045,
+"name": "Aldosivi (M.P.)",
+"country": 3
+},
+{
+"pointer": 9046,
+"name": "Almagro",
+"country": 3
+},
+{
+"pointer": 9047,
+"name": "Alte. Brown (Ar.)",
+"country": 3
+},
+{
+"pointer": 9048,
+"name": "Cipolletti (RN)",
+"country": 3
+},
+{
+"pointer": 9050,
+"name": "Dep. Italiano",
+"country": 3
+},
+{
+"pointer": 9051,
+"name": "Estudiantes (B.A.)",
+"country": 3
+},
+{
+"pointer": 9052,
+"name": "Olimpo",
+"country": 3
+},
+{
+"pointer": 9053,
+"name": "San Martín (Mza)",
+"country": 3
+},
+{
+"pointer": 9054,
+"name": "Juv. Antoniana",
+"country": 3
+},
+{
+"pointer": 9055,
+"name": "Gim. Entre Ríos",
+"country": 3
+},
+{
+"pointer": 9056,
+"name": "El Porvenir",
+"country": 3
+},
+{
+"pointer": 9057,
+"name": "Argentino Ros.",
+"country": 3
+},
+{
+"pointer": 9058,
+"name": "Temperley",
+"country": 3
+},
+{
+"pointer": 9059,
+"name": "Independente (Mza)",
+"country": 3
+},
+{
+"pointer": 9060,
+"name": "Villa Mitre",
+"country": 3
+},
+{
+"pointer": 9061,
+"name": "Racing (Cor)",
+"country": 3
+}
+]

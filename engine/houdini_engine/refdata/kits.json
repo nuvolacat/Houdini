@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "shirt": "Azul y rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 2,
+    "shirt": "Azul y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 3,
+    "shirt": "Blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 4,
+    "shirt": "Blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 5,
+    "shirt": "Rojo y blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 6,
+    "shirt": "Blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 7,
+    "shirt": "Blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 8,
+    "shirt": "Blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 9,
+    "shirt": "Azul",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 10,
+    "shirt": "Blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 11,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 12,
+    "shirt": "Rojo y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 13,
+    "shirt": "Blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 14,
+    "shirt": "Rojo y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 15,
+    "shirt": "Azul",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 16,
+    "shirt": "Rojo y blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 17,
+    "shirt": "Violeta y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 18,
+    "shirt": "Azul y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 19,
+    "shirt": "Verde y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 20,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 21,
+    "shirt": "Blanco y rojo",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 22,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 23,
+    "shirt": "Rojo",
+    "shorts": "Negro"
+  },
+  {
+    "id": 24,
+    "shirt": "Verde y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 25,
+    "shirt": "Rojo",
+    "shorts": "Negro"
+  },
+  {
+    "id": 26,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 27,
+    "shirt": "Blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 28,
+    "shirt": "Azul y rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 29,
+    "shirt": "Blanco y negro",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 30,
+    "shirt": "Blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 31,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 32,
+    "shirt": "Amarillo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 33,
+    "shirt": "Azul",
+    "shorts": "Azul"
+  },
+  {
+    "id": 34,
+    "shirt": "Blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 35,
+    "shirt": "Rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 36,
+    "shirt": "Azul y rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 37,
+    "shirt": "Verde",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 38,
+    "shirt": "Rojo",
+    "shorts": "Negro"
+  },
+  {
+    "id": 39,
+    "shirt": "Amarillo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 40,
+    "shirt": "Rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 41,
+    "shirt": "Azul y rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 42,
+    "shirt": "Rojo y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 43,
+    "shirt": "Azul y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 44,
+    "shirt": "Rojo y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 45,
+    "shirt": "Azul",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 46,
+    "shirt": "Rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 47,
+    "shirt": "Azul y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 48,
+    "shirt": "Azul y blanco",
+    "shorts": "Blanco"
+  },
+  {
+    "id": 49,
+    "shirt": "Azul y rojo",
+    "shorts": "Azul"
+  },
+  {
+    "id": 50,
+    "shirt": "Rojo y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 51,
+    "shirt": "Blanco",
+    "shorts": "Negro"
+  },
+  {
+    "id": 52,
+    "shirt": "Azul y blanco",
+    "shorts": "Azul"
+  },
+  {
+    "id": 53,
+    "shirt": "Negro y rojo",
+    "shorts": "Negro"
+  }
+]
