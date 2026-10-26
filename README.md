@@ -15,7 +15,7 @@ usarlo, estudiarlo y mejorarlo.
 | `engine/houdini_engine/codec/` | Texto cifrado, imágenes y paletas, sonido, contenedores |
 | `engine/houdini_engine/refdata/` | Tablas de referencia (países, tácticas, paletas, punteros) |
 | `engine/tests/` | Tests |
-| `wiki/` | Documentación de los formatos de PCF 5.0 y 6.0 |
+| `wiki/` | Documentación de los formatos, de PCF 3.0 a 2001 |
 
 ## Uso
 

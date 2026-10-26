@@ -16,7 +16,7 @@ Esto vale también para el ejecutable del juego. Ahí es todavía más estricto:
 
 ## 2. El texto va cifrado
 
-Ningún texto se guarda en claro. En las versiones 5.0 y 6.0 cada byte va pasado por un XOR fijo; en 3.0 y 4.0 el cifrado depende de la longitud de la cadena y de la posición de cada letra.
+Ningún texto se guarda en claro. En 4.0, 5.0, 6.0 y la familia de 7, 2000 y 2001 cada byte va pasado por un XOR fijo (en 4.0 con sus propios acentos); en 3.0, y en los rótulos `.GRC` de 3.0 y 4.0, el cifrado depende de la longitud de la cadena y de la posición de cada letra.
 
 No es más que una codificación —se descubre en cinco minutos con un editor hexadecimal—, pero explica por qué al abrir el fichero no ves ni un nombre reconocible y parece que te has equivocado de sitio.
 

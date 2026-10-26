@@ -2,6 +2,8 @@
 
 La otra página explica **qué** hay en el ejecutable y **cómo** buscarlo. Esta da las posiciones exactas de los tres ejecutables que están mapeados, para que no tengas que buscarlas.
 
+> Los cambios de esta página modifican reglas de juego en el ejecutable de tu propia copia. No tocan ninguna protección anticopia y no se distribuye ningún ejecutable modificado.
+
 ## Antes de nada: identifica tu ejecutable
 
 **Por su tamaño en bytes.** Es lo único que distingue una compilación de otra sin lugar a dudas, y aplicar las posiciones de un ejecutable a otro **lo destroza**.

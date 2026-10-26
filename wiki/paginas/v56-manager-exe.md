@@ -2,6 +2,8 @@
 
 Aquí está la respuesta a la pregunta que más se repite: *«he añadido equipos a la base y no salen en la liga»*. No salen porque **la composición de las competiciones no vive en los datos, vive en el programa**.
 
+> Los cambios de esta página modifican reglas de juego en el ejecutable de tu propia copia. No tocan ninguna protección anticopia y no se distribuye ningún ejecutable modificado.
+
 Es un cambio de mentalidad importante. La base de datos dice **qué equipos existen y cómo son**. El ejecutable dice **qué se juega, quién lo juega y con cuántos**.
 
 ## La regla que no se puede saltar

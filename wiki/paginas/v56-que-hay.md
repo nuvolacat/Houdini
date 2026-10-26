@@ -2,6 +2,8 @@
 
 El mapa de la carpeta del juego. Qué guarda cada fichero, cuál te interesa según lo que quieras cambiar y cuáles conviene no tocar.
 
+> Documentación hecha por la comunidad con fines de interoperabilidad y modding. Trabaja siempre sobre tu propia copia del juego. PC Fútbol es una marca de sus titulares; este proyecto no está afiliado a ellos.
+
 Las dos versiones comparten formato. **El nombre del fichero no dice de qué versión es**: hay ediciones que se llaman `EQ0…` y por dentro son formato 5.0. Se distingue por el contenido, no por el nombre.
 
 ## Los datos: la carpeta `DBDat`

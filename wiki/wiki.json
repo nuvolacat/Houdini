@@ -1,6 +1,6 @@
 {
   "titulo": "PCFPLUS · Formatos de PCF",
-  "lema": "Todo lo que sabemos sobre los ficheros de los PCF clásicos, en un solo sitio.",
+  "lema": "Todo lo que sabemos sobre los ficheros de los PCF clásicos, de 3.0 a 2001, en un solo sitio.",
   "secciones": [
     {
       "id": "empezar",
@@ -36,6 +36,49 @@
         "v56-manager-exe",
         "v56-manager-offsets",
         "v56-nombres-competiciones"
+      ]
+    },
+    {
+      "id": "pcf3",
+      "titulo": "PCF 3.0",
+      "intro": "La versión de DOS de la temporada 94-95: bases .DBC con texto cifrado por posición.",
+      "paginas": [
+        "pcf3-que-hay",
+        "pcf3-texto",
+        "pcf3-bloque-equipo",
+        "pcf3-ficha-jugador",
+        "pcf3-competiciones",
+        "pcf3-graficos",
+        "pcf3-manager"
+      ]
+    },
+    {
+      "id": "pcf4",
+      "titulo": "PCF 4.0 y 4.5",
+      "intro": "Un fichero .DBC por equipo, escudos y camisetas propios y el simulador 2D.",
+      "paginas": [
+        "pcf4-que-hay",
+        "pcf4-texto",
+        "pcf4-equipo",
+        "pcf4-ficha-jugador",
+        "pcf4-imagenes",
+        "pcf4-pantallas-sonido",
+        "pcf4-manager"
+      ]
+    },
+    {
+      "id": "fdi",
+      "titulo": "PCF 7, 2000 y 2001",
+      "intro": "La familia FDI: equipos, jugadores y entrenadores en contenedores .FDI.",
+      "paginas": [
+        "fdi-que-hay",
+        "fdi-contenedor",
+        "fdi-jugador",
+        "fdi-equipo",
+        "fdi-tactica",
+        "fdi-imagenes",
+        "fdi-sonido",
+        "fdi-manager"
       ]
     }
   ]
