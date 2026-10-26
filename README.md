@@ -1,11 +1,14 @@
 # Houdini · motor de formatos de PC Fútbol
 
-Biblioteca en Python para **leer y escribir los ficheros de datos de los PC Fútbol clásicos**
-(PCF 3.0, 4.0, 5.0, 6.0, 7, 2000 y 2001, y PC Calcio / PC Premier): equipos, jugadores,
-entrenadores, textos, imágenes, escudos, paletas, sonido y las tablas del ejecutable del juego.
+Documentación y biblioteca en Python sobre **cómo están hechos y cómo se gestionan los ficheros
+de los PC Fútbol clásicos** (PCF 3.0, 4.0, 5.0, 6.0, 7, 2000 y 2001, y PC Calcio / PC Premier):
+equipos, jugadores, entrenadores, textos, imágenes, escudos, paletas, sonido y las tablas del
+ejecutable del juego. Explica dónde está cada dato, cómo leerlo y cómo modificarlo sin romper el
+fichero.
 
-Es el motor del editor web [PCFPLUS](https://pcfsite.com). Se publica para que cualquiera pueda
-usarlo, estudiarlo y mejorarlo.
+Esto **no es un editor**: es la base técnica para construir uno. El editor
+[Houdini](https://editor.pcfsite.com) se basa en esta documentación. Se publica para que
+cualquiera pueda usarla, estudiarla y mejorarla.
 
 ## Qué hay
 
