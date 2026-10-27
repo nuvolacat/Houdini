@@ -28,6 +28,10 @@ la protección anticopia.
   editores de carky12, MultiEditorPCC (1Simo1), EPCF7, el editor de 2001 de Jordi Gironés, el
   editor de PCF2001 y los hilos de pcfutbolmania, KeksPatch, J-Competiciones y Manager5Oro. Todo
   se ha verificado contra los ficheros del juego.
+- **Esquemas de PC Calcio 7+** de **Simone (1Simo1)**, de la comunidad
+  [PC Calcio 4 Ever](https://pccalcio4ever.forumcommunity.net/): los esquemas de los ficheros FDI 700,
+  PKF y `main.dat` con los que se han contrastado campo a campo los formatos de PCF 7 (PC Calcio 7+ es
+  el PCF 7 italiano, con el mismo formato).
 - **Datos de referencia** (`refdata/`): la numeración de equipos (`community_pointers.json`) es la
   tabla «Punteros Equipos V.2020» de peu7510; países, equipos y tácticas proceden de la base de
   datos de un editor comunitario de PCF 5.0/6.0.
@@ -40,6 +44,6 @@ algo, abre un issue.
 ## Créditos
 
 Casi todo lo que se sabe de estos formatos viene de la comunidad: **carky12**, **peu7510**,
-**pcnimdock** (FUTBOL_RELOAD), **1Simo1** (MultiEditorPCC), **Pablinho** (EPCF7 y el editor de
+**pcnimdock** (FUTBOL_RELOAD), **Simone (1Simo1)** (MultiEditorPCC y los esquemas de PC Calcio 7+), **Pablinho** (EPCF7 y el editor de
 2001), **josewolf22**, **Mourg5**, **Jordi Gironés**, **Marchi (LSSL)**, **lupus** y la gente de
-pcfutbolmania, TRONIC, KeksPatch y PCx-Utils.
+pcfutbolmania, PC Calcio 4 Ever, TRONIC, KeksPatch y PCx-Utils.
