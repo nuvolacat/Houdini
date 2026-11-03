@@ -18,7 +18,7 @@ Esto no hay que deducirlo: **las rutas están escritas dentro del ejecutable del
 
 La carpeta lleva **dos números de tres cifras** y coincide con el nombre del fichero de equipos: si el tuyo es `EQ022022.PKF`, la carpeta es `EQ022022`. El fichero lleva el prefijo de la edición —`96` o `97`— y el identificador del equipo **en cuatro cifras**.
 
-> **Ese número es la TEMPORADA, no la versión del formato**, y en 6.0 Oro importa: ese fichero trae las dos temporadas dentro y sus equipos van con los dos prefijos. Lo que el juego busca es el `97`. Si sacas el prefijo del primer equipo del índice te dará `96` y **el juego no verá tu fichero**. Está explicado en [el bloque de un equipo](v56-bloque-equipo.html).
+> **Ese número es la TEMPORADA, no la versión del formato**, y en 6.0 Oro importa: ese fichero trae las dos temporadas dentro y sus equipos van con los dos prefijos. Lo que el juego busca es el `97`. Si sacas el prefijo del primer equipo del índice te dará `96` y **el juego no verá tu fichero**. Está explicado en [el bloque de un equipo](v56-bloque-equipo.md).
 
 El juego los busca al **crear una liga nueva**, no en una partida ya empezada.
 
@@ -59,7 +59,7 @@ La lectura práctica: la identidad del equipo se la da el **nombre del fichero**
 
 ## El error que arruina más DBC
 
-Los clubes de la liga nacional guardan, por cada jugador, **diez textos de base de datos** — lugar de nacimiento, club de debut, perfil, características, palmarés y demás; la lista completa y en orden está en [la ficha de un jugador](v56-ficha-jugador.html).
+Los clubes de la liga nacional guardan, por cada jugador, **diez textos de base de datos** — lugar de nacimiento, club de debut, perfil, características, palmarés y demás; la lista completa y en orden está en [la ficha de un jugador](v56-ficha-jugador.md).
 
 **Esos textos son alrededor del ochenta y cinco por ciento del tamaño del fichero.** Es tentador omitirlos porque no se ven en el simulador, y es exactamente lo que rompe el juego al crear la liga: espera encontrarlos.
 

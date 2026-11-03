@@ -44,13 +44,13 @@ Si agrupas «desde un escudo pequeño hasta el siguiente», en Primera aciertas 
 
 Las medidas: el escudo pequeño siempre es 48×64, la equipación 71×37 (en un par de clubes, 70×37) y el estadio 200×140. **El escudo grande cambia de un club a otro** —entre unos 105 y 140 de ancho y entre 150 y 180 de alto—, aunque cada club tiene el suyo fijo.
 
-No recorras el `.DGF` por orden para saber qué gráficos son de quién: usa el **puntero al escudo** que va en la cabecera del club (está en [el bloque de equipo](pcf3-bloque-equipo.html)). Hay más grupos en el contenedor que clubes en la base, y el orden no siempre coincide.
+No recorras el `.DGF` por orden para saber qué gráficos son de quién: usa el **puntero al escudo** que va en la cabecera del club (está en [el bloque de equipo](pcf3-bloque-equipo.md)). Hay más grupos en el contenedor que clubes en la base, y el orden no siempre coincide.
 
 ### Las caras de los jugadores
 
 En el `.DGF` de cada equipo, cada jugador tiene un **retrato de 24×24** y, si tiene foto, una **cara grande de 124×182** justo detrás.
 
-El jugador las apunta con los dos primeros números de su bloque fijo (ver [la ficha](pcf3-ficha-jugador.html)): la posición de cada imagen dentro de este fichero, o `0` si no tiene. Usa esos punteros, no el orden: es el emparejamiento real.
+El jugador las apunta con los dos primeros números de su bloque fijo (ver [la ficha](pcf3-ficha-jugador.md)): la posición de cada imagen dentro de este fichero, o `0` si no tiene. Usa esos punteros, no el orden: es el emparejamiento real.
 
 En Primera, el retrato del entrenador es también un 24×24, hacia el final del fichero. En Segunda los entrenadores no tienen foto.
 
@@ -91,7 +91,7 @@ Si sustituyes una imagen de estos contenedores, la regla es la misma de siempre:
 
 ## Los rótulos: `PCFRES00.GRC`
 
-Los 143 textos que el juego pinta por pantalla. Cada uno lleva delante un descriptor de seis números de dos bytes —tipo, dos parámetros, la x y la y en pantalla, y la longitud— y luego el texto, con **el mismo cifrado que las bases** (ver [el texto](pcf3-texto.html)).
+Los 143 textos que el juego pinta por pantalla. Cada uno lleva delante un descriptor de seis números de dos bytes —tipo, dos parámetros, la x y la y en pantalla, y la longitud— y luego el texto, con **el mismo cifrado que las bases** (ver [el texto](pcf3-texto.md)).
 
 El hueco de cada rótulo es fijo: rellena con espacios y no alargues.
 

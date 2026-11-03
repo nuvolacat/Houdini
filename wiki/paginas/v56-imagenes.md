@@ -176,7 +176,7 @@ Tres cosas que hay que saber y que no se deducen mirando el fichero:
 
 **Un byte por píxel**, y ese byte es un índice de la paleta.
 
-Con eso y la [paleta](v56-paleta.html) ya tienes la imagen. Si al montarla te sale el escudo del club correcto y con sus colores, has acertado en todo.
+Con eso y la [paleta](v56-paleta.md) ya tienes la imagen. Si al montarla te sale el escudo del club correcto y con sus colores, has acertado en todo.
 
 ## Comprobación
 

@@ -1,6 +1,6 @@
 # Las equipaciones del partido
 
-> `DATSIM` guarda las equipaciones, pero **no solo eso**: de sus mil seiscientos elementos, mil quinientos ochenta y cuatro son camisetas y el resto son los gráficos del partido. Se detallan en [los contenedores menos conocidos](v56-otros-contenedores.html).
+> `DATSIM` guarda las equipaciones, pero **no solo eso**: de sus mil seiscientos elementos, mil quinientos ochenta y cuatro son camisetas y el resto son los gráficos del partido. Se detallan en [los contenedores menos conocidos](v56-otros-contenedores.md).
 
 Las camisetas que se ven durante el partido no son ninguna de las imágenes de la base de datos. Van en su propio fichero, `DATSIM.PKF`, y funcionan de una manera muy distinta.
 

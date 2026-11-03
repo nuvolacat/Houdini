@@ -2,7 +2,7 @@
 
 Qué hay dentro de un `EQ95NNNN.DBC`, campo a campo: la cabecera, los datos del club, la táctica, el historial, los entrenadores y la plantilla. Es la misma familia de bloque que en 5.0 y 6.0, con otro orden y otros tamaños.
 
-Antes de seguir necesitas [el texto](pcf4-texto.html): todas las cadenas de esta página son de longitud de un byte y cifrado de la 4.x.
+Antes de seguir necesitas [el texto](pcf4-texto.md): todas las cadenas de esta página son de longitud de un byte y cifrado de la 4.x.
 
 ## La cabecera: 43 bytes
 
@@ -27,7 +27,7 @@ Justo detrás de la cabecera, en este orden:
 
 | Campo | Tamaño | Qué es |
 |---|---|---|
-| País | 1 byte | Código de país (ver [las tablas](pcf4-ficha-jugador.html)) |
+| País | 1 byte | Código de país (ver [las tablas](pcf4-ficha-jugador.md)) |
 | Nombre largo | texto | «Fútbol Club Barcelona» |
 | Nombre corto | texto | «Barcelona» |
 | Nombre en mayúsculas | texto | El de los rótulos. La `\` marca el salto de línea: `FUTBOL CLUB\BARCELONA` |
@@ -104,13 +104,13 @@ En un equipo sin base de datos, el nombre del entrenador puede ir vacío.
 
 ## Los jugadores y el final
 
-Después de los entrenadores vienen los jugadores, cada uno empezando con `01`, hasta el final del fichero. Su estructura está en [la ficha del jugador](pcf4-ficha-jugador.html).
+Después de los entrenadores vienen los jugadores, cada uno empezando con `01`, hasta el final del fichero. Su estructura está en [la ficha del jugador](pcf4-ficha-jugador.md).
 
 El fichero termina con uno o más bytes `00` detrás del último jugador. Hay equipos sin base de datos que no tienen jugadores en absoluto: el fichero acaba tras el entrenador.
 
 ## Escribir
 
-Como explica [la página del texto](pcf4-texto.html), aquí puedes cambiar longitudes: reescribe el fichero entero en este mismo orden y listo.
+Como explica [la página del texto](pcf4-texto.md), aquí puedes cambiar longitudes: reescribe el fichero entero en este mismo orden y listo.
 
 La prueba de siempre sigue valiendo, y es la que te dice si tu lector está bien: **lee y reescribe sin cambiar nada; tiene que salir idéntico**. Con los 235 ficheros de la 4.0 y los de la 4.5 se consigue al byte, siempre que respetes el troceado original de los textos largos y conserves el historial tal cual.
 

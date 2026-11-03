@@ -141,7 +141,7 @@ Siempre: leer los bytes que hay, comprobar que son lo que esperas, y solo entonc
 
 ## Las posiciones concretas
 
-Todo lo anterior explica el método. Si tu ejecutable es uno de los tres que están mapeados, **no hace falta que busques nada**: las posiciones exactas de cada tabla están en [posiciones concretas](v56-manager-offsets.html) — participantes de cada competición, plazas españolas de las copas europeas y límites del juego, con su valor de fábrica.
+Todo lo anterior explica el método. Si tu ejecutable es uno de los tres que están mapeados, **no hace falta que busques nada**: las posiciones exactas de cada tabla están en [posiciones concretas](v56-manager-offsets.md) — participantes de cada competición, plazas españolas de las copas europeas y límites del juego, con su valor de fábrica.
 
 ## Cómo saber en qué edición estás
 

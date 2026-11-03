@@ -6,7 +6,7 @@ Cada jugador es un registro propio del fichero `JUG…FDI`, con los mismos campo
 
 | Campo | Tamaño | Qué es |
 |---|---|---|
-| Suma de longitudes | 2 bytes | calculada; ver [el contenedor](fdi-contenedor.html) |
+| Suma de longitudes | 2 bytes | calculada; ver [el contenedor](fdi-contenedor.md) |
 | Versión | 2 bytes | 700 en 7, 800 en 2000 y 2001 |
 | Tipo de ficha | 1 byte | `0` completa · `1` corta |
 | Foto | 2 bytes | **siempre igual al código del jugador** |
@@ -15,7 +15,7 @@ Cada jugador es un registro propio del fichero `JUG…FDI`, con los mismos campo
 | Nombre largo | texto | |
 | Posición en la plantilla | 1 byte | `1` a `11` el once, después el resto por orden; `99` fuera del primer equipo (filial) |
 | Situación en el club | 1 byte | ver más abajo |
-| Demarcaciones | 6 bytes | la primera obligatoria; los mismos 18 códigos que en [las tablas](v56-tablas.html) |
+| Demarcaciones | 6 bytes | la primera obligatoria; los mismos 18 códigos que en [las tablas](v56-tablas.md) |
 | Nacionalidad | 1 byte | código de país |
 | Tono de piel del avatar | 1 byte | `1`, `2`, `3` |
 | Color de pelo | 1 byte | `1` rubio · `2` sin pelo · `3` moreno · `4` canoso · `5` pelirrojo · `6` castaño |
@@ -100,7 +100,7 @@ Con la ciudad, la procedencia y las internacionalidades, son **los mismos diez t
 
 ## Lo que no está en la ficha
 
-**El equipo.** El jugador no dice de qué club es: lo dice el club, que guarda la lista de punteros de su plantilla (ver [el registro de equipo](fdi-equipo.html)). Un mismo jugador referenciado por dos equipos aparece en los dos.
+**El equipo.** El jugador no dice de qué club es: lo dice el club, que guarda la lista de punteros de su plantilla (ver [el registro de equipo](fdi-equipo.md)). Un mismo jugador referenciado por dos equipos aparece en los dos.
 
 **La foto.** Va por el código del jugador, con cinco cifras en el nombre del fichero. Por eso el campo «foto» de la ficha tiene que ser igual al código: si creas un jugador, ponlos iguales.
 

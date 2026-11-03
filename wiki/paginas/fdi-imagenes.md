@@ -46,7 +46,7 @@ Un consejo para las fotos pequeñas: la paleta principal tiene trece verdes puro
 
 ## PC Fútbol 7: las pantallas
 
-`Recursos.pkf`, `Img.pkf`, `DAT.PKF`, `NGI.pkf` y `AYUDA.PKF` usan el mismo contenedor PKF paginado que [las pantallas de 5.0 y 6.0](v56-pantallas.html), con nombres libres en vez de códigos. Lo que aporta esta edición:
+`Recursos.pkf`, `Img.pkf`, `DAT.PKF`, `NGI.pkf` y `AYUDA.PKF` usan el mismo contenedor PKF paginado que [las pantallas de 5.0 y 6.0](v56-pantallas.md), con nombres libres en vez de códigos. Lo que aporta esta edición:
 
 - **Entradas sin nombre.** Además de las entradas normales hay una de **9 bytes**: el byte `03`, la posición y el tamaño. En `Recursos.pkf` hay tres, y son los fondos de 640 × 480 de las portadas. Un lector que no las conozca se para en la primera.
 - **GIF animados con apéndice.** Algunos GIF llevan, detrás del final del GIF, el texto `GIFCONnb1.0`, un byte, el número de fotogramas y un registro de 30 bytes por fotograma con su nombre. El GIF se ve bien sin leerlo.
@@ -116,7 +116,7 @@ El juego también lee BMP sueltos en las subcarpetas como en 7; el nombre exacto
 
 ## Los textos: países y nombres inventados
 
-Es el equivalente de [los nombres que el juego inventa](v56-textos.html) de 6.0. En PC Fútbol 7 está en `DBDAT\textos.pkf` (341 entradas, contenedor PKF); en 2000 y 2001, en `DBDAT\TEXTOS.PAK` (219 entradas). Dentro, cada entrada es una lista de textos con esta forma:
+Es el equivalente de [los nombres que el juego inventa](v56-textos.md) de 6.0. En PC Fútbol 7 está en `DBDAT\textos.pkf` (341 entradas, contenedor PKF); en 2000 y 2001, en `DBDAT\TEXTOS.PAK` (219 entradas). Dentro, cada entrada es una lista de textos con esta forma:
 
 | Campo | Tamaño | Qué es |
 |---|---|---|
@@ -129,7 +129,7 @@ El segundo campo **se calcula**: es lo que ocuparían los textos con un cero det
 
 Las entradas se llaman por familia y número:
 
-- **`PAISES.N`**: los 207 nombres de país, donde `N` es el idioma (22 español, 24 francés, 30 inglés, 36 italiano y, solo en 2000 y 2001, 2 alemán). **La posición en la lista es el código de país**, el mismo de [la tabla de países](v56-tablas.html), con un `XXX` en el 0. La lista es posicional: puedes renombrar, pero **nunca quites una entrada** o todos los países siguientes se corren.
+- **`PAISES.N`**: los 207 nombres de país, donde `N` es el idioma (22 español, 24 francés, 30 inglés, 36 italiano y, solo en 2000 y 2001, 2 alemán). **La posición en la lista es el código de país**, el mismo de [la tabla de países](v56-tablas.md), con un `XXX` en el 0. La lista es posicional: puedes renombrar, pero **nunca quites una entrada** o todos los países siguientes se corren.
 - **`NOMBRES.N`** y **`APELLIDO.N`**: los nombres y apellidos que el juego usa para la cantera, aquí con `N` = país. Unos cien países por edición. PC Fútbol 7 trae además `APELLIDOS.N`, una lista más larga.
 
 Que el juego los lee está comprobado en el propio ejecutable de las tres ediciones, que lleva las rutas `dbdat\textos\paises.%u`, `nombres.%u` y `apellido.%u`.

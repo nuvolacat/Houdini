@@ -72,9 +72,9 @@ Es la prueba que hay que superar **antes** de escribir el primer cambio.
 
 Con eso ya tienes el esqueleto. Lo demás son detalles que puedes ir añadiendo:
 
-- Las [tablas de códigos](v56-tablas.html) para traducir los números a demarcaciones, países y demás.
-- La [paleta](v56-paleta.html) si vas a tocar imágenes.
-- Los [DBC](v56-dbc.html) cuando choques con el límite de longitud de los textos.
+- Las [tablas de códigos](v56-tablas.md) para traducir los números a demarcaciones, países y demás.
+- La [paleta](v56-paleta.md) si vas a tocar imágenes.
+- Los [DBC](v56-dbc.md) cuando choques con el límite de longitud de los textos.
 
 ## El error más común
 

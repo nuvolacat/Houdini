@@ -56,7 +56,7 @@ Los diez textos largos de base de datos **no cuentan**. La consecuencia: **si ca
 
 El segundo campo vale **700 en PC Fútbol 7 y 800 en 2000 y 2001**. El juego no lo comprueba: ficheros de PC Fútbol 7 con 800 en todos los equipos cargan igual. Aun así, lo prudente es dejar el valor que traía.
 
-Un aviso: la versión **no basta para distinguir 2000 de 2001**, que comparten el 800 y aun así tienen un registro de equipo distinto. Lo explica [la página del equipo](fdi-equipo.html).
+Un aviso: la versión **no basta para distinguir 2000 de 2001**, que comparten el 800 y aun así tienen un registro de equipo distinto. Lo explica [la página del equipo](fdi-equipo.md).
 
 ## Si te encuentras un registro que no encaja
 
@@ -71,4 +71,4 @@ Hay bases retocadas a mano con otros editores que traen algún registro que no s
 | `ENT` | entrenadores |
 | `EST` | estadios (solo 2000 y 2001) |
 
-El contenedor no dice qué tipo de registro lleva: lo dice el nombre del fichero. Y la edición, el tamaño del ejecutable que lo acompaña, como cuenta [la página del ejecutable](fdi-manager.html).
+El contenedor no dice qué tipo de registro lleva: lo dice el nombre del fichero. Y la edición, el tamaño del ejecutable que lo acompaña, como cuenta [la página del ejecutable](fdi-manager.md).

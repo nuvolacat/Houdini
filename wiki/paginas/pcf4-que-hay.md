@@ -18,7 +18,7 @@ DBDAT\EQ950002.DBC
 
 El `95` es la temporada (1995) y las cuatro cifras finales son el número de equipo. En la 4.0 hay **235**. Cada fichero lleva una sola vez la firma `Copyright (c)1995 Dinamic Multimedia`, así que un fichero es un equipo y solo uno.
 
-Esto tiene una ventaja enorme para el que edita: **si estropeas un club, solo estropeas ese club**. Y un inconveniente: no hay índice central, así que el juego decide qué equipo va en cada liga por otro lado (ver [el manager](pcf4-manager.html)).
+Esto tiene una ventaja enorme para el que edita: **si estropeas un club, solo estropeas ese club**. Y un inconveniente: no hay índice central, así que el juego decide qué equipo va en cada liga por otro lado (ver [el manager](pcf4-manager.md)).
 
 ## Los datos: la carpeta `DBDAT`
 
@@ -34,7 +34,7 @@ Esto tiene una ventaja enorme para el que edita: **si estropeas un club, solo es
 | `MINIENTR\E95NNNNN.DFG` | Foto de entrenador |
 | `BIGCAMP\ES95NNNN.DFG` | Foto de estadio |
 
-Fíjate en lo que **no** hay: ni `NANOESC` ni `RIDIESC`. La 4.x solo tiene escudo mini y grande. Y como son ficheros sueltos, **cambiar un escudo es reescribir un `.DFG`**: no hay contenedor que reconstruir ni índice que actualizar. El formato está en [las imágenes](pcf4-imagenes.html).
+Fíjate en lo que **no** hay: ni `NANOESC` ni `RIDIESC`. La 4.x solo tiene escudo mini y grande. Y como son ficheros sueltos, **cambiar un escudo es reescribir un `.DFG`**: no hay contenedor que reconstruir ni índice que actualizar. El formato está en [las imágenes](pcf4-imagenes.md).
 
 ## El partido en dos dimensiones
 
@@ -57,18 +57,18 @@ Un despiste frecuente: cambias el escudo en `MINIESC` y `BIGESC`, entras en un p
 | `PCFTEX4.DAT` `PCFTEX.DAT` `LGR.DAT` | Las pantallas del programa de arranque, con el rótulo «PC FUTBOL 4.0». En la raíz del juego; si no los tienes, cópialos de tu CD del juego |
 | `SONIDOS\*.RAW` | Los efectos de sonido |
 
-Todo esto está en [pantallas y sonido](pcf4-pantallas-sonido.html).
+Todo esto está en [pantallas y sonido](pcf4-pantallas-sonido.md).
 
 ## Los ejecutables
 
 En la 4.x no hay un `manager.exe`. El modo manager vive en **`PCMANAG.DAT`**, y el Pro Manager en **`PROMANAG.DAT`**. A pesar de la extensión, **son programas**, no datos, y deciden lo mismo que el ejecutable en 5.0 y 6.0: qué equipos hay en cada división, qué clubes no pueden ascender y cómo se llaman las competiciones.
 
-Es la misma confusión de siempre: añades un equipo a la base y no aparece en la liga. No aparece porque el reparto de divisiones está en `PCMANAG.DAT`, no en los `.DBC`. Ver [el manager](pcf4-manager.html).
+Es la misma confusión de siempre: añades un equipo a la base y no aparece en la liga. No aparece porque el reparto de divisiones está en `PCMANAG.DAT`, no en los `.DBC`. Ver [el manager](pcf4-manager.md).
 
 ## Por dónde empezar
 
-- **Cambiar plantillas, medias o datos de un club** → su `EQ95NNNN.DBC`: [el equipo](pcf4-equipo.html) y [la ficha del jugador](pcf4-ficha-jugador.html).
-- **Leer un nombre** → antes que nada, [el texto](pcf4-texto.html): no es el mismo cifrado que en 5.0 y 6.0.
-- **Cambiar escudos, fotos o camisetas** → [las imágenes](pcf4-imagenes.html). Recuerda que el escudo del partido va aparte.
-- **Cambiar quién juega cada división** → [el manager](pcf4-manager.html).
-- **Cambiar menús, fondos o sonidos** → [pantallas y sonido](pcf4-pantallas-sonido.html).
+- **Cambiar plantillas, medias o datos de un club** → su `EQ95NNNN.DBC`: [el equipo](pcf4-equipo.md) y [la ficha del jugador](pcf4-ficha-jugador.md).
+- **Leer un nombre** → antes que nada, [el texto](pcf4-texto.md): no es el mismo cifrado que en 5.0 y 6.0.
+- **Cambiar escudos, fotos o camisetas** → [las imágenes](pcf4-imagenes.md). Recuerda que el escudo del partido va aparte.
+- **Cambiar quién juega cada división** → [el manager](pcf4-manager.md).
+- **Cambiar menús, fondos o sonidos** → [pantallas y sonido](pcf4-pantallas-sonido.md).

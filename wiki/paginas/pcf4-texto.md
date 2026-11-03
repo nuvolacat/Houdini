@@ -72,8 +72,8 @@ carácter[i] = byte[i] XOR (0xC0 + longitud + i)     (quedándote con el byte ba
 
 Es simétrico: la misma operación cifra y descifra. Como la clave cambia con la longitud, **una misma palabra se guarda con bytes distintos según lo larga que sea la cadena** que la contiene, y no la encontrarás buscándola cifrada.
 
-Estos textos sí tienen el tamaño fijo: van en una estructura con posiciones, así que se editan en el sitio, rellenando con espacios o recortando. Y van siempre en mayúsculas. El detalle está en [pantallas y sonido](pcf4-pantallas-sonido.html).
+Estos textos sí tienen el tamaño fijo: van en una estructura con posiciones, así que se editan en el sitio, rellenando con espacios o recortando. Y van siempre en mayúsculas. El detalle está en [pantallas y sonido](pcf4-pantallas-sonido.md).
 
 ## Siguiente paso
 
-Con esto ya puedes leer cualquier nombre. [El fichero de equipo](pcf4-equipo.html) explica dónde está cada uno.
+Con esto ya puedes leer cualquier nombre. [El fichero de equipo](pcf4-equipo.md) explica dónde está cada uno.

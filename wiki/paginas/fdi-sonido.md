@@ -32,7 +32,7 @@ Para meter una canción grabada, se puede «envolver» el audio en un S3M: guard
 | `AMBIENTE.PKF` | El público: 49 sonidos |
 | `NGI022\*.PKF` | Nueve contenedores de unas 111 frases cada uno; su uso exacto está **sin confirmar** |
 
-Todos son **WAV mono de 8 bits a 11.025 Hz** dentro de un contenedor PKF como [el de 5.0 y 6.0](v56-contenedor-pkf.html). El índice empieza en el byte 232 y está **paginado**: un bloque de índice, un grupo de sonidos, otro bloque de índice, otro grupo… Dos tipos de entrada:
+Todos son **WAV mono de 8 bits a 11.025 Hz** dentro de un contenedor PKF como [el de 5.0 y 6.0](v56-contenedor-pkf.md). El índice empieza en el byte 232 y está **paginado**: un bloque de índice, un grupo de sonidos, otro bloque de índice, otro grupo… Dos tipos de entrada:
 
 - **`02`**, de 38 bytes: un sonido, con su posición en +26 y su tamaño en +30.
 - **`04`**: un salto al siguiente bloque de índice, cuya posición va en +1.

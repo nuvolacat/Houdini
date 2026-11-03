@@ -11,7 +11,7 @@ Qué decide el ejecutable del modo Liga de 3.0 y no está en la base de datos: q
 | `PCFUTBOL.DAT` | El programa principal. Es el que **consulta** la base de datos: las fichas, los equipos, la historia |
 | `PCMANAG.DAT` | El manager del modo Liga. Un ejecutable de DOS de 16 bits |
 
-Los dos son ejecutables aunque la extensión diga `.DAT`. Las [reglas de oro](reglas-de-oro.html) se aplican aquí al pie de la letra: **solo se sustituyen bytes**, nunca se añaden ni se quitan, y el fichero tiene que seguir midiendo exactamente lo mismo.
+Los dos son ejecutables aunque la extensión diga `.DAT`. Las [reglas de oro](reglas-de-oro.md) se aplican aquí al pie de la letra: **solo se sustituyen bytes**, nunca se añaden ni se quitan, y el fichero tiene que seguir midiendo exactamente lo mismo.
 
 ## Solo se juega la Primera
 
@@ -25,7 +25,7 @@ Consecuencias que conviene tener presentes:
 
 - **No hay ascensos ni descensos.** Entre los 143 rótulos de la interfaz no aparecen ni ascenso, ni descenso, ni promoción, y la temporada acaba en el cuadro de honor.
 - **No hay filiales «que no pueden subir».** En 4.0 esos equipos están señalados en el ejecutable; en 3.0 no hay nada parecido, ni en los ejecutables ni en los datos: se ha comparado la cabecera de todos los clubes de Segunda byte a byte y no hay ninguna posición que distinga a los filiales del resto. No hace falta: si no se juega la Segunda, nadie asciende.
-- **Si quieres jugar con un club de Segunda, tienes que subirlo a Primera** intercambiándolo con otro. Está explicado en [el bloque de equipo](pcf3-bloque-equipo.html).
+- **Si quieres jugar con un club de Segunda, tienes que subirlo a Primera** intercambiándolo con otro. Está explicado en [el bloque de equipo](pcf3-bloque-equipo.md).
 
 ## El tope de extranjeros en el once
 

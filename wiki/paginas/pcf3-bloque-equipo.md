@@ -23,7 +23,7 @@ Y los bloques **teselan** el fichero: cabecera más bloques concatenados da el f
 
 El fichero no tiene marcas de inicio de equipo ni de jugador. Lo que sí tiene es una forma muy regular, y con tres reglas se camina entero:
 
-1. **Un jugador** son dos textos **pegados**, sin un solo byte entre ellos —el apodo y el nombre completo—, seguidos de 13 bytes que encajan: dos números de cuatro bytes razonables, un dorsal que no pasa de 99 y una demarcación que no pasa de 3. El detalle está en [la ficha del jugador](pcf3-ficha-jugador.html).
+1. **Un jugador** son dos textos **pegados**, sin un solo byte entre ellos —el apodo y el nombre completo—, seguidos de 13 bytes que encajan: dos números de cuatro bytes razonables, un dorsal que no pasa de 99 y una demarcación que no pasa de 3. El detalle está en [la ficha del jugador](pcf3-ficha-jugador.md).
 2. **La cabecera de un club** empieza por una pareja de textos pegados que **no** es un jugador.
 3. **Un equipo sin cabecera** —solo las Estrellas Mundiales— se detecta porque el bloque de medias del último jugador deja de ir pegado al jugador siguiente.
 
@@ -145,7 +145,7 @@ Como la división la da el fichero, mover un club de Segunda a Primera es, liter
 
 Lo único que no viaja solo son **los gráficos**:
 
-- **El escudo, el escudo grande, la equipación de la ficha y la foto del estadio** están en el `.DGF` de su división, y el bloque los apunta con el puntero de la cabecera. En el otro fichero ese puntero no vale. Hay que copiar el grupo de gráficos del equipo al `.DGF` de destino y cambiar el puntero. Cómo, sin romper nada, está en [gráficos y sonido](pcf3-graficos.html).
+- **El escudo, el escudo grande, la equipación de la ficha y la foto del estadio** están en el `.DGF` de su división, y el bloque los apunta con el puntero de la cabecera. En el otro fichero ese puntero no vale. Hay que copiar el grupo de gráficos del equipo al `.DGF` de destino y cambiar el puntero. Cómo, sin romper nada, está en [gráficos y sonido](pcf3-graficos.md).
 - **Las caras de los jugadores** están en un `.DGF` por equipo cuyo nombre lleva la plaza. Al intercambiar dos equipos, se intercambian también esos dos ficheros.
 
 Todo esto está comprobado sobre los ficheros; que el juego lo acepte está sin confirmar.

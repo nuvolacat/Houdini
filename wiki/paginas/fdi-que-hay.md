@@ -32,7 +32,7 @@ Cuántos registros trae cada uno, para que sepas si tu lector se ha comido algun
 | PCF2000, temporada 99 | 985 | 21.663 | 1.054 | 984 |
 | PCF2000, temporada 00 | 1.051 | 22.576 | 1.052 | 1.046 |
 
-Los cuatro tienen la misma estructura de contenedor, explicada en [el contenedor FDI](fdi-contenedor.html).
+Los cuatro tienen la misma estructura de contenedor, explicada en [el contenedor FDI](fdi-contenedor.md).
 
 ## Lo demás de `DBDAT`
 
@@ -54,11 +54,11 @@ Los `.dbc` son del mismo formato que en 5.0 y 6.0 y alimentan solo la parte de b
 | 2000 | `Graficos.pak` y otros `.pak` en la raíz | `SFX\`: contenedores sin extensión con voces, cánticos, comentarios y la música en MIDI |
 | 2001 | `GRAFICOS.PAK` y otros `.pak` | `SFX\`, como 2000, pero la música es MP3 |
 
-Lo cuentan [las imágenes y pantallas](fdi-imagenes.html) y [el sonido](fdi-sonido.html).
+Lo cuentan [las imágenes y pantallas](fdi-imagenes.md) y [el sonido](fdi-sonido.md).
 
 ## El ejecutable
 
-`MANAGER.EXE` sigue decidiendo lo mismo que en 5.0 y 6.0: **qué equipos forman cada división, quién juega cada copa, el año de la temporada y los topes del juego**. Si añades un equipo a la base y no aparece en la liga, es porque la plaza está en el ejecutable. Está en [su propia página](fdi-manager.html).
+`MANAGER.EXE` sigue decidiendo lo mismo que en 5.0 y 6.0: **qué equipos forman cada división, quién juega cada copa, el año de la temporada y los topes del juego**. Si añades un equipo a la base y no aparece en la liga, es porque la plaza está en el ejecutable. Está en [su propia página](fdi-manager.md).
 
 ## Qué cambia respecto a 5.0 y 6.0
 
@@ -66,11 +66,11 @@ Lo cuentan [las imágenes y pantallas](fdi-imagenes.html) y [el sonido](fdi-soni
 - **El jugador tiene dieciséis medias** en vez de diez: se añaden el pie bueno y cinco acciones a balón parado.
 - **La táctica dibujada pasa de 4 a 40 posiciones por jugador.**
 - **El palmarés de copas es una lista de longitud variable**, no un bloque fijo.
-- **El texto se cifra igual**: XOR con `0x61`, con la longitud en dos bytes delante, como cuenta [la página del texto](v56-texto.html). La excepción es el ejecutable, que guarda sus textos en claro.
+- **El texto se cifra igual**: XOR con `0x61`, con la longitud en dos bytes delante, como cuenta [la página del texto](v56-texto.md). La excepción es el ejecutable, que guarda sus textos en claro.
 
 ## Por dónde empezar
 
-- **Plantillas, medias, datos de jugador** → [la ficha del jugador](fdi-jugador.html).
-- **Datos del club, estadio, historial y palmarés** → [el registro de equipo](fdi-equipo.html).
-- **La pizarra táctica** → [la táctica](fdi-tactica.html).
-- **Quién juega cada liga y cada copa** → [el ejecutable](fdi-manager.html).
+- **Plantillas, medias, datos de jugador** → [la ficha del jugador](fdi-jugador.md).
+- **Datos del club, estadio, historial y palmarés** → [el registro de equipo](fdi-equipo.md).
+- **La pizarra táctica** → [la táctica](fdi-tactica.md).
+- **Quién juega cada liga y cada copa** → [el ejecutable](fdi-manager.md).

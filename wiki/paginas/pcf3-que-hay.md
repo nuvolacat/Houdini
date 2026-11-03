@@ -25,7 +25,7 @@ Todos empiezan con la firma en claro `Copyright (c)1994 DINAMIC MULTIMEDIA`. Es 
 
 Entre las dos bases de Liga suman **959 jugadores**: 527 en Primera y 432 en Segunda.
 
-Una cosa que sorprende y conviene saber pronto: **en 3.0 no hay ningún campo que diga en qué división juega un equipo**. Lo dice el fichero en el que está. Un club de `LIG94951.DBC` es de Primera porque vive ahí, y nada más. Está explicado en [el bloque de equipo](pcf3-bloque-equipo.html).
+Una cosa que sorprende y conviene saber pronto: **en 3.0 no hay ningún campo que diga en qué división juega un equipo**. Lo dice el fichero en el que está. Un club de `LIG94951.DBC` es de Primera porque vive ahí, y nada más. Está explicado en [el bloque de equipo](pcf3-bloque-equipo.md).
 
 Las actas de `JORNAD1` y `JORNAD2` no nombran a ningún equipo: se refieren a ellos por su **plaza** dentro de la división. Tenlo presente si cambias el orden de los clubes.
 
@@ -44,7 +44,7 @@ Las actas de `JORNAD1` y `JORNAD2` no nombran a ningún equipo: se refieren a el
 
 Cuidado con la extensión: aquí es **`.DGF`**. En 4.0 el fichero equivalente se llama `.DFG`, con las letras cambiadas. Es el mismo tipo de contenedor, pero si buscas uno con el nombre del otro no lo vas a encontrar.
 
-Todo esto está en [gráficos y sonido](pcf3-graficos.html).
+Todo esto está en [gráficos y sonido](pcf3-graficos.md).
 
 ## La interfaz y el sonido
 
@@ -61,15 +61,15 @@ Todo esto está en [gráficos y sonido](pcf3-graficos.html).
 | `PCMANAG.DAT` | El manager del modo Liga |
 | `MANAGER.DAT` `HISTORIA.DAT` | Ejecutables de DOS con un empaquetado propio. Sin documentar |
 
-Hay un dato de los ejecutables que lo cambia todo: **el manager de 3.0 solo juega la Primera División**. Los equipos de Segunda están en la base y los ves en sus fichas, pero no hay forma de jugar con ellos. Por eso en esta edición no hay ascensos, ni descensos, ni filiales que no puedan subir. Lo explica [la página del manager](pcf3-manager.html).
+Hay un dato de los ejecutables que lo cambia todo: **el manager de 3.0 solo juega la Primera División**. Los equipos de Segunda están en la base y los ves en sus fichas, pero no hay forma de jugar con ellos. Por eso en esta edición no hay ascensos, ni descensos, ni filiales que no puedan subir. Lo explica [la página del manager](pcf3-manager.md).
 
 ## Por dónde empezar
 
-- **Antes de nada** → [el texto](pcf3-texto.html): sin el cifrado no verás ni un nombre.
-- **Cambiar un club: nombre, estadio, aforo, equipación** → [el bloque de equipo](pcf3-bloque-equipo.html).
-- **Cambiar jugadores, medias o el once** → [la ficha del jugador](pcf3-ficha-jugador.html).
-- **Cambiar la historia de la Liga, la Copa o Europa** → [las tablas de competición](pcf3-competiciones.html).
-- **Cambiar escudos, caras o sonidos** → [gráficos y sonido](pcf3-graficos.html).
-- **Cambiar el tope de extranjeros** → [el manager](pcf3-manager.html).
+- **Antes de nada** → [el texto](pcf3-texto.md): sin el cifrado no verás ni un nombre.
+- **Cambiar un club: nombre, estadio, aforo, equipación** → [el bloque de equipo](pcf3-bloque-equipo.md).
+- **Cambiar jugadores, medias o el once** → [la ficha del jugador](pcf3-ficha-jugador.md).
+- **Cambiar la historia de la Liga, la Copa o Europa** → [las tablas de competición](pcf3-competiciones.md).
+- **Cambiar escudos, caras o sonidos** → [gráficos y sonido](pcf3-graficos.md).
+- **Cambiar el tope de extranjeros** → [el manager](pcf3-manager.md).
 
-Y las [reglas de oro](reglas-de-oro.html) valen aquí igual que en las demás ediciones, con un matiz importante: en las bases de Liga de 3.0 **sí se puede alargar un texto**. Por qué, y dónde no, está en la página del texto.
+Y las [reglas de oro](reglas-de-oro.md) valen aquí igual que en las demás ediciones, con un matiz importante: en las bases de Liga de 3.0 **sí se puede alargar un texto**. Por qué, y dónde no, está en la página del texto.

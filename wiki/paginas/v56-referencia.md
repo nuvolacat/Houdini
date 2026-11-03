@@ -2,7 +2,7 @@
 
 La tabla completa, en orden, sin prosa. Es la **transcripción exacta** del formato: cada campo con su tamaño, tal y como los lee el juego.
 
-Para las explicaciones de por qué cada cosa es como es, ve a [el bloque de un equipo](v56-bloque-equipo.html). Esta página es para tenerla al lado mientras programas.
+Para las explicaciones de por qué cada cosa es como es, ve a [el bloque de un equipo](v56-bloque-equipo.md). Esta página es para tenerla al lado mientras programas.
 
 ## La versión del bloque decide el layout — y no con un solo umbral
 

@@ -2,7 +2,7 @@
 
 Todo lo de un club vive junto, en un bloque continuo: sus datos, su historial, su táctica, su entrenador y la lista completa de jugadores. Los bloques van uno detrás de otro, sin huecos.
 
-> **La tabla completa campo a campo, sin explicaciones, está en [la referencia](v56-referencia.html).** Esta página cuenta el porqué; aquélla es para tenerla al lado mientras programas.
+> **La tabla completa campo a campo, sin explicaciones, está en [la referencia](v56-referencia.md).** Esta página cuenta el porqué; aquélla es para tenerla al lado mientras programas.
 
 ## Cómo se encuentra el principio
 
@@ -18,7 +18,7 @@ Treinta y seis caracteres, con el año según la edición. Es el delimitador má
 
 Buscar la firma funciona, pero el juego no lo hace así. Al principio del fichero hay **una tabla con un registro por equipo**, y de ahí saca dónde empieza y cuánto ocupa cada bloque.
 
-**Esa tabla no es propia del fichero de equipos: es el índice normal de un contenedor**, exactamente igual que el de los escudos. Está descrito entero en [su propia página](v56-contenedor-pkf.html), y aquí solo va lo justo para seguir leyendo. Cada registro son **38 bytes**:
+**Esa tabla no es propia del fichero de equipos: es el índice normal de un contenedor**, exactamente igual que el de los escudos. Está descrito entero en [su propia página](v56-contenedor-pkf.md), y aquí solo va lo justo para seguir leyendo. Cada registro son **38 bytes**:
 
 | Posición | Tamaño | Qué es |
 |---|---|---|
@@ -265,7 +265,7 @@ Las dos cosas se deciden con **la versión del bloque**, esos dos bytes que van 
 
 La diferencia importa por las ediciones argentinas, que valen `0x203`: tienen el historial de 6.0 y **la cabecera de 5.0**. Con un solo umbral ese caso sale mal — y no falla ruidosamente, te da un aforo de ocho mil donde debería haber ciento y pico.
 
-La tabla completa de versiones está en [la referencia](v56-referencia.html). Y no lo decidas nunca por el nombre del fichero ni por la carátula del juego.
+La tabla completa de versiones está en [la referencia](v56-referencia.md). Y no lo decidas nunca por el nombre del fichero ni por la carátula del juego.
 
 Comprobación rápida de que has acertado: los números tienen que ser creíbles. El Barcelona debe darte sesenta y tantas temporadas en Primera, cerca de dos mil partidos jugados y más goles a favor que en contra. Si te salen más partidos ganados que jugados, te has descolocado.
 

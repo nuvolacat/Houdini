@@ -6,7 +6,7 @@ Qué decide `PCMANAG.DAT` y no está en los ficheros de equipo: qué clubes jueg
 
 ## Son programas, no datos
 
-`PCMANAG.DAT` es el modo manager y `PROMANAG.DAT`, el Pro Manager. La extensión engaña: son **ejecutables de 32 bits para DOS**, y cumplen el papel del `manager.exe` de 5.0 y 6.0 (ver [el ejecutable de 5.0 y 6.0](v56-manager-exe.html)).
+`PCMANAG.DAT` es el modo manager y `PROMANAG.DAT`, el Pro Manager. La extensión engaña: son **ejecutables de 32 bits para DOS**, y cumplen el papel del `manager.exe` de 5.0 y 6.0 (ver [el ejecutable de 5.0 y 6.0](v56-manager-exe.md)).
 
 Así que aplica la regla de siempre con los ejecutables: **solo se sustituye, nunca se añade ni se quita**. Si el fichero cambia de tamaño, deja de arrancar. Y haz copia antes de tocarlo.
 

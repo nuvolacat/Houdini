@@ -6,17 +6,17 @@
 
 | Quiero cambiar… | Está en | Cómo se accede |
 |---|---|---|
-| Nombre, dorsal, físico, demarcaciones de un jugador | El fichero de equipos, dentro del bloque de su club | [La ficha de un jugador](v56-ficha-jugador.html) |
-| Sus diez atributos | Los diez últimos bytes de su ficha | [La ficha de un jugador](v56-ficha-jugador.html) |
-| Su fecha de nacimiento, o sea su edad | Cuatro bytes del bloque fijo de la ficha | [La ficha de un jugador](v56-ficha-jugador.html) |
-| Quién es titular | El byte de posición en la plantilla | [La ficha de un jugador](v56-ficha-jugador.html) |
-| Nombre del club, estadio, aforo, presidente, presupuesto | La cabecera de su bloque | [El bloque de un equipo](v56-bloque-equipo.html) |
-| Historial, palmarés, posiciones por jornada | Detrás de la cabecera del bloque | [El bloque de un equipo](v56-bloque-equipo.html) |
-| Cómo se coloca el equipo en el campo | Los 176 bytes de táctica dibujada | [El bloque de un equipo](v56-bloque-equipo.html) |
-| Estilo de juego: presión, marcaje, entradas | Los 7 bytes de táctica de equipo | [El entrenador y la táctica](v56-entrenador.html) |
-| El entrenador y sus textos | Antes de los jugadores, marcado con `02` | [El entrenador y la táctica](v56-entrenador.html) |
-| Meter un nombre más largo de lo que cabe | Sacando el equipo a un DBC | [Los DBC](v56-dbc.html) |
-| Añadir un equipo que no existe | Un DBC con un puntero libre | [Los DBC](v56-dbc.html) |
+| Nombre, dorsal, físico, demarcaciones de un jugador | El fichero de equipos, dentro del bloque de su club | [La ficha de un jugador](v56-ficha-jugador.md) |
+| Sus diez atributos | Los diez últimos bytes de su ficha | [La ficha de un jugador](v56-ficha-jugador.md) |
+| Su fecha de nacimiento, o sea su edad | Cuatro bytes del bloque fijo de la ficha | [La ficha de un jugador](v56-ficha-jugador.md) |
+| Quién es titular | El byte de posición en la plantilla | [La ficha de un jugador](v56-ficha-jugador.md) |
+| Nombre del club, estadio, aforo, presidente, presupuesto | La cabecera de su bloque | [El bloque de un equipo](v56-bloque-equipo.md) |
+| Historial, palmarés, posiciones por jornada | Detrás de la cabecera del bloque | [El bloque de un equipo](v56-bloque-equipo.md) |
+| Cómo se coloca el equipo en el campo | Los 176 bytes de táctica dibujada | [El bloque de un equipo](v56-bloque-equipo.md) |
+| Estilo de juego: presión, marcaje, entradas | Los 7 bytes de táctica de equipo | [El entrenador y la táctica](v56-entrenador.md) |
+| El entrenador y sus textos | Antes de los jugadores, marcado con `02` | [El entrenador y la táctica](v56-entrenador.md) |
+| Meter un nombre más largo de lo que cabe | Sacando el equipo a un DBC | [Los DBC](v56-dbc.md) |
+| Añadir un equipo que no existe | Un DBC con un puntero libre | [Los DBC](v56-dbc.md) |
 
 ## Las imágenes
 
@@ -31,7 +31,7 @@
 | La camiseta del partido | `DATSIM`, y no son imágenes sino colores |
 | Foto de árbitro | `BIGARBIT` |
 
-Todo esto se explica en [escudos, fotos y banderas](v56-imagenes.html), y el atajo que evita abrir los contenedores está ahí también.
+Todo esto se explica en [escudos, fotos y banderas](v56-imagenes.md), y el atajo que evita abrir los contenedores está ahí también.
 
 ## El aspecto del juego
 
@@ -41,7 +41,7 @@ Todo esto se explica en [escudos, fotos y banderas](v56-imagenes.html), y el ata
 | Las paletas de color de cada pantalla | `DAT` |
 | Los gráficos de la base de datos | `RC_DBASE` |
 
-En [las pantallas del juego](v56-pantallas.html) y [los contenedores menos conocidos](v56-otros-contenedores.html).
+En [las pantallas del juego](v56-pantallas.md) y [los contenedores menos conocidos](v56-otros-contenedores.md).
 
 ## El sonido
 
@@ -51,7 +51,7 @@ En [las pantallas del juego](v56-pantallas.html) y [los contenedores menos conoc
 | Clics y cortinillas | La carpeta `SONIDOS`, audio en crudo sin cabecera |
 | Público y comentarios | La carpeta `SFX` |
 
-En [música y sonido](v56-sonido.html).
+En [música y sonido](v56-sonido.md).
 
 ## Lo que no está en los datos
 
@@ -64,7 +64,7 @@ En [música y sonido](v56-sonido.html).
 | **El nombre de las competiciones** | El ejecutable, en texto sin cifrar |
 | Los nombres que el juego inventa para la cantera | El contenedor de textos |
 
-En [el ejecutable](v56-manager-exe.html), [renombrar las competiciones](v56-nombres-competiciones.html) y [los nombres que el juego inventa](v56-textos.html).
+En [el ejecutable](v56-manager-exe.md), [renombrar las competiciones](v56-nombres-competiciones.md) y [los nombres que el juego inventa](v56-textos.md).
 
 ## Lo que no se puede cambiar
 

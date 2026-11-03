@@ -7,7 +7,7 @@ El club guarda sus datos, su historial de liga, su palmarés de copas, su tácti
 | Campo | Tamaño | Qué es |
 |---|---|---|
 | Firma | 36 bytes | `Copyright (c)1998 Dinamic Multimedia` |
-| Suma de longitudes | 2 bytes | calculada; ver [el contenedor](fdi-contenedor.html) |
+| Suma de longitudes | 2 bytes | calculada; ver [el contenedor](fdi-contenedor.md) |
 | Versión | 2 bytes | 700 |
 | Relleno | 1 byte | `00` |
 | Tipo de ficha | 1 byte | `0` liga jugable · `1` extranjero, ficha reducida |
@@ -31,8 +31,8 @@ El club guarda sus datos, su historial de liga, su palmarés de copas, su tácti
 | Filial | 2 bytes | *solo ficha completa*. Código del filial; `FFFF` = no tiene |
 | Historial de liga | 82 bytes | *solo ficha completa* |
 | Palmarés de copas | 1 + 3·n bytes | *solo ficha completa* |
-| Táctica dibujada | 1.760 bytes | ver [la táctica](fdi-tactica.html) |
-| Estilo de juego | 7 bytes | ver [la táctica](fdi-tactica.html) |
+| Táctica dibujada | 1.760 bytes | ver [la táctica](fdi-tactica.md) |
+| Estilo de juego | 7 bytes | ver [la táctica](fdi-tactica.md) |
 | Nº de entrenadores | 1 byte | |
 | Entrenadores | 4 bytes cada uno | código en el fichero de entrenadores |
 | Nº de jugadores | 1 byte | |
@@ -51,7 +51,7 @@ Son dos campos y miden cosas distintas:
 
 ### La lista de jugadores
 
-Cada entrada es una **marca de un byte** y el **código del jugador** en cuatro. La marca vale `0` si está en la plantilla y `1` si no. El orden de esta lista no decide la alineación: eso lo hace la posición en la plantilla de cada ficha (ver [la ficha del jugador](fdi-jugador.html)).
+Cada entrada es una **marca de un byte** y el **código del jugador** en cuatro. La marca vale `0` si está en la plantilla y `1` si no. El orden de esta lista no decide la alineación: eso lo hace la posición en la plantilla de cada ficha (ver [la ficha del jugador](fdi-jugador.md)).
 
 ## PC Fútbol 2000
 

@@ -18,7 +18,7 @@ Fíjate en lo que implica: **el año va delante del grupo que nombra, no detrás
 
 Cómo se sabe que el año abre y no cierra: por **la Guerra Civil**. Los años saltan de 1935 a 1939, y solo si el año abre el grupo cuadran las temporadas con el número de equipos que tuvo cada una de verdad. Si cerrara, la última Liga antes de la guerra saldría con el año de la primera de después.
 
-Todos los textos de estos cuatro ficheros llevan **dos bytes de longitud**, no uno, y van en Latin-1, no en la página de códigos de DOS. Está en [la página del texto](pcf3-texto.html).
+Todos los textos de estos cuatro ficheros llevan **dos bytes de longitud**, no uno, y van en Latin-1, no en la página de códigos de DOS. Está en [la página del texto](pcf3-texto.md).
 
 ## `LIGA.DBC`: la clasificación de cada temporada
 

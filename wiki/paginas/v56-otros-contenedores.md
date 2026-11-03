@@ -36,7 +36,7 @@ Es de los pocos sitios donde el juego guarda gente que no juega. Si actualizas l
 
 Dos contenedores con veinte imágenes cada uno, numeradas por equipo: `estadio` a 320 × 240 y `fondos` a pantalla completa, 640 × 480.
 
-Junto con la de `BIGCAMP`, que mide 200 × 140, son **tres imágenes distintas del mismo estadio** para tres sitios distintos del juego. Se detallan en [escudos, fotos y banderas](v56-imagenes.html).
+Junto con la de `BIGCAMP`, que mide 200 × 140, son **tres imágenes distintas del mismo estadio** para tres sitios distintos del juego. Se detallan en [escudos, fotos y banderas](v56-imagenes.md).
 
 ## `eqpcplus` — un contenedor lleno de DBC
 

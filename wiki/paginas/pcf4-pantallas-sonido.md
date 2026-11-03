@@ -19,7 +19,7 @@ No hay índice: las imágenes y las paletas van una detrás de otra y se encuent
 
 ### Las imágenes
 
-Cada una empieza con **la misma cabecera de 8 bytes que los `.DFG`** de la base de datos: `01`, ancho (2 bytes), alto (2 bytes), `04`, `00 00`. Detrás, los píxeles en el mismo formato: 16 colores en cuatro planos de bits, fila a fila, con el bit alto a la izquierda (ver [las imágenes](pcf4-imagenes.html)). La más grande mide 640 × 365.
+Cada una empieza con **la misma cabecera de 8 bytes que los `.DFG`** de la base de datos: `01`, ancho (2 bytes), alto (2 bytes), `04`, `00 00`. Detrás, los píxeles en el mismo formato: 16 colores en cuatro planos de bits, fila a fila, con el bit alto a la izquierda (ver [las imágenes](pcf4-imagenes.md)). La más grande mide 640 × 365.
 
 ### Las paletas
 
@@ -44,7 +44,7 @@ Empiezan con una cabecera de texto en claro, la presentación del fichero, que t
 | 4-5 | Posición en pantalla (x, y) |
 | 6 | Longitud del texto |
 
-Y detrás, el texto con el cifrado posicional explicado en [el texto](pcf4-texto.html): `carácter[i] = byte[i] XOR (0xC0 + longitud + i)`.
+Y detrás, el texto con el cifrado posicional explicado en [el texto](pcf4-texto.md): `carácter[i] = byte[i] XOR (0xC0 + longitud + i)`.
 
 Los textos van **en mayúsculas** y tienen sitio fijo. Edita en el sitio: recorta lo que sobre o rellena con espacios hasta la longitud original.
 

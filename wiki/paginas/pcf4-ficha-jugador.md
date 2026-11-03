@@ -2,7 +2,7 @@
 
 Cómo se guarda cada jugador dentro del fichero de equipo de la 4.x, con las tablas de códigos para interpretarlo. Son cuatro medias y cuatro habilidades sí/no, no las diez medias de 5.0 y 6.0.
 
-Los jugadores van al final del fichero de equipo, uno detrás de otro, después de los entrenadores (ver [el equipo](pcf4-equipo.html)). Cada ficha empieza con `01`.
+Los jugadores van al final del fichero de equipo, uno detrás de otro, después de los entrenadores (ver [el equipo](pcf4-equipo.md)). Cada ficha empieza con `01`.
 
 ## Los campos, en orden
 
@@ -90,7 +90,7 @@ El puntero tiene que ser único en todo el juego, no solo en el equipo.
 
 ### Demarcaciones
 
-Los códigos son **los mismos que en 5.0 y 6.0** (ver [las tablas de 5.0 y 6.0](v56-tablas.html)). Aquí van con los nombres que usa la documentación de la 4.0: volante, marcador, interior.
+Los códigos son **los mismos que en 5.0 y 6.0** (ver [las tablas de 5.0 y 6.0](v56-tablas.md)). Aquí van con los nombres que usa la documentación de la 4.0: volante, marcador, interior.
 
 | Código | Demarcación |
 |---|---|

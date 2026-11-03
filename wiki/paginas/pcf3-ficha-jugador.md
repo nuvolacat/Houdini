@@ -14,7 +14,7 @@ Campo a campo, cómo guarda 3.0 a cada jugador: dos nombres, un bloque fijo de 1
 | Textos de base de datos | texto | procedencia, comentario y biografía, con datos binarios entre medias |
 | Bloque de medias | 12 bytes | el valor, las cuatro medias y el byte de cierre |
 
-Los textos van como todos los de la base: un byte de longitud y el texto cifrado. Está en [la página del texto](pcf3-texto.html).
+Los textos van como todos los de la base: un byte de longitud y el texto cifrado. Está en [la página del texto](pcf3-texto.md).
 
 A diferencia de 5.0 y 6.0, **aquí no hay marca de inicio de ficha ni puntero de jugador**. Una ficha se reconoce por la forma: dos textos pegados seguidos de 13 bytes que encajan.
 
@@ -96,7 +96,7 @@ Con el **último** jugador de un equipo no basta con eso: detrás viene la cola 
 
 Las fichas teselan el bloque del equipo: cabecera del club, fichas una detrás de otra y una cola corta. Así que **añadir o quitar un jugador** es recolocar fichas enteras y dejar bien ese último byte: `1` en todas menos en la última. No hay ningún número que actualizar.
 
-Lo que no viaja con la ficha son **las fotos**. Los dos punteros del bloque fijo apuntan al `.DGF` de su equipo; si llevas al jugador a otro equipo, hay que copiar sus dos imágenes al `.DGF` del destino y cambiar los punteros. Cómo hacerlo sin desplazar nada está en [gráficos y sonido](pcf3-graficos.html).
+Lo que no viaja con la ficha son **las fotos**. Los dos punteros del bloque fijo apuntan al `.DGF` de su equipo; si llevas al jugador a otro equipo, hay que copiar sus dos imágenes al `.DGF` del destino y cambiar los punteros. Cómo hacerlo sin desplazar nada está en [gráficos y sonido](pcf3-graficos.md).
 
 ## El once: lo decide el dorsal
 

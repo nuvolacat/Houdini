@@ -152,11 +152,11 @@ Aparte de los números, hay comprobaciones que el programa hace y que se pueden 
 
 Que una casilla esté vacía **no significa que la regla no exista en ese juego**: significa que en esa compilación no se ha localizado dónde está. Y en algunos casos ni siquiera existe — en el ejecutable base de 5.0 y 6.0 no hay ninguno de los ocho sitios que en la Edición de Oro controlan el fichaje de extracomunitarios.
 
-La técnica para desactivarlas —cambiar el `74` por `EB`, o tapar el `0F 84` con seis `90`— está en [la otra página](v56-manager-exe.html).
+La técnica para desactivarlas —cambiar el `74` por `EB`, o tapar el `0F 84` con seis `90`— está en [la otra página](v56-manager-exe.md).
 
 ## Cómo se leen estas tablas
 
-Cada plaza son **dos bytes**, con el byte bajo primero, y el valor es **el identificador del equipo** en la numeración de Dinamic — la misma que da nombre a los escudos y que está en [las tablas de códigos](v56-tablas.html).
+Cada plaza son **dos bytes**, con el byte bajo primero, y el valor es **el identificador del equipo** en la numeración de Dinamic — la misma que da nombre a los escudos y que está en [las tablas de códigos](v56-tablas.md).
 
 Una tabla de veinte plazas ocupa cuarenta bytes seguidos desde la posición indicada.
 
@@ -164,7 +164,7 @@ Un valor a cero no siempre significa lo mismo: en una lista de participantes es 
 
 ## Las divisiones no están aquí
 
-Las tablas de la Liga española **no llevan posición fija en esta lista** porque se localizan buscándolas: son la única racha larga de identificadores que empieza por los equipos de Primera en el orden en que quedaron la temporada anterior. El método está en [la otra página](v56-manager-exe.html).
+Las tablas de la Liga española **no llevan posición fija en esta lista** porque se localizan buscándolas: son la única racha larga de identificadores que empieza por los equipos de Primera en el orden en que quedaron la temporada anterior. El método está en [la otra página](v56-manager-exe.md).
 
 ## Lo que falta por mapear
 
